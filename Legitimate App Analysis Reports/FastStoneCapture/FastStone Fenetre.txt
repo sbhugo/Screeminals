@@ -1,0 +1,2059 @@
+0x27011234  CreateCompatibleDC ( NULL ) 7:59:53.059 PM
+0xbf011219  CreateCompatibleDC ( NULL ) 7:59:53.059 PM
+0xb9050e25  CreateCompatibleBitmap ( 0x13011228, 424, 28 )  7:59:53.059 PM
+0x0085000f  SelectObject ( 0xbf011219, 0xb9050e25 ) 7:59:53.059 PM
+TRUE    StretchBlt ( 0xbf011219, 0, 0, 738, 28, 0x27011234, 0, 0, 738, 28, SRCCOPY )    7:59:53.059 PM
+
+0x9301121b  CreateCompatibleDC ( NULL ) 7:59:52.496 PM
+0x4d011285  CreateCompatibleDC ( NULL ) 7:59:52.481 PM
+0x49051237  CreateCompatibleBitmap ( 0x15011200, 424, 28 )  7:59:52.481 PM
+0x0085000f  SelectObject ( 0x4d011285, 0x49051237 ) 7:59:52.481 PM
+TRUE    StretchBlt ( 0x4d011285, 0, 0, 738, 28, 0x9301121b, 0, 0, 738, 28, SRCCOPY )    7:59:52.496 PM
+
+0x7f010e25  CreateCompatibleDC ( NULL ) 7:59:52.481 PM
+0x4c011285  CreateCompatibleDC ( NULL ) 7:59:52.465 PM
+0x48051237  CreateCompatibleBitmap ( 0x15011200, 424, 28 )  7:59:52.465 PM
+0x0085000f  SelectObject ( 0x4c011285, 0x48051237 ) 7:59:52.465 PM
+TRUE    StretchBlt ( 0x4c011285, 0, 0, 738, 28, 0x7f010e25, 0, 0, 738, 28, SRCCOPY )    7:59:52.481 PM
+
+0x810109a1  CreateCompatibleDC ( NULL ) 7:59:52.465 PM
+0x4b011285  CreateCompatibleDC ( NULL ) 7:59:52.465 PM
+0x47051237  CreateCompatibleBitmap ( 0x15011200, 424, 28 )  7:59:52.465 PM
+0x0085000f  SelectObject ( 0x4b011285, 0x47051237 ) 7:59:52.465 PM
+TRUE    StretchBlt ( 0x4b011285, 0, 0, 738, 28, 0x810109a1, 0, 0, 738, 28, SRCCOPY )    7:59:52.465 PM
+
+0x75010e25  CreateCompatibleDC ( NULL ) 7:59:52.028 PM
+0x7d01121b  CreateCompatibleDC ( NULL ) 7:59:52.028 PM
+0x30051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:52.028 PM
+0x0085000f  SelectObject ( 0x7d01121b, 0x30051235 ) 7:59:52.028 PM
+TRUE    StretchBlt ( 0x7d01121b, 0, 0, 738, 28, 0x75010e25, 0, 0, 738, 28, SRCCOPY )    7:59:52.043 PM
+
+0x3f011285  CreateCompatibleDC ( NULL ) 7:59:52.028 PM
+0x7c01121b  CreateCompatibleDC ( NULL ) 7:59:52.012 PM
+0x2f051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:52.012 PM
+0x0085000f  SelectObject ( 0x7c01121b, 0x2f051235 ) 7:59:52.012 PM
+TRUE    StretchBlt ( 0x7c01121b, 0, 0, 738, 28, 0x3f011285, 0, 0, 738, 28, SRCCOPY )    7:59:52.028 PM
+
+0x7b0109a1  CreateCompatibleDC ( NULL ) 7:59:52.012 PM
+0x7b01121b  CreateCompatibleDC ( NULL ) 7:59:52.012 PM
+0x2d051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:52.012 PM
+0x0085000f  SelectObject ( 0x7b01121b, 0x2d051235 ) 7:59:52.012 PM
+TRUE    StretchBlt ( 0x7b01121b, 0, 0, 738, 28, 0x7b0109a1, 0, 0, 738, 28, SRCCOPY )    7:59:52.012 PM
+
+0x6f010e25  CreateCompatibleDC ( NULL ) 7:59:51.997 PM
+0x7a01121b  CreateCompatibleDC ( NULL ) 7:59:51.997 PM
+0x2c051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.997 PM
+0x0085000f  SelectObject ( 0x7a01121b, 0x2c051235 ) 7:59:51.997 PM
+TRUE    StretchBlt ( 0x7a01121b, 0, 0, 738, 28, 0x6f010e25, 0, 0, 738, 28, SRCCOPY )    7:59:51.997 PM
+
+0x39011285  CreateCompatibleDC ( NULL ) 7:59:51.981 PM
+0x7901121b  CreateCompatibleDC ( NULL ) 7:59:51.981 PM
+0x2b051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.981 PM
+0x0085000f  SelectObject ( 0x7901121b, 0x2b051235 ) 7:59:51.981 PM
+TRUE    StretchBlt ( 0x7901121b, 0, 0, 738, 28, 0x39011285, 0, 0, 738, 28, SRCCOPY )    7:59:51.981 PM
+
+0x750109a1  CreateCompatibleDC ( NULL ) 7:59:51.965 PM
+0x7801121b  CreateCompatibleDC ( NULL ) 7:59:51.965 PM
+0x2a051235  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.965 PM
+0x0085000f  SelectObject ( 0x7801121b, 0x2a051235 ) 7:59:51.965 PM
+TRUE    StretchBlt ( 0x7801121b, 0, 0, 738, 28, 0x750109a1, 0, 0, 738, 28, SRCCOPY )    7:59:51.965 PM
+
+0x4601122c  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    BitBlt ( 0x7701121b, 387, 0, 33, 32, 0x4601122c, 0, 0, SRCCOPY )    7:59:51.965 PM
+
+0x2a01125d  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x4601122c  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x51051225  CreateCompatibleBitmap ( 0x0d01129a, 33, 32 )   7:59:51.950 PM
+0x0085000f  SelectObject ( 0x4601122c, 0x51051225 ) 7:59:51.950 PM
+TRUE    StretchBlt ( 0x4601122c, 3, 3, 26, 26, 0x2a01125d, 0, 0, 26, 26, SRCCOPY )  7:59:51.965 PM
+
+0x4601122c  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x2a01125d  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x24051234  CreateDIBSection ( 0x2a01125d, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.965 PM
+0x0085000f  SelectObject ( 0x2a01125d, 0x24051234 ) 7:59:51.965 PM
+TRUE    StretchBlt ( 0x2a01125d, 0, 0, 26, 26, 0x4601122c, 3, 3, 26, 26, SRCCOPY )  7:59:51.965 PM
+
+0x4301122c  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x4301122c, 0, 0, 26, 26, SRCCOPY )  7:59:51.950 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x4301122c  CreateCompatibleDC ( NULL ) 7:59:51.950 PM
+0x2905125d  CreateDIBSection ( 0x4301122c, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.950 PM
+0x0085000f  SelectObject ( 0x4301122c, 0x2905125d ) 7:59:51.950 PM
+TRUE    StretchBlt ( 0x4301122c, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.950 PM
+
+0x4201122c  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x4201122c, 0, 0, 26, 26, SRCCOPY )  7:59:51.950 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x4201122c  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x2805125d  CreateDIBSection ( 0x4201122c, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.950 PM
+0x0085000f  SelectObject ( 0x4201122c, 0x2805125d ) 7:59:51.950 PM
+TRUE    StretchBlt ( 0x4201122c, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.950 PM
+
+0x4c011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x4c011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x4c011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x2705125d  CreateDIBSection ( 0x4c011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.934 PM
+0x0085000f  SelectObject ( 0x4c011225, 0x2705125d ) 7:59:51.934 PM
+TRUE    StretchBlt ( 0x4c011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x4b011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x4b011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x4b011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x2605125d  CreateDIBSection ( 0x4b011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.934 PM
+0x0085000f  SelectObject ( 0x4b011225, 0x2605125d ) 7:59:51.934 PM
+TRUE    StretchBlt ( 0x4b011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x4a011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x4a011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x4a011225  CreateCompatibleDC ( NULL ) 7:59:51.934 PM
+0x2505125d  CreateDIBSection ( 0x4a011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.934 PM
+0x0085000f  SelectObject ( 0x4a011225, 0x2505125d ) 7:59:51.934 PM
+TRUE    StretchBlt ( 0x4a011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.934 PM
+
+0x49011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x49011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x49011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x2405125d  CreateDIBSection ( 0x49011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.918 PM
+0x0085000f  SelectObject ( 0x49011225, 0x2405125d ) 7:59:51.918 PM
+TRUE    StretchBlt ( 0x49011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x48011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x48011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x48011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x2305125d  CreateDIBSection ( 0x48011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.918 PM
+0x0085000f  SelectObject ( 0x48011225, 0x2305125d ) 7:59:51.918 PM
+TRUE    StretchBlt ( 0x48011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x47011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x47011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x47011225  CreateCompatibleDC ( NULL ) 7:59:51.918 PM
+0x2205125d  CreateDIBSection ( 0x47011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.918 PM
+0x0085000f  SelectObject ( 0x47011225, 0x2205125d ) 7:59:51.918 PM
+TRUE    StretchBlt ( 0x47011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.918 PM
+
+0x46011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x46011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x46011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x2105125d  CreateDIBSection ( 0x46011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.887 PM
+0x0085000f  SelectObject ( 0x46011225, 0x2105125d ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x46011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0x45011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x45011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x45011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x2005125d  CreateDIBSection ( 0x45011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.887 PM
+0x0085000f  SelectObject ( 0x45011225, 0x2005125d ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x45011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0x44011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x29051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.887 PM
+0x0085000f  SelectObject ( 0x7701121b, 0x29051235 ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x7701121b, 3, 3, 26, 26, 0x44011225, 0, 0, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0x7701121b  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x44011225  CreateCompatibleDC ( NULL ) 7:59:51.887 PM
+0x1f05125d  CreateDIBSection ( 0x44011225, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.887 PM
+0x0085000f  SelectObject ( 0x44011225, 0x1f05125d ) 7:59:51.887 PM
+TRUE    StretchBlt ( 0x44011225, 0, 0, 26, 26, 0x7701121b, 3, 3, 26, 26, SRCCOPY )  7:59:51.887 PM
+
+0xaa011219  CreateCompatibleDC ( NULL ) 7:59:51.700 PM
+0x3a011225  CreateCompatibleDC ( NULL ) 7:59:51.700 PM
+0x5a051283  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.700 PM
+0x0085000f  SelectObject ( 0x3a011225, 0x5a051283 ) 7:59:51.700 PM
+TRUE    StretchBlt ( 0x3a011225, 0, 0, 738, 28, 0xaa011219, 0, 0, 738, 28, SRCCOPY )    7:59:51.700 PM
+
+0x67010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    BitBlt ( 0x39011225, 387, 0, 33, 32, 0x67010e25, 0, 0, SRCCOPY )    7:59:51.700 PM
+
+0x1e01125d  CreateCompatibleDC ( NULL ) 7:59:51.700 PM
+0x67010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x2d051285  CreateCompatibleBitmap ( 0x0d01129a, 33, 32 )   7:59:51.684 PM
+0x0085000f  SelectObject ( 0x67010e25, 0x2d051285 ) 7:59:51.684 PM
+TRUE    StretchBlt ( 0x67010e25, 3, 3, 26, 26, 0x1e01125d, 0, 0, 26, 26, SRCCOPY )  7:59:51.700 PM
+
+0x67010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x1e01125d  CreateCompatibleDC ( NULL ) 7:59:51.700 PM
+0x23051234  CreateDIBSection ( 0x1e01125d, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.700 PM
+0x0085000f  SelectObject ( 0x1e01125d, 0x23051234 ) 7:59:51.700 PM
+TRUE    StretchBlt ( 0x1e01125d, 0, 0, 26, 26, 0x67010e25, 3, 3, 26, 26, SRCCOPY )  7:59:51.700 PM
+
+0x64010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x64010e25, 0, 0, 26, 26, SRCCOPY )  7:59:51.684 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x64010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x1d05125d  CreateDIBSection ( 0x64010e25, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.684 PM
+0x0085000f  SelectObject ( 0x64010e25, 0x1d05125d ) 7:59:51.684 PM
+TRUE    StretchBlt ( 0x64010e25, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.684 PM
+
+0x63010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x63010e25, 0, 0, 26, 26, SRCCOPY )  7:59:51.684 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x63010e25  CreateCompatibleDC ( NULL ) 7:59:51.684 PM
+0x1c05125d  CreateDIBSection ( 0x63010e25, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.684 PM
+0x0085000f  SelectObject ( 0x63010e25, 0x1c05125d ) 7:59:51.684 PM
+TRUE    StretchBlt ( 0x63010e25, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.684 PM
+
+0x28011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x28011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x28011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x1b05125d  CreateDIBSection ( 0x28011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.668 PM
+0x0085000f  SelectObject ( 0x28011285, 0x1b05125d ) 7:59:51.668 PM
+TRUE    StretchBlt ( 0x28011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x27011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x27011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x27011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x1a05125d  CreateDIBSection ( 0x27011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.668 PM
+0x0085000f  SelectObject ( 0x27011285, 0x1a05125d ) 7:59:51.668 PM
+TRUE    StretchBlt ( 0x27011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x26011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x26011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x26011285  CreateCompatibleDC ( NULL ) 7:59:51.668 PM
+0x1905125d  CreateDIBSection ( 0x26011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.668 PM
+0x0085000f  SelectObject ( 0x26011285, 0x1905125d ) 7:59:51.668 PM
+TRUE    StretchBlt ( 0x26011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.668 PM
+
+0x25011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x25011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x25011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x1805125d  CreateDIBSection ( 0x25011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.653 PM
+0x0085000f  SelectObject ( 0x25011285, 0x1805125d ) 7:59:51.653 PM
+TRUE    StretchBlt ( 0x25011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x24011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x24011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x24011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x1705125d  CreateDIBSection ( 0x24011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.653 PM
+0x0085000f  SelectObject ( 0x24011285, 0x1705125d ) 7:59:51.653 PM
+TRUE    StretchBlt ( 0x24011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x23011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x23011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x23011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x1605125d  CreateDIBSection ( 0x23011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.653 PM
+0x0085000f  SelectObject ( 0x23011285, 0x1605125d ) 7:59:51.653 PM
+TRUE    StretchBlt ( 0x23011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x22011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x22011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x22011285  CreateCompatibleDC ( NULL ) 7:59:51.653 PM
+0x1505125d  CreateDIBSection ( 0x22011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.653 PM
+0x0085000f  SelectObject ( 0x22011285, 0x1505125d ) 7:59:51.653 PM
+TRUE    StretchBlt ( 0x22011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.653 PM
+
+0x21011285  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x21011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.622 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x21011285  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x1405125d  CreateDIBSection ( 0x21011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.622 PM
+0x0085000f  SelectObject ( 0x21011285, 0x1405125d ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x21011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.622 PM
+
+0x20011285  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x59051283  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.622 PM
+0x0085000f  SelectObject ( 0x39011225, 0x59051283 ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x39011225, 3, 3, 26, 26, 0x20011285, 0, 0, 26, 26, SRCCOPY )  7:59:51.622 PM
+
+0x39011225  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x20011285  CreateCompatibleDC ( NULL ) 7:59:51.622 PM
+0x1305125d  CreateDIBSection ( 0x20011285, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.622 PM
+0x0085000f  SelectObject ( 0x20011285, 0x1305125d ) 7:59:51.622 PM
+TRUE    StretchBlt ( 0x20011285, 0, 0, 26, 26, 0x39011225, 3, 3, 26, 26, SRCCOPY )  7:59:51.622 PM
+
+0x1b011235  CreateCompatibleDC ( NULL ) 7:59:51.606 PM
+0x38011225  CreateCompatibleDC ( NULL ) 7:59:51.606 PM
+0x58051283  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.606 PM
+0x0085000f  SelectObject ( 0x38011225, 0x58051283 ) 7:59:51.606 PM
+TRUE    StretchBlt ( 0x38011225, 0, 0, 738, 28, 0x1b011235, 0, 0, 738, 28, SRCCOPY )    7:59:51.606 PM
+
+0x22011234  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x22011234, 0, 0, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x22011234  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x44050e15  CreateDIBSection ( 0x22011234, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.153 PM
+0x0085000f  SelectObject ( 0x22011234, 0x44050e15 ) 7:59:51.153 PM
+TRUE    StretchBlt ( 0x22011234, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x6501121b  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x6501121b, 0, 0, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x6501121b  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x2405125e  CreateDIBSection ( 0x6501121b, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.153 PM
+0x0085000f  SelectObject ( 0x6501121b, 0x2405125e ) 7:59:51.153 PM
+TRUE    StretchBlt ( 0x6501121b, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x41010e15  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x41010e15, 0, 0, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x41010e15  CreateCompatibleDC ( NULL ) 7:59:51.153 PM
+0x400511c0  CreateDIBSection ( 0x41010e15, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.153 PM
+0x0085000f  SelectObject ( 0x41010e15, 0x400511c0 ) 7:59:51.153 PM
+TRUE    StretchBlt ( 0x41010e15, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.153 PM
+
+0x17011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x17011230, 0, 0, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x17011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x3f0511c0  CreateDIBSection ( 0x17011230, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.137 PM
+0x0085000f  SelectObject ( 0x17011230, 0x3f0511c0 ) 7:59:51.137 PM
+TRUE    StretchBlt ( 0x17011230, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x16011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x16011230, 0, 0, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x16011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x3e0511c0  CreateDIBSection ( 0x16011230, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.137 PM
+0x0085000f  SelectObject ( 0x16011230, 0x3e0511c0 ) 7:59:51.137 PM
+TRUE    StretchBlt ( 0x16011230, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x15011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x15011230, 0, 0, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x15011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x3d0511c0  CreateDIBSection ( 0x15011230, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.137 PM
+0x0085000f  SelectObject ( 0x15011230, 0x3d0511c0 ) 7:59:51.137 PM
+TRUE    StretchBlt ( 0x15011230, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x14011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x14011230, 0, 0, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14011230  CreateCompatibleDC ( NULL ) 7:59:51.137 PM
+0x3c0511c0  CreateDIBSection ( 0x14011230, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.137 PM
+0x0085000f  SelectObject ( 0x14011230, 0x3c0511c0 ) 7:59:51.137 PM
+TRUE    StretchBlt ( 0x14011230, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.137 PM
+
+0x13011230  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x13011230, 0, 0, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x13011230  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x3b0511c0  CreateDIBSection ( 0x13011230, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.122 PM
+0x0085000f  SelectObject ( 0x13011230, 0x3b0511c0 ) 7:59:51.122 PM
+TRUE    StretchBlt ( 0x13011230, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x19011236  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x19011236, 0, 0, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x19011236  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0xab051229  CreateDIBSection ( 0x19011236, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.122 PM
+0x0085000f  SelectObject ( 0x19011236, 0xab051229 ) 7:59:51.122 PM
+TRUE    StretchBlt ( 0x19011236, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x1101125c  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x1101125c, 0, 0, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x1101125c  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x2005125e  CreateDIBSection ( 0x1101125c, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.122 PM
+0x0085000f  SelectObject ( 0x1101125c, 0x2005125e ) 7:59:51.122 PM
+TRUE    StretchBlt ( 0x1101125c, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x07011237  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    BitBlt ( 0x1201125d, 33, 0, 33, 32, 0x07011237, 0, 0, SRCCOPY ) 7:59:51.122 PM
+
+0x1e01125e  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0x07011237  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x370511c0  CreateCompatibleBitmap ( 0x0d01129a, 33, 32 )   7:59:51.106 PM
+0x0085000f  SelectObject ( 0x07011237, 0x370511c0 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x07011237, 3, 3, 26, 26, 0x1e01125e, 0, 0, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x07011237  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x1e01125e  CreateCompatibleDC ( NULL ) 7:59:51.122 PM
+0xa4051214  CreateDIBSection ( 0x1e01125e, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.122 PM
+0x0085000f  SelectObject ( 0x1e01125e, 0xa4051214 ) 7:59:51.122 PM
+TRUE    StretchBlt ( 0x1e01125e, 0, 0, 26, 26, 0x07011237, 3, 3, 26, 26, SRCCOPY )  7:59:51.122 PM
+
+0x05011237  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x14051235  CreateCompatibleBitmap ( 0x0d01129a, 420, 32 )  7:59:51.106 PM
+0x0085000f  SelectObject ( 0x1201125d, 0x14051235 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x1201125d, 3, 3, 26, 26, 0x05011237, 0, 0, 26, 26, SRCCOPY )  7:59:51.106 PM
+
+0x1201125d  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x05011237  CreateCompatibleDC ( NULL ) 7:59:51.106 PM
+0x87051219  CreateDIBSection ( 0x05011237, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:51.106 PM
+0x0085000f  SelectObject ( 0x05011237, 0x87051219 ) 7:59:51.106 PM
+TRUE    StretchBlt ( 0x05011237, 0, 0, 26, 26, 0x1201125d, 3, 3, 26, 26, SRCCOPY )  7:59:51.106 PM
+
+0x12011235  CreateCompatibleDC ( NULL ) 7:59:51.090 PM
+0x0d01125c  CreateCompatibleDC ( NULL ) 7:59:51.090 PM
+0x1005125d  CreateCompatibleBitmap ( 0x0d01129a, 424, 28 )  7:59:51.090 PM
+0x0085000f  SelectObject ( 0x0d01125c, 0x1005125d ) 7:59:51.090 PM
+TRUE    StretchBlt ( 0x0d01125c, 0, 0, 738, 28, 0x12011235, 0, 0, 738, 28, SRCCOPY )    7:59:51.090 PM
+
+0xae010e14  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0xc00112bb  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0x190510b0  CreateDIBSection ( 0x0d01129a, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:50.950 PM
+0x0085000f  SelectObject ( 0xc00112bb, 0x190510b0 ) 7:59:50.950 PM
+TRUE    BitBlt ( 0xc00112bb, 0, 48, 16, 16, 0xae010e14, 0, 48, 2229030 )    7:59:50.950 PM
+
+0xae010e14  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0xc00112bb  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0x190510b0  CreateDIBSection ( 0x0d01129a, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:50.950 PM
+0x0085000f  SelectObject ( 0xc00112bb, 0x190510b0 ) 7:59:50.950 PM
+TRUE    BitBlt ( 0xc00112bb, 0, 32, 16, 16, 0xae010e14, 0, 32, 2229030 )    7:59:50.950 PM
+
+0xae010e14  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0xc00112bb  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0x190510b0  CreateDIBSection ( 0x0d01129a, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:50.950 PM
+0x0085000f  SelectObject ( 0xc00112bb, 0x190510b0 ) 7:59:50.950 PM
+TRUE    BitBlt ( 0xc00112bb, 0, 16, 16, 16, 0xae010e14, 0, 16, 2229030 )    7:59:50.950 PM
+
+0xae010e14  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0xc00112bb  CreateCompatibleDC ( NULL ) 7:59:50.950 PM
+0x190510b0  CreateDIBSection ( 0x0d01129a, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:50.950 PM
+0x0085000f  SelectObject ( 0xc00112bb, 0x190510b0 ) 7:59:50.950 PM
+TRUE    BitBlt ( 0xc00112bb, 0, 0, 16, 16, 0xae010e14, 0, 0, 2229030 )  7:59:50.950 PM
+
+0x64010771  CreateCompatibleDC ( NULL ) 7:59:50.231 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0x64010771, 0, 0, 63, 39, SRCCOPY )  7:59:50.231 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x64010771  CreateCompatibleDC ( NULL ) 7:59:50.231 PM
+0xf60512ae  CreateDIBSection ( 0x64010771, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.231 PM
+0x0085000f  SelectObject ( 0x64010771, 0xf60512ae ) 7:59:50.231 PM
+TRUE    StretchBlt ( 0x64010771, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.231 PM
+
+0x0e0112bd  CreateCompatibleDC ( NULL ) 7:59:50.216 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 4, 2, 50, 39, 0x0e0112bd, 0, 0, 50, 39, SRCCOPY )  7:59:50.216 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x0e0112bd  CreateCompatibleDC ( NULL ) 7:59:50.216 PM
+0xf50512ae  CreateDIBSection ( 0x0e0112bd, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.216 PM
+0x0085000f  SelectObject ( 0x0e0112bd, 0xf50512ae ) 7:59:50.216 PM
+TRUE    StretchBlt ( 0x0e0112bd, 0, 0, 50, 39, 0x6f010e04, 4, 2, 50, 39, SRCCOPY )  7:59:50.216 PM
+
+0x0d0112bd  CreateCompatibleDC ( NULL ) 7:59:50.216 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0x0d0112bd, 0, 0, 63, 39, SRCCOPY )  7:59:50.216 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x0d0112bd  CreateCompatibleDC ( NULL ) 7:59:50.216 PM
+0xf40512ae  CreateDIBSection ( 0x0d0112bd, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.216 PM
+0x0085000f  SelectObject ( 0x0d0112bd, 0xf40512ae ) 7:59:50.216 PM
+TRUE    StretchBlt ( 0x0d0112bd, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.216 PM
+
+0x0c0112bd  CreateCompatibleDC ( NULL ) 7:59:50.200 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0x0c0112bd, 0, 0, 63, 39, SRCCOPY )  7:59:50.200 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x0c0112bd  CreateCompatibleDC ( NULL ) 7:59:50.200 PM
+0xf30512ae  CreateDIBSection ( 0x0c0112bd, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.200 PM
+0x0085000f  SelectObject ( 0x0c0112bd, 0xf30512ae ) 7:59:50.200 PM
+TRUE    StretchBlt ( 0x0c0112bd, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.200 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    BitBlt ( 0x6f010e04, 3, 2, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.200 PM
+
+0x4d0111cc  CreateCompatibleDC ( NULL ) 7:59:50.184 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    StretchBlt ( 0x6001076e, 0, 0, 63, 39, 0x4d0111cc, 0, 0, 63, 39, SRCCOPY )  7:59:50.184 PM
+
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x4d0111cc  CreateCompatibleDC ( NULL ) 7:59:50.184 PM
+0xf20512ae  CreateDIBSection ( 0x4d0111cc, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:50.184 PM
+0x0085000f  SelectObject ( 0x4d0111cc, 0xf20512ae ) 7:59:50.184 PM
+TRUE    StretchBlt ( 0x4d0111cc, 0, 0, 63, 39, 0x6001076e, 0, 0, 63, 39, SRCCOPY )  7:59:50.184 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    BitBlt ( 0x6001076e, 0, 0, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.184 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xa1011212, 0x2b051289 ) 7:59:50.012 PM
+TRUE    BitBlt ( 0xa1011212, 0, 0, 63, 39, 0x6f010e04, 3, 2, SRCCOPY )  7:59:50.184 PM
+
+0x4c0111cc  CreateCompatibleDC ( NULL ) 7:59:50.184 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0x4c0111cc, 0, 0, 63, 39, SRCCOPY )  7:59:50.184 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x4c0111cc  CreateCompatibleDC ( NULL ) 7:59:50.184 PM
+0xf10512ae  CreateDIBSection ( 0x4c0111cc, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.184 PM
+0x0085000f  SelectObject ( 0x4c0111cc, 0xf10512ae ) 7:59:50.184 PM
+TRUE    StretchBlt ( 0x4c0111cc, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.184 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    BitBlt ( 0x6f010e04, 3, 2, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.169 PM
+
+0xde0112ba  CreateCompatibleDC ( NULL ) 7:59:50.169 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    StretchBlt ( 0x6001076e, 0, 0, 63, 39, 0xde0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:50.169 PM
+
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0xde0112ba  CreateCompatibleDC ( NULL ) 7:59:50.169 PM
+0x080512bd  CreateDIBSection ( 0xde0112ba, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:50.169 PM
+0x0085000f  SelectObject ( 0xde0112ba, 0x080512bd ) 7:59:50.169 PM
+TRUE    StretchBlt ( 0xde0112ba, 0, 0, 63, 39, 0x6001076e, 0, 0, 63, 39, SRCCOPY )  7:59:50.169 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    BitBlt ( 0x6001076e, 0, 0, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.169 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xa1011212, 0x2b051289 ) 7:59:50.012 PM
+TRUE    BitBlt ( 0xa1011212, 0, 0, 63, 39, 0x6f010e04, 3, 2, SRCCOPY )  7:59:50.169 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    BitBlt ( 0x6f010e04, 3, 2, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.153 PM
+
+0x8c0112bb  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    StretchBlt ( 0x6001076e, 0, 0, 63, 39, 0x8c0112bb, 0, 0, 63, 39, SRCCOPY )  7:59:50.153 PM
+
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x8c0112bb  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0xf00512ae  CreateDIBSection ( 0x8c0112bb, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:50.153 PM
+0x0085000f  SelectObject ( 0x8c0112bb, 0xf00512ae ) 7:59:50.153 PM
+TRUE    StretchBlt ( 0x8c0112bb, 0, 0, 63, 39, 0x6001076e, 0, 0, 63, 39, SRCCOPY )  7:59:50.153 PM
+
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6001076e  CreateCompatibleDC ( NULL ) 7:59:50.153 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x6001076e, 0x670512bf ) 7:59:50.153 PM
+TRUE    BitBlt ( 0x6001076e, 0, 0, 63, 39, 0xa1011212, 0, 0, SRCCOPY )  7:59:50.153 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xa1011212  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xa1011212, 0x2b051289 ) 7:59:50.012 PM
+TRUE    BitBlt ( 0xa1011212, 0, 0, 63, 39, 0x6f010e04, 3, 2, SRCCOPY )  7:59:50.153 PM
+
+0x8a0112bb  CreateCompatibleDC ( NULL ) 7:59:50.106 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    BitBlt ( 0x6f010e04, 968, 0, 75, 70, 0x8a0112bb, 0, 0, SRCCOPY )    7:59:50.138 PM
+
+0x870112bb  CreateCompatibleDC ( NULL ) 7:59:50.106 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 7, 2, 50, 39, 0x870112bb, 0, 0, 50, 39, SRCCOPY )  7:59:50.106 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x870112bb  CreateCompatibleDC ( NULL ) 7:59:50.106 PM
+0x3c0511cc  CreateDIBSection ( 0x870112bb, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.106 PM
+0x0085000f  SelectObject ( 0x870112bb, 0x3c0511cc ) 7:59:50.106 PM
+TRUE    StretchBlt ( 0x870112bb, 0, 0, 50, 39, 0x6f010e04, 7, 2, 50, 39, SRCCOPY )  7:59:50.106 PM
+
+0xd00112ba  CreateCompatibleDC ( NULL ) 7:59:50.091 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 12, 2, 63, 39, 0xd00112ba, 0, 0, 63, 39, SRCCOPY ) 7:59:50.091 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xd00112ba  CreateCompatibleDC ( NULL ) 7:59:50.091 PM
+0x3b0511cc  CreateDIBSection ( 0xd00112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.091 PM
+0x0085000f  SelectObject ( 0xd00112ba, 0x3b0511cc ) 7:59:50.091 PM
+TRUE    StretchBlt ( 0xd00112ba, 0, 0, 63, 39, 0x6f010e04, 12, 2, 63, 39, SRCCOPY ) 7:59:50.091 PM
+
+0xcf0112ba  CreateCompatibleDC ( NULL ) 7:59:50.091 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0xcf0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:50.091 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xcf0112ba  CreateCompatibleDC ( NULL ) 7:59:50.091 PM
+0x3a0511cc  CreateDIBSection ( 0xcf0112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.091 PM
+0x0085000f  SelectObject ( 0xcf0112ba, 0x3a0511cc ) 7:59:50.091 PM
+TRUE    StretchBlt ( 0xcf0112ba, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.091 PM
+
+0xce0112ba  CreateCompatibleDC ( NULL ) 7:59:50.075 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0xce0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:50.075 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xce0112ba  CreateCompatibleDC ( NULL ) 7:59:50.075 PM
+0x390511cc  CreateDIBSection ( 0xce0112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.075 PM
+0x0085000f  SelectObject ( 0xce0112ba, 0x390511cc ) 7:59:50.075 PM
+TRUE    StretchBlt ( 0xce0112ba, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.075 PM
+
+0xcd0112ba  CreateCompatibleDC ( NULL ) 7:59:50.075 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 6, 2, 63, 39, 0xcd0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:50.075 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xcd0112ba  CreateCompatibleDC ( NULL ) 7:59:50.075 PM
+0x380511cc  CreateDIBSection ( 0xcd0112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.075 PM
+0x0085000f  SelectObject ( 0xcd0112ba, 0x380511cc ) 7:59:50.075 PM
+TRUE    StretchBlt ( 0xcd0112ba, 0, 0, 63, 39, 0x6f010e04, 6, 2, 63, 39, SRCCOPY )  7:59:50.075 PM
+
+0xc7011223  CreateCompatibleDC ( NULL ) 7:59:50.059 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 3, 2, 63, 39, 0xc7011223, 0, 0, 63, 39, SRCCOPY )  7:59:50.059 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xc7011223  CreateCompatibleDC ( NULL ) 7:59:50.059 PM
+0x040512bd  CreateDIBSection ( 0xc7011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.059 PM
+0x0085000f  SelectObject ( 0xc7011223, 0x040512bd ) 7:59:50.059 PM
+TRUE    StretchBlt ( 0xc7011223, 0, 0, 63, 39, 0x6f010e04, 3, 2, 63, 39, SRCCOPY )  7:59:50.059 PM
+
+0xc5011223  CreateCompatibleDC ( NULL ) 7:59:50.059 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 9, 2, 50, 39, 0xc5011223, 0, 0, 50, 39, SRCCOPY )  7:59:50.059 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xc5011223  CreateCompatibleDC ( NULL ) 7:59:50.059 PM
+0x360511cc  CreateDIBSection ( 0xc5011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.059 PM
+0x0085000f  SelectObject ( 0xc5011223, 0x360511cc ) 7:59:50.059 PM
+TRUE    StretchBlt ( 0xc5011223, 0, 0, 50, 39, 0x6f010e04, 9, 2, 50, 39, SRCCOPY )  7:59:50.059 PM
+
+0x7b0112bb  CreateCompatibleDC ( NULL ) 7:59:50.044 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 17, 2, 63, 39, 0x7b0112bb, 0, 0, 63, 39, SRCCOPY ) 7:59:50.044 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x7b0112bb  CreateCompatibleDC ( NULL ) 7:59:50.044 PM
+0xc2051223  CreateDIBSection ( 0x7b0112bb, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.044 PM
+0x0085000f  SelectObject ( 0x7b0112bb, 0xc2051223 ) 7:59:50.044 PM
+TRUE    StretchBlt ( 0x7b0112bb, 0, 0, 63, 39, 0x6f010e04, 17, 2, 63, 39, SRCCOPY ) 7:59:50.044 PM
+
+0x7a0112bb  CreateCompatibleDC ( NULL ) 7:59:50.044 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 9, 2, 63, 39, 0x7a0112bb, 0, 0, 63, 39, SRCCOPY )  7:59:50.044 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x7a0112bb  CreateCompatibleDC ( NULL ) 7:59:50.044 PM
+0xc1051223  CreateDIBSection ( 0x7a0112bb, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.044 PM
+0x0085000f  SelectObject ( 0x7a0112bb, 0xc1051223 ) 7:59:50.044 PM
+TRUE    StretchBlt ( 0x7a0112bb, 0, 0, 63, 39, 0x6f010e04, 9, 2, 63, 39, SRCCOPY )  7:59:50.044 PM
+
+0xbd011223  CreateCompatibleDC ( NULL ) 7:59:50.028 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 8, 2, 63, 39, 0xbd011223, 0, 0, 63, 39, SRCCOPY )  7:59:50.028 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xbd011223  CreateCompatibleDC ( NULL ) 7:59:50.028 PM
+0x350511cc  CreateDIBSection ( 0xbd011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.028 PM
+0x0085000f  SelectObject ( 0xbd011223, 0x350511cc ) 7:59:50.028 PM
+TRUE    StretchBlt ( 0xbd011223, 0, 0, 63, 39, 0x6f010e04, 8, 2, 63, 39, SRCCOPY )  7:59:50.028 PM
+
+0xbc011223  CreateCompatibleDC ( NULL ) 7:59:50.028 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 6, 2, 63, 39, 0xbc011223, 0, 0, 63, 39, SRCCOPY )  7:59:50.028 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xbc011223  CreateCompatibleDC ( NULL ) 7:59:50.028 PM
+0x340511cc  CreateDIBSection ( 0xbc011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.028 PM
+0x0085000f  SelectObject ( 0xbc011223, 0x340511cc ) 7:59:50.028 PM
+TRUE    StretchBlt ( 0xbc011223, 0, 0, 63, 39, 0x6f010e04, 6, 2, 63, 39, SRCCOPY )  7:59:50.028 PM
+
+0x4101076e  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0xeb0512b3  CreateCompatibleBitmap ( 0x0d01129a, 1803, 70 ) 7:59:49.981 PM
+0x0085000f  SelectObject ( 0x6f010e04, 0xeb0512b3 ) 7:59:49.981 PM
+TRUE    StretchBlt ( 0x6f010e04, 4, 2, 50, 39, 0x4101076e, 0, 0, 50, 39, SRCCOPY )  7:59:50.012 PM
+
+0x6f010e04  CreateCompatibleDC ( NULL ) 7:59:49.981 PM
+0x4101076e  CreateCompatibleDC ( NULL ) 7:59:50.012 PM
+0x330511cc  CreateDIBSection ( 0x4101076e, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:50.012 PM
+0x0085000f  SelectObject ( 0x4101076e, 0x330511cc ) 7:59:50.012 PM
+TRUE    StretchBlt ( 0x4101076e, 0, 0, 50, 39, 0x6f010e04, 4, 2, 50, 39, SRCCOPY )  7:59:50.012 PM
+
+0xc50112ba  CreateCompatibleDC ( NULL ) 7:59:49.950 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    BitBlt ( 0x47011218, 968, 0, 75, 70, 0xc50112ba, 0, 0, SRCCOPY )    7:59:49.981 PM
+
+0xc20112ba  CreateCompatibleDC ( NULL ) 7:59:49.950 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0xc20112ba, 0, 0, 63, 39, SRCCOPY )  7:59:49.950 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0xc20112ba  CreateCompatibleDC ( NULL ) 7:59:49.950 PM
+0x090512bc  CreateDIBSection ( 0xc20112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.950 PM
+0x0085000f  SelectObject ( 0xc20112ba, 0x090512bc ) 7:59:49.950 PM
+TRUE    StretchBlt ( 0xc20112ba, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.950 PM
+
+0x930112be  CreateCompatibleDC ( NULL ) 7:59:49.934 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 4, 2, 50, 39, 0x930112be, 0, 0, 50, 39, SRCCOPY )  7:59:49.934 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x930112be  CreateCompatibleDC ( NULL ) 7:59:49.934 PM
+0x080512bc  CreateDIBSection ( 0x930112be, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.934 PM
+0x0085000f  SelectObject ( 0x930112be, 0x080512bc ) 7:59:49.934 PM
+TRUE    StretchBlt ( 0x930112be, 0, 0, 50, 39, 0x47011218, 4, 2, 50, 39, SRCCOPY )  7:59:49.934 PM
+
+0x920112be  CreateCompatibleDC ( NULL ) 7:59:49.934 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0x920112be, 0, 0, 63, 39, SRCCOPY )  7:59:49.934 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x920112be  CreateCompatibleDC ( NULL ) 7:59:49.934 PM
+0x070512bc  CreateDIBSection ( 0x920112be, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.934 PM
+0x0085000f  SelectObject ( 0x920112be, 0x070512bc ) 7:59:49.934 PM
+TRUE    StretchBlt ( 0x920112be, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.934 PM
+
+0x910112be  CreateCompatibleDC ( NULL ) 7:59:49.919 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0x910112be, 0, 0, 63, 39, SRCCOPY )  7:59:49.919 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x910112be  CreateCompatibleDC ( NULL ) 7:59:49.919 PM
+0x060512bc  CreateDIBSection ( 0x910112be, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.919 PM
+0x0085000f  SelectObject ( 0x910112be, 0x060512bc ) 7:59:49.919 PM
+TRUE    StretchBlt ( 0x910112be, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.919 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    BitBlt ( 0x47011218, 3, 2, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.919 PM
+
+0xbf0112ae  CreateCompatibleDC ( NULL ) 7:59:49.903 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    StretchBlt ( 0xe90112b3, 0, 0, 63, 39, 0xbf0112ae, 0, 0, 63, 39, SRCCOPY )  7:59:49.903 PM
+
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0xbf0112ae  CreateCompatibleDC ( NULL ) 7:59:49.903 PM
+0x050512bc  CreateDIBSection ( 0xbf0112ae, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:49.903 PM
+0x0085000f  SelectObject ( 0xbf0112ae, 0x050512bc ) 7:59:49.903 PM
+TRUE    StretchBlt ( 0xbf0112ae, 0, 0, 63, 39, 0xe90112b3, 0, 0, 63, 39, SRCCOPY )  7:59:49.903 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    BitBlt ( 0xe90112b3, 0, 0, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.903 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x51011222, 0x2b051289 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x51011222, 0, 0, 63, 39, 0x47011218, 3, 2, SRCCOPY )  7:59:49.903 PM
+
+0xbe0112ae  CreateCompatibleDC ( NULL ) 7:59:49.903 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0xbe0112ae, 0, 0, 63, 39, SRCCOPY )  7:59:49.903 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0xbe0112ae  CreateCompatibleDC ( NULL ) 7:59:49.903 PM
+0x040512bc  CreateDIBSection ( 0xbe0112ae, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.903 PM
+0x0085000f  SelectObject ( 0xbe0112ae, 0x040512bc ) 7:59:49.903 PM
+TRUE    StretchBlt ( 0xbe0112ae, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.903 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    BitBlt ( 0x47011218, 3, 2, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.888 PM
+
+0xbc0112ae  CreateCompatibleDC ( NULL ) 7:59:49.888 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    StretchBlt ( 0xe90112b3, 0, 0, 63, 39, 0xbc0112ae, 0, 0, 63, 39, SRCCOPY )  7:59:49.888 PM
+
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0xbc0112ae  CreateCompatibleDC ( NULL ) 7:59:49.888 PM
+0x8d0512be  CreateDIBSection ( 0xbc0112ae, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:49.888 PM
+0x0085000f  SelectObject ( 0xbc0112ae, 0x8d0512be ) 7:59:49.888 PM
+TRUE    StretchBlt ( 0xbc0112ae, 0, 0, 63, 39, 0xe90112b3, 0, 0, 63, 39, SRCCOPY )  7:59:49.888 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    BitBlt ( 0xe90112b3, 0, 0, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.888 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x51011222, 0x2b051289 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x51011222, 0, 0, 63, 39, 0x47011218, 3, 2, SRCCOPY )  7:59:49.872 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    BitBlt ( 0x47011218, 3, 2, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.872 PM
+
+0x2b01076e  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    StretchBlt ( 0xe90112b3, 0, 0, 63, 39, 0x2b01076e, 0, 0, 63, 39, SRCCOPY )  7:59:49.872 PM
+
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x2b01076e  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x030512bc  CreateDIBSection ( 0x2b01076e, 0x0019f20c, DIB_RGB_COLORS, 0x0019f280, NULL, 0 )    7:59:49.872 PM
+0x0085000f  SelectObject ( 0x2b01076e, 0x030512bc ) 7:59:49.872 PM
+TRUE    StretchBlt ( 0x2b01076e, 0, 0, 63, 39, 0xe90112b3, 0, 0, 63, 39, SRCCOPY )  7:59:49.872 PM
+
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0xe90112b3  CreateCompatibleDC ( NULL ) 7:59:49.872 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0xe90112b3, 0x670512bf ) 7:59:49.872 PM
+TRUE    BitBlt ( 0xe90112b3, 0, 0, 63, 39, 0x51011222, 0, 0, SRCCOPY )  7:59:49.872 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x51011222  CreateCompatibleDC ( NULL ) 7:59:49.856 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x51011222, 0x2b051289 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x51011222, 0, 0, 63, 39, 0x47011218, 3, 2, SRCCOPY )  7:59:49.872 PM
+
+0x8b0112be  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x2a01076e  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x670512bf  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x2a01076e, 0x670512bf ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x2a01076e, 0, 0, 63, 39, 0x8b0112be, 0, 0, SRCCOPY )  7:59:49.856 PM
+
+0x8a0112be  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x660112bf  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x1a050771  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x660112bf, 0x1a050771 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x660112bf, 0, 0, 63, 26, 0x8a0112be, 0, 0, SRCCOPY )  7:59:49.856 PM
+
+0x890112be  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x19010771  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x2b051289  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x19010771, 0x2b051289 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x19010771, 0, 0, 63, 39, 0x890112be, 0, 0, SRCCOPY )  7:59:49.856 PM
+
+0x880112be  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x2a011289  CreateCompatibleDC ( 0x13011228 )   7:59:49.856 PM
+0x4f051222  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f230, NULL, 0 )    7:59:49.856 PM
+0x0085000f  SelectObject ( 0x2a011289, 0x4f051222 ) 7:59:49.856 PM
+TRUE    BitBlt ( 0x2a011289, 0, 0, 63, 26, 0x880112be, 0, 0, SRCCOPY )  7:59:49.856 PM
+
+0x4d011222  CreateCompatibleDC ( NULL ) 7:59:49.841 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 7, 2, 50, 39, 0x4d011222, 0, 0, 50, 39, SRCCOPY )  7:59:49.841 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x4d011222  CreateCompatibleDC ( NULL ) 7:59:49.841 PM
+0x870512be  CreateDIBSection ( 0x4d011222, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.841 PM
+0x0085000f  SelectObject ( 0x4d011222, 0x870512be ) 7:59:49.841 PM
+TRUE    StretchBlt ( 0x4d011222, 0, 0, 50, 39, 0x47011218, 7, 2, 50, 39, SRCCOPY )  7:59:49.841 PM
+
+0x4c011222  CreateCompatibleDC ( NULL ) 7:59:49.841 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 12, 2, 63, 39, 0x4c011222, 0, 0, 63, 39, SRCCOPY ) 7:59:49.841 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x4c011222  CreateCompatibleDC ( NULL ) 7:59:49.841 PM
+0x860512be  CreateDIBSection ( 0x4c011222, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.841 PM
+0x0085000f  SelectObject ( 0x4c011222, 0x860512be ) 7:59:49.841 PM
+TRUE    StretchBlt ( 0x4c011222, 0, 0, 63, 39, 0x47011218, 12, 2, 63, 39, SRCCOPY ) 7:59:49.841 PM
+
+0x8e011223  CreateCompatibleDC ( NULL ) 7:59:49.825 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0x8e011223, 0, 0, 63, 39, SRCCOPY )  7:59:49.825 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x8e011223  CreateCompatibleDC ( NULL ) 7:59:49.825 PM
+0x850512be  CreateDIBSection ( 0x8e011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.825 PM
+0x0085000f  SelectObject ( 0x8e011223, 0x850512be ) 7:59:49.825 PM
+TRUE    StretchBlt ( 0x8e011223, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.825 PM
+
+0x8d011223  CreateCompatibleDC ( NULL ) 7:59:49.825 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0x8d011223, 0, 0, 63, 39, SRCCOPY )  7:59:49.825 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x8d011223  CreateCompatibleDC ( NULL ) 7:59:49.825 PM
+0x840512be  CreateDIBSection ( 0x8d011223, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.825 PM
+0x0085000f  SelectObject ( 0x8d011223, 0x840512be ) 7:59:49.825 PM
+TRUE    StretchBlt ( 0x8d011223, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.825 PM
+
+0x210111cc  CreateCompatibleDC ( NULL ) 7:59:49.809 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 6, 2, 63, 39, 0x210111cc, 0, 0, 63, 39, SRCCOPY )  7:59:49.809 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x210111cc  CreateCompatibleDC ( NULL ) 7:59:49.809 PM
+0x47051222  CreateDIBSection ( 0x210111cc, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.809 PM
+0x0085000f  SelectObject ( 0x210111cc, 0x47051222 ) 7:59:49.809 PM
+TRUE    StretchBlt ( 0x210111cc, 0, 0, 63, 39, 0x47011218, 6, 2, 63, 39, SRCCOPY )  7:59:49.809 PM
+
+0xae0112ae  CreateCompatibleDC ( NULL ) 7:59:49.809 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 3, 2, 63, 39, 0xae0112ae, 0, 0, 63, 39, SRCCOPY )  7:59:49.809 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0xae0112ae  CreateCompatibleDC ( NULL ) 7:59:49.809 PM
+0x830512be  CreateDIBSection ( 0xae0112ae, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.809 PM
+0x0085000f  SelectObject ( 0xae0112ae, 0x830512be ) 7:59:49.809 PM
+TRUE    StretchBlt ( 0xae0112ae, 0, 0, 63, 39, 0x47011218, 3, 2, 63, 39, SRCCOPY )  7:59:49.809 PM
+
+0xac0112ae  CreateCompatibleDC ( NULL ) 7:59:49.794 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 9, 2, 50, 39, 0xac0112ae, 0, 0, 50, 39, SRCCOPY )  7:59:49.794 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0xac0112ae  CreateCompatibleDC ( NULL ) 7:59:49.794 PM
+0x820512be  CreateDIBSection ( 0xac0112ae, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.794 PM
+0x0085000f  SelectObject ( 0xac0112ae, 0x820512be ) 7:59:49.794 PM
+TRUE    StretchBlt ( 0xac0112ae, 0, 0, 50, 39, 0x47011218, 9, 2, 50, 39, SRCCOPY )  7:59:49.794 PM
+
+0xab0112ae  CreateCompatibleDC ( NULL ) 7:59:49.794 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 17, 2, 63, 39, 0xab0112ae, 0, 0, 63, 39, SRCCOPY ) 7:59:49.794 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0xab0112ae  CreateCompatibleDC ( NULL ) 7:59:49.794 PM
+0x810512be  CreateDIBSection ( 0xab0112ae, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.794 PM
+0x0085000f  SelectObject ( 0xab0112ae, 0x810512be ) 7:59:49.794 PM
+TRUE    StretchBlt ( 0xab0112ae, 0, 0, 63, 39, 0x47011218, 17, 2, 63, 39, SRCCOPY ) 7:59:49.794 PM
+
+0x9d0112ba  CreateCompatibleDC ( NULL ) 7:59:49.778 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 9, 2, 63, 39, 0x9d0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:49.778 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x9d0112ba  CreateCompatibleDC ( NULL ) 7:59:49.778 PM
+0x800512be  CreateDIBSection ( 0x9d0112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.778 PM
+0x0085000f  SelectObject ( 0x9d0112ba, 0x800512be ) 7:59:49.778 PM
+TRUE    StretchBlt ( 0x9d0112ba, 0, 0, 63, 39, 0x47011218, 9, 2, 63, 39, SRCCOPY )  7:59:49.778 PM
+
+0x9c0112ba  CreateCompatibleDC ( NULL ) 7:59:49.778 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 8, 2, 63, 39, 0x9c0112ba, 0, 0, 63, 39, SRCCOPY )  7:59:49.778 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x9c0112ba  CreateCompatibleDC ( NULL ) 7:59:49.778 PM
+0x7f0512be  CreateDIBSection ( 0x9c0112ba, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.778 PM
+0x0085000f  SelectObject ( 0x9c0112ba, 0x7f0512be ) 7:59:49.778 PM
+TRUE    StretchBlt ( 0x9c0112ba, 0, 0, 63, 39, 0x47011218, 8, 2, 63, 39, SRCCOPY )  7:59:49.778 PM
+
+0x160111cc  CreateCompatibleDC ( NULL ) 7:59:49.763 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 6, 2, 63, 39, 0x160111cc, 0, 0, 63, 39, SRCCOPY )  7:59:49.763 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x160111cc  CreateCompatibleDC ( NULL ) 7:59:49.763 PM
+0x9b0512ba  CreateDIBSection ( 0x160111cc, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.763 PM
+0x0085000f  SelectObject ( 0x160111cc, 0x9b0512ba ) 7:59:49.763 PM
+TRUE    StretchBlt ( 0x160111cc, 0, 0, 63, 39, 0x47011218, 6, 2, 63, 39, SRCCOPY )  7:59:49.763 PM
+
+0x120111cc  CreateCompatibleDC ( NULL ) 7:59:49.763 PM
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x6e050e04  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:49.731 PM
+0x0085000f  SelectObject ( 0x47011218, 0x6e050e04 ) 7:59:49.731 PM
+TRUE    StretchBlt ( 0x47011218, 4, 2, 50, 39, 0x120111cc, 0, 0, 50, 39, SRCCOPY )  7:59:49.763 PM
+
+0x47011218  CreateCompatibleDC ( NULL ) 7:59:49.731 PM
+0x120111cc  CreateCompatibleDC ( NULL ) 7:59:49.763 PM
+0x9a0512ba  CreateDIBSection ( 0x120111cc, 0x0019f210, DIB_RGB_COLORS, 0x0019f284, NULL, 0 )    7:59:49.763 PM
+0x0085000f  SelectObject ( 0x120111cc, 0x9a0512ba ) 7:59:49.763 PM
+TRUE    StretchBlt ( 0x120111cc, 0, 0, 50, 39, 0x47011218, 4, 2, 50, 39, SRCCOPY )  7:59:49.763 PM
+
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0xbe011289  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x6a051299  CreateCompatibleBitmap ( 0x0501127e, 1803, 32 ) 7:59:47.544 PM
+0x0085000f  SelectObject ( 0xbe011289, 0x6a051299 ) 7:59:47.544 PM
+TRUE    BitBlt ( 0xbe011289, 3, 3, 26, 26, 0x120112a5, 0, 0, SRCCOPY )  7:59:47.685 PM
+
+0x1e0112a8  CreateCompatibleDC ( NULL ) 7:59:47.685 PM
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x720512a9  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x16010edd, 0x720512a9 ) 7:59:47.669 PM
+TRUE    StretchBlt ( 0x16010edd, 0, 0, 26, 26, 0x1e0112a8, 0, 0, 26, 26, SRCCOPY )  7:59:47.685 PM
+
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x1e0112a8  CreateCompatibleDC ( NULL ) 7:59:47.685 PM
+0x060512b5  CreateDIBSection ( 0x1e0112a8, 0x0019eb74, DIB_RGB_COLORS, 0x0019ebe8, NULL, 0 )    7:59:47.685 PM
+0x0085000f  SelectObject ( 0x1e0112a8, 0x060512b5 ) 7:59:47.685 PM
+TRUE    StretchBlt ( 0x1e0112a8, 0, 0, 26, 26, 0x16010edd, 0, 0, 26, 26, SRCCOPY )  7:59:47.685 PM
+
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x720512a9  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x16010edd, 0x720512a9 ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x16010edd, 0, 0, 26, 26, 0x120112a5, 0, 0, SRCCOPY )  7:59:47.685 PM
+
+0xbe011289  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x3c05129e  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x120112a5, 0x3c05129e ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x120112a5, 0, 0, 26, 26, 0xbe011289, 3, 3, SRCCOPY )  7:59:47.685 PM
+
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0xbe011289  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x6a051299  CreateCompatibleBitmap ( 0x0501127e, 1803, 32 ) 7:59:47.544 PM
+0x0085000f  SelectObject ( 0xbe011289, 0x6a051299 ) 7:59:47.544 PM
+TRUE    BitBlt ( 0xbe011289, 3, 3, 26, 26, 0x120112a5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0x22010e25  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x720512a9  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x16010edd, 0x720512a9 ) 7:59:47.669 PM
+TRUE    StretchBlt ( 0x16010edd, 0, 0, 26, 26, 0x22010e25, 0, 0, 26, 26, SRCCOPY )  7:59:47.669 PM
+
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x22010e25  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x000512b6  CreateDIBSection ( 0x22010e25, 0x0019eb74, DIB_RGB_COLORS, 0x0019ebe8, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x22010e25, 0x000512b6 ) 7:59:47.669 PM
+TRUE    StretchBlt ( 0x22010e25, 0, 0, 26, 26, 0x16010edd, 0, 0, 26, 26, SRCCOPY )  7:59:47.669 PM
+
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x16010edd  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x720512a9  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x16010edd, 0x720512a9 ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x16010edd, 0, 0, 26, 26, 0x120112a5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0xbe011289  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x120112a5  CreateCompatibleDC ( NULL ) 7:59:47.669 PM
+0x3c05129e  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x120112a5, 0x3c05129e ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x120112a5, 0, 0, 26, 26, 0xbe011289, 3, 3, SRCCOPY )  7:59:47.669 PM
+
+0x040112b5  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x21010e25  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x720512a9  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x21010e25, 0x720512a9 ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x21010e25, 0, 0, 26, 26, 0x040112b5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0x030112b5  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x710112a9  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x15050edd  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x710112a9, 0x15050edd ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x710112a9, 0, 0, 26, 39, 0x030112b5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0x020112b5  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x14010edd  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x3c05129e  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x14010edd, 0x3c05129e ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x14010edd, 0, 0, 26, 26, 0x020112b5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0x010112b5  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x3b01129e  CreateCompatibleDC ( 0x13011228 )   7:59:47.669 PM
+0x100512a5  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019eb98, NULL, 0 )    7:59:47.669 PM
+0x0085000f  SelectObject ( 0x3b01129e, 0x100512a5 ) 7:59:47.669 PM
+TRUE    BitBlt ( 0x3b01129e, 0, 0, 26, 39, 0x010112b5, 0, 0, SRCCOPY )  7:59:47.669 PM
+
+0x770112a3  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x770112a3, 0, 0, 63, 39, SRCCOPY )  7:59:47.544 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x770112a3  CreateCompatibleDC ( NULL ) 7:59:47.544 PM
+0x8405129d  CreateDIBSection ( 0x770112a3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.544 PM
+0x0085000f  SelectObject ( 0x770112a3, 0x8405129d ) 7:59:47.544 PM
+TRUE    StretchBlt ( 0x770112a3, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.544 PM
+
+0x84011286  CreateCompatibleDC ( NULL ) 7:59:47.529 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 4, 2, 50, 39, 0x84011286, 0, 0, 50, 39, SRCCOPY )  7:59:47.529 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x84011286  CreateCompatibleDC ( NULL ) 7:59:47.529 PM
+0x220512b4  CreateDIBSection ( 0x84011286, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.529 PM
+0x0085000f  SelectObject ( 0x84011286, 0x220512b4 ) 7:59:47.529 PM
+TRUE    StretchBlt ( 0x84011286, 0, 0, 50, 39, 0x7f01113b, 4, 2, 50, 39, SRCCOPY )  7:59:47.529 PM
+
+0x82011286  CreateCompatibleDC ( NULL ) 7:59:47.529 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x82011286, 0, 0, 63, 39, SRCCOPY )  7:59:47.529 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x82011286  CreateCompatibleDC ( NULL ) 7:59:47.529 PM
+0x8105129d  CreateDIBSection ( 0x82011286, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.529 PM
+0x0085000f  SelectObject ( 0x82011286, 0x8105129d ) 7:59:47.529 PM
+TRUE    StretchBlt ( 0x82011286, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.529 PM
+
+0x8001129d  CreateCompatibleDC ( NULL ) 7:59:47.513 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x8001129d, 0, 0, 63, 39, SRCCOPY )  7:59:47.513 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x8001129d  CreateCompatibleDC ( NULL ) 7:59:47.513 PM
+0x210512b4  CreateDIBSection ( 0x8001129d, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.513 PM
+0x0085000f  SelectObject ( 0x8001129d, 0x210512b4 ) 7:59:47.513 PM
+TRUE    StretchBlt ( 0x8001129d, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.513 PM
+
+0x68011299  CreateCompatibleDC ( NULL ) 7:59:47.310 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    BitBlt ( 0x7f01113b, 3, 2, 63, 39, 0x68011299, 0, 0, SRCCOPY )  7:59:47.513 PM
+
+0xbd011289  CreateCompatibleDC ( NULL ) 7:59:47.451 PM
+0x6f0112aa  CreateCompatibleDC ( NULL ) 7:59:47.497 PM
+0x200512b4  CreateDIBSection ( 0x6f0112aa, 0x0019eb74, DIB_RGB_COLORS, 0x0019ebe8, NULL, 0 )    7:59:47.497 PM
+0x0085000f  SelectObject ( 0x6f0112aa, 0x200512b4 ) 7:59:47.497 PM
+TRUE    StretchBlt ( 0x6f0112aa, 0, 0, 63, 39, 0xbd011289, 0, 0, 63, 39, SRCCOPY )  7:59:47.497 PM
+
+0x6e0112aa  CreateCompatibleDC ( NULL ) 7:59:47.497 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x6e0112aa, 0, 0, 63, 39, SRCCOPY )  7:59:47.497 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x6e0112aa  CreateCompatibleDC ( NULL ) 7:59:47.497 PM
+0x1f0512b4  CreateDIBSection ( 0x6e0112aa, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.497 PM
+0x0085000f  SelectObject ( 0x6e0112aa, 0x1f0512b4 ) 7:59:47.497 PM
+TRUE    StretchBlt ( 0x6e0112aa, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.497 PM
+
+0x68011299  CreateCompatibleDC ( NULL ) 7:59:47.310 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    BitBlt ( 0x7f01113b, 3, 2, 63, 39, 0x68011299, 0, 0, SRCCOPY )  7:59:47.482 PM
+
+0xbd011289  CreateCompatibleDC ( NULL ) 7:59:47.451 PM
+0x6d0112aa  CreateCompatibleDC ( NULL ) 7:59:47.482 PM
+0x1e0512b4  CreateDIBSection ( 0x6d0112aa, 0x0019eb74, DIB_RGB_COLORS, 0x0019ebe8, NULL, 0 )    7:59:47.482 PM
+0x0085000f  SelectObject ( 0x6d0112aa, 0x1e0512b4 ) 7:59:47.482 PM
+TRUE    StretchBlt ( 0x6d0112aa, 0, 0, 63, 39, 0xbd011289, 0, 0, 63, 39, SRCCOPY )  7:59:47.482 PM
+
+0x68011299  CreateCompatibleDC ( NULL ) 7:59:47.310 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    BitBlt ( 0x7f01113b, 3, 2, 63, 39, 0x68011299, 0, 0, SRCCOPY )  7:59:47.466 PM
+
+0xbd011289  CreateCompatibleDC ( NULL ) 7:59:47.451 PM
+0x7b01129d  CreateCompatibleDC ( NULL ) 7:59:47.451 PM
+0x0b0512a2  CreateDIBSection ( 0x7b01129d, 0x0019eb74, DIB_RGB_COLORS, 0x0019ebe8, NULL, 0 )    7:59:47.451 PM
+0x0085000f  SelectObject ( 0x7b01129d, 0x0b0512a2 ) 7:59:47.451 PM
+TRUE    StretchBlt ( 0x7b01129d, 0, 0, 63, 39, 0xbd011289, 0, 0, 63, 39, SRCCOPY )  7:59:47.451 PM
+
+0x7901129d  CreateCompatibleDC ( NULL ) 7:59:47.419 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    BitBlt ( 0x7f01113b, 968, 0, 75, 70, 0x7901129d, 0, 0, SRCCOPY )    7:59:47.451 PM
+
+0x7601129d  CreateCompatibleDC ( NULL ) 7:59:47.404 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 7, 2, 50, 39, 0x7601129d, 0, 0, 50, 39, SRCCOPY )  7:59:47.404 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7601129d  CreateCompatibleDC ( NULL ) 7:59:47.404 PM
+0x76051286  CreateDIBSection ( 0x7601129d, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.404 PM
+0x0085000f  SelectObject ( 0x7601129d, 0x76051286 ) 7:59:47.404 PM
+TRUE    StretchBlt ( 0x7601129d, 0, 0, 50, 39, 0x7f01113b, 7, 2, 50, 39, SRCCOPY )  7:59:47.404 PM
+
+0x2d0112b3  CreateCompatibleDC ( NULL ) 7:59:47.404 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 12, 2, 63, 39, 0x2d0112b3, 0, 0, 63, 39, SRCCOPY ) 7:59:47.404 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x2d0112b3  CreateCompatibleDC ( NULL ) 7:59:47.404 PM
+0x130512b4  CreateDIBSection ( 0x2d0112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.404 PM
+0x0085000f  SelectObject ( 0x2d0112b3, 0x130512b4 ) 7:59:47.404 PM
+TRUE    StretchBlt ( 0x2d0112b3, 0, 0, 63, 39, 0x7f01113b, 12, 2, 63, 39, SRCCOPY ) 7:59:47.404 PM
+
+0x2c0112b3  CreateCompatibleDC ( NULL ) 7:59:47.388 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x2c0112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.388 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x2c0112b3  CreateCompatibleDC ( NULL ) 7:59:47.388 PM
+0x120512b4  CreateDIBSection ( 0x2c0112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.388 PM
+0x0085000f  SelectObject ( 0x2c0112b3, 0x120512b4 ) 7:59:47.388 PM
+TRUE    StretchBlt ( 0x2c0112b3, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.388 PM
+
+0x2b0112b3  CreateCompatibleDC ( NULL ) 7:59:47.388 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x2b0112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.388 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x2b0112b3  CreateCompatibleDC ( NULL ) 7:59:47.388 PM
+0x110512b4  CreateDIBSection ( 0x2b0112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.388 PM
+0x0085000f  SelectObject ( 0x2b0112b3, 0x110512b4 ) 7:59:47.388 PM
+TRUE    StretchBlt ( 0x2b0112b3, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.388 PM
+
+0x2a0112b3  CreateCompatibleDC ( NULL ) 7:59:47.373 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 6, 2, 63, 39, 0x2a0112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.373 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x2a0112b3  CreateCompatibleDC ( NULL ) 7:59:47.373 PM
+0x100512b4  CreateDIBSection ( 0x2a0112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.373 PM
+0x0085000f  SelectObject ( 0x2a0112b3, 0x100512b4 ) 7:59:47.373 PM
+TRUE    StretchBlt ( 0x2a0112b3, 0, 0, 63, 39, 0x7f01113b, 6, 2, 63, 39, SRCCOPY )  7:59:47.373 PM
+
+0x3a0112a9  CreateCompatibleDC ( NULL ) 7:59:47.373 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 3, 2, 63, 39, 0x3a0112a9, 0, 0, 63, 39, SRCCOPY )  7:59:47.373 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x3a0112a9  CreateCompatibleDC ( NULL ) 7:59:47.373 PM
+0x640512a3  CreateDIBSection ( 0x3a0112a9, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.373 PM
+0x0085000f  SelectObject ( 0x3a0112a9, 0x640512a3 ) 7:59:47.373 PM
+TRUE    StretchBlt ( 0x3a0112a9, 0, 0, 63, 39, 0x7f01113b, 3, 2, 63, 39, SRCCOPY )  7:59:47.373 PM
+
+0x380112a9  CreateCompatibleDC ( NULL ) 7:59:47.357 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 9, 2, 50, 39, 0x380112a9, 0, 0, 50, 39, SRCCOPY )  7:59:47.357 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x380112a9  CreateCompatibleDC ( NULL ) 7:59:47.357 PM
+0x0e0512b4  CreateDIBSection ( 0x380112a9, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.357 PM
+0x0085000f  SelectObject ( 0x380112a9, 0x0e0512b4 ) 7:59:47.357 PM
+TRUE    StretchBlt ( 0x380112a9, 0, 0, 50, 39, 0x7f01113b, 9, 2, 50, 39, SRCCOPY )  7:59:47.357 PM
+
+0x370112a9  CreateCompatibleDC ( NULL ) 7:59:47.357 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 17, 2, 63, 39, 0x370112a9, 0, 0, 63, 39, SRCCOPY ) 7:59:47.357 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x370112a9  CreateCompatibleDC ( NULL ) 7:59:47.357 PM
+0x0d0512b4  CreateDIBSection ( 0x370112a9, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.357 PM
+0x0085000f  SelectObject ( 0x370112a9, 0x0d0512b4 ) 7:59:47.357 PM
+TRUE    StretchBlt ( 0x370112a9, 0, 0, 63, 39, 0x7f01113b, 17, 2, 63, 39, SRCCOPY ) 7:59:47.357 PM
+
+0x240112b3  CreateCompatibleDC ( NULL ) 7:59:47.341 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 9, 2, 63, 39, 0x240112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.341 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x240112b3  CreateCompatibleDC ( NULL ) 7:59:47.341 PM
+0x080512b2  CreateDIBSection ( 0x240112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.341 PM
+0x0085000f  SelectObject ( 0x240112b3, 0x080512b2 ) 7:59:47.341 PM
+TRUE    StretchBlt ( 0x240112b3, 0, 0, 63, 39, 0x7f01113b, 9, 2, 63, 39, SRCCOPY )  7:59:47.341 PM
+
+0x230112b3  CreateCompatibleDC ( NULL ) 7:59:47.326 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 8, 2, 63, 39, 0x230112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.341 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x230112b3  CreateCompatibleDC ( NULL ) 7:59:47.326 PM
+0x070512b2  CreateDIBSection ( 0x230112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.326 PM
+0x0085000f  SelectObject ( 0x230112b3, 0x070512b2 ) 7:59:47.326 PM
+TRUE    StretchBlt ( 0x230112b3, 0, 0, 63, 39, 0x7f01113b, 8, 2, 63, 39, SRCCOPY )  7:59:47.326 PM
+
+0x220112b3  CreateCompatibleDC ( NULL ) 7:59:47.326 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 6, 2, 63, 39, 0x220112b3, 0, 0, 63, 39, SRCCOPY )  7:59:47.326 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x220112b3  CreateCompatibleDC ( NULL ) 7:59:47.326 PM
+0x060512b2  CreateDIBSection ( 0x220112b3, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.326 PM
+0x0085000f  SelectObject ( 0x220112b3, 0x060512b2 ) 7:59:47.326 PM
+TRUE    StretchBlt ( 0x220112b3, 0, 0, 63, 39, 0x7f01113b, 6, 2, 63, 39, SRCCOPY )  7:59:47.326 PM
+
+0x63011286  CreateCompatibleDC ( NULL ) 7:59:47.310 PM
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x7105128d  CreateCompatibleBitmap ( 0x13011228, 1803, 70 ) 7:59:47.216 PM
+0x0085000f  SelectObject ( 0x7f01113b, 0x7105128d ) 7:59:47.216 PM
+TRUE    StretchBlt ( 0x7f01113b, 4, 2, 50, 39, 0x63011286, 0, 0, 50, 39, SRCCOPY )  7:59:47.310 PM
+
+0x7f01113b  CreateCompatibleDC ( NULL ) 7:59:47.216 PM
+0x63011286  CreateCompatibleDC ( NULL ) 7:59:47.310 PM
+0x210512b3  CreateDIBSection ( 0x63011286, 0x0019eb78, DIB_RGB_COLORS, 0x0019ebec, NULL, 0 )    7:59:47.310 PM
+0x0085000f  SelectObject ( 0x63011286, 0x210512b3 ) 7:59:47.310 PM
+TRUE    StretchBlt ( 0x63011286, 0, 0, 50, 39, 0x7f01113b, 4, 2, 50, 39, SRCCOPY )  7:59:47.310 PM
+
+0x0f011263  CreateCompatibleDC ( NULL ) 7:59:46.254 PM
+0x43010e0d  CreateCompatibleDC ( NULL ) 7:59:46.254 PM
+0x5f05122b  CreateCompatibleBitmap ( 0x13011228, 50, 312 )  7:59:46.254 PM
+0x0085000f  SelectObject ( 0x43010e0d, 0x5f05122b ) 7:59:46.254 PM
+TRUE    BitBlt ( 0x43010e0d, 0, 0, 50, 39, 0x0f011263, 0, 0, 2229030 )  7:59:46.270 PM
+
+0x0101126b  CreateCompatibleDC ( 0x15011200 )   7:59:46.254 PM
+0x02011267  CreateCompatibleDC ( 0x15011200 )   7:59:46.254 PM
+0x01051269  CreateCompatibleBitmap ( 0x15011200, 50, 39 )   7:59:46.254 PM
+0x0085000f  SelectObject ( 0x02011267, 0x01051269 ) 7:59:46.254 PM
+TRUE    BitBlt ( 0x02011267, 0, 0, 50, 39, 0x0101126b, 0, 0, SRCCOPY )  7:59:46.254 PM
+
+0x0001126c  CreateCompatibleDC ( 0x15011200 )   7:59:46.254 PM
+0x0101126a  CreateCompatibleDC ( 0x15011200 )   7:59:46.254 PM
+0x0005126b  CreateCompatibleBitmap ( 0x15011200, 50, 39 )   7:59:46.254 PM
+0x0085000f  SelectObject ( 0x0101126a, 0x0005126b ) 7:59:46.254 PM
+TRUE    BitBlt ( 0x0101126a, 0, 0, 50, 39, 0x0001126c, 0, 0, SRCCOPY )  7:59:46.254 PM
+
+0x0c01125f  CreateCompatibleDC ( NULL ) 7:59:46.254 PM
+0x40010e0d  CreateCompatibleDC ( NULL ) 7:59:46.254 PM
+0x42051248  CreateDIBSection ( 0x13011228, 0x04f77fe0, DIB_RGB_COLORS, 0x0019f654, NULL, 0 )    7:59:46.254 PM
+0x0085000f  SelectObject ( 0x40010e0d, 0x42051248 ) 7:59:46.254 PM
+TRUE    BitBlt ( 0x40010e0d, 13, 7, 24, 24, 0x0c01125f, 0, 0, SRCCOPY ) 7:59:46.254 PM
+
+0x67010e09  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x160110b0  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x18051254  CreateDIBSection ( 0x15011200, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:46.098 PM
+0x0085000f  SelectObject ( 0x160110b0, 0x18051254 ) 7:59:46.098 PM
+TRUE    BitBlt ( 0x160110b0, 0, 48, 16, 16, 0x67010e09, 0, 48, 2229030 )    7:59:46.098 PM
+
+0x67010e09  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x160110b0  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x18051254  CreateDIBSection ( 0x15011200, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:46.098 PM
+0x0085000f  SelectObject ( 0x160110b0, 0x18051254 ) 7:59:46.098 PM
+TRUE    BitBlt ( 0x160110b0, 0, 32, 16, 16, 0x67010e09, 0, 32, 2229030 )    7:59:46.098 PM
+
+0x67010e09  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x160110b0  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x18051254  CreateDIBSection ( 0x15011200, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:46.098 PM
+0x0085000f  SelectObject ( 0x160110b0, 0x18051254 ) 7:59:46.098 PM
+TRUE    BitBlt ( 0x160110b0, 0, 16, 16, 16, 0x67010e09, 0, 16, 2229030 )    7:59:46.098 PM
+
+0x67010e09  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x160110b0  CreateCompatibleDC ( NULL ) 7:59:46.098 PM
+0x18051254  CreateDIBSection ( 0x15011200, 0x0019f668, DIB_RGB_COLORS, 0x0019fad0, NULL, 0 )    7:59:46.098 PM
+0x0085000f  SelectObject ( 0x160110b0, 0x18051254 ) 7:59:46.098 PM
+TRUE    BitBlt ( 0x160110b0, 0, 0, 16, 16, 0x67010e09, 0, 0, 2229030 )  7:59:46.098 PM
+
+0x01011251  CreateCompatibleDC ( NULL ) 7:59:45.863 PM
+0x0401124f  CreateCompatibleDC ( NULL ) 7:59:45.863 PM
+0x00051253  CreateCompatibleBitmap ( 0x13011228, 16, 128 )  7:59:45.863 PM
+0x0085000f  SelectObject ( 0x0401124f, 0x00051253 ) 7:59:45.863 PM
+TRUE    BitBlt ( 0x0401124f, 0, 16, 16, 16, 0x01011251, 0, 16, 2229030 )    7:59:45.863 PM
+
+0x01011251  CreateCompatibleDC ( NULL ) 7:59:45.863 PM
+0x0401124f  CreateCompatibleDC ( NULL ) 7:59:45.863 PM
+0x00051253  CreateCompatibleBitmap ( 0x13011228, 16, 128 )  7:59:45.863 PM
+0x0085000f  SelectObject ( 0x0401124f, 0x00051253 ) 7:59:45.863 PM
+TRUE    BitBlt ( 0x0401124f, 0, 0, 16, 16, 0x01011251, 0, 0, 2229030 )  7:59:45.863 PM
+
+0x00011251  CreateCompatibleDC ( 0x13011228 )   7:59:45.863 PM
+0x0301124f  CreateCompatibleDC ( 0x13011228 )   7:59:45.863 PM
+0x0d051231  CreateCompatibleBitmap ( 0x13011228, 32, 32 )   7:59:45.863 PM
+0x0085000f  SelectObject ( 0x0301124f, 0x0d051231 ) 7:59:45.863 PM
+TRUE    BitBlt ( 0x0301124f, 0, 0, 32, 32, 0x00011251, 0, 0, SRCCOPY )  7:59:45.863 PM
+
+0x8e011229  CreateCompatibleDC ( NULL ) 7:59:45.613 PM
+0x6e010ee8  CreateCompatibleDC ( NULL ) 7:59:45.613 PM
+0xbd051207  CreateDIBSection ( 0x13011228, 0x04f79660, DIB_RGB_COLORS, 0x0019fb58, NULL, 0 )    7:59:45.598 PM
+0x0085000f  SelectObject ( 0x6e010ee8, 0xbd051207 ) 7:59:45.613 PM
+TRUE    BitBlt ( 0x6e010ee8, 0, 0, 1813, 1080, 0x8e011229, 0, 0, SRCCOPY )  7:59:45.613 PM
+
+0x6e010ee8  CreateCompatibleDC ( NULL ) 7:59:45.613 PM
+0x8e011229  CreateCompatibleDC ( NULL ) 7:59:45.613 PM
+0x3c050eff  CreateDIBSection ( 0x13011228, 0x04f79660, DIB_RGB_COLORS, 0x0019fb58, NULL, 0 )    7:59:45.613 PM
+0x0085000f  SelectObject ( 0x8e011229, 0x3c050eff ) 7:59:45.613 PM
+TRUE    StretchBlt ( 0x8e011229, 0, 0, 1813, 1080, 0x6e010ee8, 0, 0, 1813, 1080, SRCCOPY )  7:59:45.613 PM
+
+0x6c010ee8  CreateCompatibleDC ( 0x13011228 )   7:59:45.613 PM
+0x3b010eff  CreateCompatibleDC ( 0x13011228 )   7:59:45.598 PM
+0xbd051207  CreateDIBSection ( 0x13011228, 0x04f79660, DIB_RGB_COLORS, 0x0019fb58, NULL, 0 )    7:59:45.598 PM
+0x0085000f  SelectObject ( 0x3b010eff, 0xbd051207 ) 7:59:45.598 PM
+TRUE    BitBlt ( 0x3b010eff, 0, 0, 1813, 1080, 0x6c010ee8, 0, 0, SRCCOPY )  7:59:45.613 PM
+
+0x3a010eff  CreateCompatibleDC ( NULL ) 7:59:45.582 PM
+0x3a010eff  CreateCompatibleDC ( NULL ) 7:59:45.582 PM
+0x23050dfe  CreateDIBSection ( 0x13011228, 0x04f79660, DIB_RGB_COLORS, 0x0019fb08, NULL, 0 )    7:59:45.567 PM
+0x0085000f  SelectObject ( 0x3a010eff, 0x23050dfe ) 7:59:45.582 PM
+TRUE    BitBlt ( 0x3a010eff, 0, 0, 1813, 1080, 0x3a010eff, 107, 0, SRCCOPY )    7:59:45.598 PM
+
+0x2c0111c0  GetWindowDC ( 0x00010010 )  7:59:45.582 PM
+0x3a010eff  CreateCompatibleDC ( NULL ) 7:59:45.582 PM
+0x23050dfe  CreateDIBSection ( 0x13011228, 0x04f79660, DIB_RGB_COLORS, 0x0019fb08, NULL, 0 )    7:59:45.567 PM
+0x0085000f  SelectObject ( 0x3a010eff, 0x23050dfe ) 7:59:45.582 PM
+TRUE    BitBlt ( 0x3a010eff, 0, 0, 1920, 1080, 0x2c0111c0, 0, 0, 1087111200 )   7:59:45.582 PM
+
+0x0d011230  CreateCompatibleDC ( NULL ) 7:59:45.160 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    BitBlt ( 0x4f011224, 33, 0, 33, 32, 0x0d011230, 0, 0, SRCCOPY ) 7:59:45.160 PM
+
+0x1201122b  CreateCompatibleDC ( NULL ) 7:59:45.160 PM
+0x0d011230  CreateCompatibleDC ( NULL ) 7:59:45.160 PM
+0x3705121a  CreateCompatibleBitmap ( 0x2c0111c0, 33, 32 )   7:59:45.145 PM
+0x0085000f  SelectObject ( 0x0d011230, 0x3705121a ) 7:59:45.160 PM
+TRUE    StretchBlt ( 0x0d011230, 3, 3, 26, 26, 0x1201122b, 0, 0, 26, 26, SRCCOPY )  7:59:45.160 PM
+
+0x0d011230  CreateCompatibleDC ( NULL ) 7:59:45.160 PM
+0x1201122b  CreateCompatibleDC ( NULL ) 7:59:45.160 PM
+0x02051231  CreateDIBSection ( 0x1201122b, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.160 PM
+0x0085000f  SelectObject ( 0x1201122b, 0x02051231 ) 7:59:45.160 PM
+TRUE    StretchBlt ( 0x1201122b, 0, 0, 26, 26, 0x0d011230, 3, 3, 26, 26, SRCCOPY )  7:59:45.160 PM
+
+0xa4011207  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0xa4011207, 0, 0, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0xa4011207  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x1005122b  CreateDIBSection ( 0xa4011207, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.145 PM
+0x0085000f  SelectObject ( 0xa4011207, 0x1005122b ) 7:59:45.145 PM
+TRUE    StretchBlt ( 0xa4011207, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x3301121a  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x3301121a, 0, 0, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x3301121a  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x3f05122a  CreateDIBSection ( 0x3301121a, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.145 PM
+0x0085000f  SelectObject ( 0x3301121a, 0x3f05122a ) 7:59:45.145 PM
+TRUE    StretchBlt ( 0x3301121a, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x3201121a  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x3201121a, 0, 0, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x3201121a  CreateCompatibleDC ( NULL ) 7:59:45.145 PM
+0x3e05122a  CreateDIBSection ( 0x3201121a, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.145 PM
+0x0085000f  SelectObject ( 0x3201121a, 0x3e05122a ) 7:59:45.145 PM
+TRUE    StretchBlt ( 0x3201121a, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.145 PM
+
+0x6d011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x6d011219, 0, 0, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x6d011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x9f051207  CreateDIBSection ( 0x6d011219, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.129 PM
+0x0085000f  SelectObject ( 0x6d011219, 0x9f051207 ) 7:59:45.129 PM
+TRUE    StretchBlt ( 0x6d011219, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x6c011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x6c011219, 0, 0, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x6c011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x9e051207  CreateDIBSection ( 0x6c011219, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.129 PM
+0x0085000f  SelectObject ( 0x6c011219, 0x9e051207 ) 7:59:45.129 PM
+TRUE    StretchBlt ( 0x6c011219, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x6b011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x6b011219, 0, 0, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x6b011219  CreateCompatibleDC ( NULL ) 7:59:45.129 PM
+0x9d051207  CreateDIBSection ( 0x6b011219, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.129 PM
+0x0085000f  SelectObject ( 0x6b011219, 0x9d051207 ) 7:59:45.129 PM
+TRUE    StretchBlt ( 0x6b011219, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.129 PM
+
+0x4f011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x4f011214, 0, 0, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x4f011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x9c051207  CreateDIBSection ( 0x4f011214, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.114 PM
+0x0085000f  SelectObject ( 0x4f011214, 0x9c051207 ) 7:59:45.114 PM
+TRUE    StretchBlt ( 0x4f011214, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4e011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x4e011214, 0, 0, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x4e011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x9b051207  CreateDIBSection ( 0x4e011214, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.114 PM
+0x0085000f  SelectObject ( 0x4e011214, 0x9b051207 ) 7:59:45.114 PM
+TRUE    StretchBlt ( 0x4e011214, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4d011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x4d011214, 0, 0, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x4d011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x9a051207  CreateDIBSection ( 0x4d011214, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.114 PM
+0x0085000f  SelectObject ( 0x4d011214, 0x9a051207 ) 7:59:45.114 PM
+TRUE    StretchBlt ( 0x4d011214, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4c011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x4c011214, 0, 0, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x4c011214  CreateCompatibleDC ( NULL ) 7:59:45.114 PM
+0x99051207  CreateDIBSection ( 0x4c011214, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.114 PM
+0x0085000f  SelectObject ( 0x4c011214, 0x99051207 ) 7:59:45.114 PM
+TRUE    StretchBlt ( 0x4c011214, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.114 PM
+
+0x0501122e  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x69051229  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:45.098 PM
+0x0085000f  SelectObject ( 0x4f011224, 0x69051229 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x4f011224, 3, 3, 26, 26, 0x0501122e, 0, 0, 26, 26, SRCCOPY )  7:59:45.098 PM
+
+0x4f011224  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x0501122e  CreateCompatibleDC ( NULL ) 7:59:45.098 PM
+0x00051230  CreateDIBSection ( 0x0501122e, 0x0019f0e8, DIB_RGB_COLORS, 0x0019f15c, NULL, 0 )    7:59:45.098 PM
+0x0085000f  SelectObject ( 0x0501122e, 0x00051230 ) 7:59:45.098 PM
+TRUE    StretchBlt ( 0x0501122e, 0, 0, 26, 26, 0x4f011224, 3, 3, 26, 26, SRCCOPY )  7:59:45.098 PM
+
+0x11011226  CreateCompatibleDC ( NULL ) 7:59:43.270 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    BitBlt ( 0x35011219, 33, 0, 33, 32, 0x11011226, 0, 0, SRCCOPY ) 7:59:43.270 PM
+
+0x0101122b  CreateCompatibleDC ( NULL ) 7:59:43.270 PM
+0x11011226  CreateCompatibleDC ( NULL ) 7:59:43.270 PM
+0x0b051225  CreateCompatibleBitmap ( 0x13011228, 33, 32 )   7:59:43.270 PM
+0x0085000f  SelectObject ( 0x11011226, 0x0b051225 ) 7:59:43.270 PM
+TRUE    StretchBlt ( 0x11011226, 3, 3, 26, 26, 0x0101122b, 0, 0, 26, 26, SRCCOPY )  7:59:43.270 PM
+
+0x11011226  CreateCompatibleDC ( NULL ) 7:59:43.270 PM
+0x0101122b  CreateCompatibleDC ( NULL ) 7:59:43.270 PM
+0x0005122d  CreateDIBSection ( 0x0101122b, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.270 PM
+0x0085000f  SelectObject ( 0x0101122b, 0x0005122d ) 7:59:43.270 PM
+TRUE    StretchBlt ( 0x0101122b, 0, 0, 26, 26, 0x11011226, 3, 3, 26, 26, SRCCOPY )  7:59:43.270 PM
+
+0x12011228  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x12011228, 0, 0, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x12011228  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x0a051225  CreateDIBSection ( 0x12011228, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.255 PM
+0x0085000f  SelectObject ( 0x12011228, 0x0a051225 ) 7:59:43.255 PM
+TRUE    StretchBlt ( 0x12011228, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x0c011227  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x0c011227, 0, 0, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x0c011227  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x09051225  CreateDIBSection ( 0x0c011227, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.255 PM
+0x0085000f  SelectObject ( 0x0c011227, 0x09051225 ) 7:59:43.255 PM
+TRUE    StretchBlt ( 0x0c011227, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x0b011227  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x0b011227, 0, 0, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x0b011227  CreateCompatibleDC ( NULL ) 7:59:43.255 PM
+0x08051225  CreateDIBSection ( 0x0b011227, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.255 PM
+0x0085000f  SelectObject ( 0x0b011227, 0x08051225 ) 7:59:43.255 PM
+TRUE    StretchBlt ( 0x0b011227, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.255 PM
+
+0x10011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x10011229, 0, 0, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x10011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x0a051227  CreateDIBSection ( 0x10011229, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.239 PM
+0x0085000f  SelectObject ( 0x10011229, 0x0a051227 ) 7:59:43.239 PM
+TRUE    StretchBlt ( 0x10011229, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x0f011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x0f011229, 0, 0, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x0f011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x09051227  CreateDIBSection ( 0x0f011229, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.239 PM
+0x0085000f  SelectObject ( 0x0f011229, 0x09051227 ) 7:59:43.239 PM
+TRUE    StretchBlt ( 0x0f011229, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x0e011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x0e011229, 0, 0, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x0e011229  CreateCompatibleDC ( NULL ) 7:59:43.239 PM
+0x08051227  CreateDIBSection ( 0x0e011229, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.239 PM
+0x0085000f  SelectObject ( 0x0e011229, 0x08051227 ) 7:59:43.239 PM
+TRUE    StretchBlt ( 0x0e011229, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.239 PM
+
+0x08011229  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x08011229, 0, 0, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x08011229  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x0a051226  CreateDIBSection ( 0x08011229, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.224 PM
+0x0085000f  SelectObject ( 0x08011229, 0x0a051226 ) 7:59:43.224 PM
+TRUE    StretchBlt ( 0x08011229, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x07011229  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x07011229, 0, 0, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x07011229  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x09051226  CreateDIBSection ( 0x07011229, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.224 PM
+0x0085000f  SelectObject ( 0x07011229, 0x09051226 ) 7:59:43.224 PM
+TRUE    StretchBlt ( 0x07011229, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x07011228  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x07011228, 0, 0, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x07011228  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x0605122a  CreateDIBSection ( 0x07011228, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.224 PM
+0x0085000f  SelectObject ( 0x07011228, 0x0605122a ) 7:59:43.224 PM
+TRUE    StretchBlt ( 0x07011228, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x05011228  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x35011219, 3, 3, 26, 26, 0x05011228, 0, 0, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x05011228  CreateCompatibleDC ( NULL ) 7:59:43.224 PM
+0x0505122a  CreateDIBSection ( 0x05011228, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.224 PM
+0x0085000f  SelectObject ( 0x05011228, 0x0505122a ) 7:59:43.224 PM
+TRUE    StretchBlt ( 0x05011228, 0, 0, 26, 26, 0x35011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.224 PM
+
+0x2701121f  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x35011219  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x04051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.208 PM
+0x0085000f  SelectObject ( 0x35011219, 0x04051224 ) 7:59:43.208 PM
+TRUE    BitBlt ( 0x35011219, 0, 0, 33, 32, 0x2701121f, 0, 0, SRCCOPY )  7:59:43.208 PM
+
+0x20011216  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x2701121f  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x58051207  CreateCompatibleBitmap ( 0x15011200, 33, 32 )   7:59:43.208 PM
+0x0085000f  SelectObject ( 0x2701121f, 0x58051207 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x2701121f, 3, 3, 26, 26, 0x20011216, 0, 0, 26, 26, SRCCOPY )  7:59:43.208 PM
+
+0x2701121f  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x20011216  CreateCompatibleDC ( NULL ) 7:59:43.208 PM
+0x06051226  CreateDIBSection ( 0x20011216, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.208 PM
+0x0085000f  SelectObject ( 0x20011216, 0x06051226 ) 7:59:43.208 PM
+TRUE    StretchBlt ( 0x20011216, 0, 0, 26, 26, 0x2701121f, 3, 3, 26, 26, SRCCOPY )  7:59:43.208 PM
+
+0x57011207  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    BitBlt ( 0x34011219, 0, 0, 33, 32, 0x57011207, 0, 0, SRCCOPY )  7:59:43.146 PM
+
+0x1f011216  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x57011207  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x2505121f  CreateCompatibleBitmap ( 0x15011200, 33, 32 )   7:59:43.146 PM
+0x0085000f  SelectObject ( 0x57011207, 0x2505121f ) 7:59:43.146 PM
+TRUE    StretchBlt ( 0x57011207, 3, 3, 26, 26, 0x1f011216, 0, 0, 26, 26, SRCCOPY )  7:59:43.146 PM
+
+0x57011207  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x1f011216  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x05051226  CreateDIBSection ( 0x1f011216, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.146 PM
+0x0085000f  SelectObject ( 0x1f011216, 0x05051226 ) 7:59:43.146 PM
+TRUE    StretchBlt ( 0x1f011216, 0, 0, 26, 26, 0x57011207, 3, 3, 26, 26, SRCCOPY )  7:59:43.146 PM
+
+0x55011207  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x55011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.146 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x55011207  CreateCompatibleDC ( NULL ) 7:59:43.146 PM
+0x1d051216  CreateDIBSection ( 0x55011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.146 PM
+0x0085000f  SelectObject ( 0x55011207, 0x1d051216 ) 7:59:43.146 PM
+TRUE    StretchBlt ( 0x55011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.146 PM
+
+0x0d011212  CreateCompatibleDC ( NULL ) 7:59:43.130 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x0d011212, 0, 0, 26, 26, SRCCOPY )  7:59:43.130 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x0d011212  CreateCompatibleDC ( NULL ) 7:59:43.130 PM
+0x1c051216  CreateDIBSection ( 0x0d011212, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.130 PM
+0x0085000f  SelectObject ( 0x0d011212, 0x1c051216 ) 7:59:43.130 PM
+TRUE    StretchBlt ( 0x0d011212, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.130 PM
+
+0x0c011212  CreateCompatibleDC ( NULL ) 7:59:43.130 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x0c011212, 0, 0, 26, 26, SRCCOPY )  7:59:43.130 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x0c011212  CreateCompatibleDC ( NULL ) 7:59:43.130 PM
+0x1b051216  CreateDIBSection ( 0x0c011212, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.130 PM
+0x0085000f  SelectObject ( 0x0c011212, 0x1b051216 ) 7:59:43.130 PM
+TRUE    StretchBlt ( 0x0c011212, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.130 PM
+
+0x50011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x50011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x50011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x1a051216  CreateDIBSection ( 0x50011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.114 PM
+0x0085000f  SelectObject ( 0x50011207, 0x1a051216 ) 7:59:43.114 PM
+TRUE    StretchBlt ( 0x50011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x4f011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4f011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4f011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x19051216  CreateDIBSection ( 0x4f011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.114 PM
+0x0085000f  SelectObject ( 0x4f011207, 0x19051216 ) 7:59:43.114 PM
+TRUE    StretchBlt ( 0x4f011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x4e011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4e011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4e011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x18051216  CreateDIBSection ( 0x4e011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.114 PM
+0x0085000f  SelectObject ( 0x4e011207, 0x18051216 ) 7:59:43.114 PM
+TRUE    StretchBlt ( 0x4e011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x4d011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4d011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4d011207  CreateCompatibleDC ( NULL ) 7:59:43.114 PM
+0x17051216  CreateDIBSection ( 0x4d011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.114 PM
+0x0085000f  SelectObject ( 0x4d011207, 0x17051216 ) 7:59:43.114 PM
+TRUE    StretchBlt ( 0x4d011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.114 PM
+
+0x4c011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4c011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4c011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x16051216  CreateDIBSection ( 0x4c011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.098 PM
+0x0085000f  SelectObject ( 0x4c011207, 0x16051216 ) 7:59:43.098 PM
+TRUE    StretchBlt ( 0x4c011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x4b011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4b011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4b011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x15051216  CreateDIBSection ( 0x4b011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.098 PM
+0x0085000f  SelectObject ( 0x4b011207, 0x15051216 ) 7:59:43.098 PM
+TRUE    StretchBlt ( 0x4b011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x4a011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x4a011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x4a011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x14051216  CreateDIBSection ( 0x4a011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.098 PM
+0x0085000f  SelectObject ( 0x4a011207, 0x14051216 ) 7:59:43.098 PM
+TRUE    StretchBlt ( 0x4a011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x49011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x03051224  CreateCompatibleBitmap ( 0x15011200, 420, 32 )  7:59:43.083 PM
+0x0085000f  SelectObject ( 0x34011219, 0x03051224 ) 7:59:43.083 PM
+TRUE    StretchBlt ( 0x34011219, 3, 3, 26, 26, 0x49011207, 0, 0, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+0x34011219  CreateCompatibleDC ( NULL ) 7:59:43.083 PM
+0x49011207  CreateCompatibleDC ( NULL ) 7:59:43.098 PM
+0x13051216  CreateDIBSection ( 0x49011207, 0x0019f540, DIB_RGB_COLORS, 0x0019f5b4, NULL, 0 )    7:59:43.098 PM
+0x0085000f  SelectObject ( 0x49011207, 0x13051216 ) 7:59:43.098 PM
+TRUE    StretchBlt ( 0x49011207, 0, 0, 26, 26, 0x34011219, 3, 3, 26, 26, SRCCOPY )  7:59:43.098 PM
+
+Nombre d'appel : 343

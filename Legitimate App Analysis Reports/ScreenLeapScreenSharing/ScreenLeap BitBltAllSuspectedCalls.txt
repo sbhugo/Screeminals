@@ -1,0 +1,745 @@
+0xae011a5c  GetWindowDC ( NULL )    12:45:07.897 PM
+0xd301174b  CreateCompatibleDC ( 0xae011a5c )   12:45:07.897 PM
+0x92051699  CreateCompatibleBitmap ( 0xae011a5c, 1920, 1080 )   12:45:07.897 PM
+0x0085000f  SelectObject ( 0xd301174b, 0x92051699 ) 12:45:07.900 PM
+TRUE    BitBlt ( 0xd301174b, 0, 0, 1920, 1080, 0xae011a5c, 0, 0, SRCCOPY )  12:45:07.900 PM
+
+0xae011a5c  GetWindowDC ( NULL )    12:45:05.313 PM
+0x23011862  CreateCompatibleDC ( 0xae011a5c )   12:45:05.313 PM
+0x7805185d  CreateCompatibleBitmap ( 0xae011a5c, 1920, 1080 )   12:45:05.313 PM
+0x0085000f  SelectObject ( 0x23011862, 0x7805185d ) 12:45:05.318 PM
+TRUE    BitBlt ( 0x23011862, 0, 0, 1920, 1080, 0xae011a5c, 0, 0, SRCCOPY )  12:45:05.318 PM
+
+0xae011a5c  GetWindowDC ( NULL )    12:45:02.445 PM
+0x2a010bb3  CreateCompatibleDC ( 0xae011a5c )   12:45:02.446 PM
+0xa90518a6  CreateCompatibleBitmap ( 0xae011a5c, 1920, 1080 )   12:45:02.454 PM
+0x0085000f  SelectObject ( 0x2a010bb3, 0xa90518a6 ) 12:45:02.461 PM
+TRUE    BitBlt ( 0x2a010bb3, 0, 0, 1920, 1080, 0xae011a5c, 0, 0, SRCCOPY )  12:45:02.461 PM
+
+0xe401176f  GetWindowDC ( NULL )    12:45:01.525 PM
+0x25010bb3  CreateCompatibleDC ( 0xe401176f )   12:45:01.525 PM
+0x700518ee  CreateCompatibleBitmap ( 0xe401176f, 1920, 1080 )   12:45:01.525 PM
+0x0085000f  SelectObject ( 0x25010bb3, 0x700518ee ) 12:45:01.530 PM
+TRUE    BitBlt ( 0x25010bb3, 0, 0, 1920, 1080, 0xe401176f, 0, 0, SRCCOPY )  12:45:01.530 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:45:00.642 PM
+0x5a0118ee  CreateCompatibleDC ( 0xbd01185a )   12:45:00.642 PM
+0x3805174b  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:45:00.642 PM
+0x0085000f  SelectObject ( 0x5a0118ee, 0x3805174b ) 12:45:00.665 PM
+TRUE    BitBlt ( 0x5a0118ee, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:45:00.665 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:59.833 PM
+0x080119b2  CreateCompatibleDC ( 0xbd01185a )   12:44:59.833 PM
+0xe6051eb5  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:59.833 PM
+0x0085000f  SelectObject ( 0x080119b2, 0xe6051eb5 ) 12:44:59.838 PM
+TRUE    BitBlt ( 0x080119b2, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:59.838 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:58.944 PM
+0x87011a5c  CreateCompatibleDC ( 0x1b010bb3 )   12:44:58.944 PM
+0x580518ee  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:58.944 PM
+0x0085000f  SelectObject ( 0x87011a5c, 0x580518ee ) 12:44:58.948 PM
+TRUE    BitBlt ( 0x87011a5c, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:58.948 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:58.052 PM
+0xf201138d  CreateCompatibleDC ( 0x1b010bb3 )   12:44:58.052 PM
+0x240509f2  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:58.052 PM
+0x0085000f  SelectObject ( 0xf201138d, 0x240509f2 ) 12:44:58.072 PM
+TRUE    BitBlt ( 0xf201138d, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:58.073 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:57.220 PM
+0x1b01174b  CreateCompatibleDC ( 0xbd01185a )   12:44:57.220 PM
+0x85051a5c  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:57.220 PM
+0x0085000f  SelectObject ( 0x1b01174b, 0x85051a5c ) 12:44:57.223 PM
+TRUE    BitBlt ( 0x1b01174b, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:57.223 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:56.410 PM
+0x2001160b  CreateCompatibleDC ( 0xbd01185a )   12:44:56.410 PM
+0xd1051eb5  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:56.410 PM
+0x0085000f  SelectObject ( 0x2001160b, 0xd1051eb5 ) 12:44:56.431 PM
+TRUE    BitBlt ( 0x2001160b, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:56.431 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:55.384 PM
+0x290106f3  CreateCompatibleDC ( 0xbd01185a )   12:44:55.384 PM
+0x1905174b  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:55.384 PM
+0x0085000f  SelectObject ( 0x290106f3, 0x1905174b ) 12:44:55.387 PM
+TRUE    BitBlt ( 0x290106f3, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:55.387 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:47.635 PM
+0xc8010b8c  CreateCompatibleDC ( 0xbd01185a )   12:44:47.635 PM
+0x1e05160b  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:47.635 PM
+0x0085000f  SelectObject ( 0xc8010b8c, 0x1e05160b ) 12:44:47.648 PM
+TRUE    BitBlt ( 0xc8010b8c, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:47.648 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:47.412 PM
+0xd90119b2  CreateCompatibleDC ( 0x1b010bb3 )   12:44:47.412 PM
+0x270506f3  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:47.412 PM
+0x0085000f  SelectObject ( 0xd90119b2, 0x270506f3 ) 12:44:47.427 PM
+TRUE    BitBlt ( 0xd90119b2, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:47.427 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:46.997 PM
+0x0201160b  CreateCompatibleDC ( 0x1b010bb3 )   12:44:46.997 PM
+0xc10518f8  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:46.997 PM
+0x0085000f  SelectObject ( 0x0201160b, 0xc10518f8 ) 12:44:47.000 PM
+TRUE    BitBlt ( 0x0201160b, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:47.000 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:46.356 PM
+0x9c010b8c  CreateCompatibleDC ( 0x1b010bb3 )   12:44:46.356 PM
+0xb0051eb5  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:46.356 PM
+0x0085000f  SelectObject ( 0x9c010b8c, 0xb0051eb5 ) 12:44:46.358 PM
+TRUE    BitBlt ( 0x9c010b8c, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:46.358 PM
+
+0xbd01185a  GetWindowDC ( NULL )    12:44:45.184 PM
+0x2b0118e9  CreateCompatibleDC ( 0xbd01185a )   12:44:45.184 PM
+0x0005160b  CreateCompatibleBitmap ( 0xbd01185a, 1920, 1080 )   12:44:45.184 PM
+0x0085000f  SelectObject ( 0x2b0118e9, 0x0005160b ) 12:44:45.190 PM
+TRUE    BitBlt ( 0x2b0118e9, 0, 0, 1920, 1080, 0xbd01185a, 0, 0, SRCCOPY )  12:44:45.190 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:43.139 PM
+0xf20118ee  CreateCompatibleDC ( 0x1b010bb3 )   12:44:43.139 PM
+0x69051862  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:43.139 PM
+0x0085000f  SelectObject ( 0xf20118ee, 0x69051862 ) 12:44:43.144 PM
+TRUE    BitBlt ( 0xf20118ee, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:43.144 PM
+
+0x1b010bb3  GetWindowDC ( NULL )    12:44:42.239 PM
+0xdf011922  CreateCompatibleDC ( 0x1b010bb3 )   12:44:42.239 PM
+0x270518e9  CreateCompatibleBitmap ( 0x1b010bb3, 1920, 1080 )   12:44:42.239 PM
+0x0085000f  SelectObject ( 0xdf011922, 0x270518e9 ) 12:44:42.243 PM
+TRUE    BitBlt ( 0xdf011922, 0, 0, 1920, 1080, 0x1b010bb3, 0, 0, SRCCOPY )  12:44:42.244 PM
+
+0x1b0109f2  GetWindowDC ( NULL )    12:44:40.864 PM
+0x85010785  CreateCompatibleDC ( 0x1b0109f2 )   12:44:40.864 PM
+0x66051862  CreateCompatibleBitmap ( 0x1b0109f2, 1920, 1080 )   12:44:40.864 PM
+0x0085000f  SelectObject ( 0x85010785, 0x66051862 ) 12:44:40.867 PM
+TRUE    BitBlt ( 0x85010785, 0, 0, 1920, 1080, 0x1b0109f2, 0, 0, SRCCOPY )  12:44:40.867 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:44:39.007 PM
+0x97010ffb  CreateCompatibleDC ( 0xb70117e5 )   12:44:39.007 PM
+0xc3050ea7  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:44:39.007 PM
+0x0085000f  SelectObject ( 0x97010ffb, 0xc3050ea7 ) 12:44:39.025 PM
+TRUE    BitBlt ( 0x97010ffb, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:44:39.025 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:35.477 PM
+0x63011416  CreateCompatibleDC ( 0x06011eb5 )   12:44:35.477 PM
+0xec0508e9  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:35.477 PM
+0x0085000f  SelectObject ( 0x63011416, 0xec0508e9 ) 12:44:35.481 PM
+TRUE    BitBlt ( 0x63011416, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:35.481 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:34.351 PM
+0x830118da  CreateCompatibleDC ( 0x02011cf2 )   12:44:34.351 PM
+0xbb050ea7  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:34.351 PM
+0x0085000f  SelectObject ( 0x830118da, 0xbb050ea7 ) 12:44:34.353 PM
+TRUE    BitBlt ( 0x830118da, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:34.353 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:44:33.830 PM
+0x9701185a  CreateCompatibleDC ( 0xb70117e5 )   12:44:33.830 PM
+0xc6051825  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:44:33.830 PM
+0x0085000f  SelectObject ( 0x9701185a, 0xc6051825 ) 12:44:33.834 PM
+TRUE    BitBlt ( 0x9701185a, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:44:33.834 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:33.265 PM
+0x310110e8  CreateCompatibleDC ( 0x02011cf2 )   12:44:33.265 PM
+0x1c050cac  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:33.265 PM
+0x0085000f  SelectObject ( 0x310110e8, 0x1c050cac ) 12:44:33.268 PM
+TRUE    BitBlt ( 0x310110e8, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:33.268 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:33.061 PM
+0x460118da  CreateCompatibleDC ( 0x02011cf2 )   12:44:33.061 PM
+0x9e050ea7  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:33.061 PM
+0x0085000f  SelectObject ( 0x460118da, 0x9e050ea7 ) 12:44:33.073 PM
+TRUE    BitBlt ( 0x460118da, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:33.073 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:32.860 PM
+0x8c010f7d  CreateCompatibleDC ( 0x02011cf2 )   12:44:32.860 PM
+0x13050cac  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:32.860 PM
+0x0085000f  SelectObject ( 0x8c010f7d, 0x13050cac ) 12:44:32.873 PM
+TRUE    BitBlt ( 0x8c010f7d, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:32.873 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:44:32.639 PM
+0x2b0118da  CreateCompatibleDC ( 0x040119dc )   12:44:32.639 PM
+0x6a051899  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:44:32.639 PM
+0x0085000f  SelectObject ( 0x2b0118da, 0x6a051899 ) 12:44:32.647 PM
+TRUE    BitBlt ( 0x2b0118da, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:44:32.647 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:44:30.957 PM
+0x50010ffb  CreateCompatibleDC ( 0x0201145a )   12:44:30.957 PM
+0xa10508e9  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:44:30.957 PM
+0x0085000f  SelectObject ( 0x50010ffb, 0xa10508e9 ) 12:44:30.960 PM
+TRUE    BitBlt ( 0x50010ffb, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:44:30.960 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:27.885 PM
+0x6201138d  CreateCompatibleDC ( 0x02011cf2 )   12:44:27.885 PM
+0x240518da  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:27.885 PM
+0x0085000f  SelectObject ( 0x6201138d, 0x240518da ) 12:44:27.899 PM
+TRUE    BitBlt ( 0x6201138d, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:27.899 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:25.059 PM
+0x970117c2  CreateCompatibleDC ( 0x02011cf2 )   12:44:25.059 PM
+0x4d050ffb  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:25.059 PM
+0x0085000f  SelectObject ( 0x970117c2, 0x4d050ffb ) 12:44:25.061 PM
+TRUE    BitBlt ( 0x970117c2, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:25.061 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:23.275 PM
+0x2d011d95  CreateCompatibleDC ( 0x06011eb5 )   12:44:23.276 PM
+0xa9050ea2  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:23.276 PM
+0x0085000f  SelectObject ( 0x2d011d95, 0xa9050ea2 ) 12:44:23.291 PM
+TRUE    BitBlt ( 0x2d011d95, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:23.291 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:44:21.637 PM
+0xe1010a53  CreateCompatibleDC ( 0x040119dc )   12:44:21.637 PM
+0x36051ba6  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:44:21.637 PM
+0x0085000f  SelectObject ( 0xe1010a53, 0x36051ba6 ) 12:44:21.651 PM
+TRUE    BitBlt ( 0xe1010a53, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:44:21.651 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:44:19.477 PM
+0x16010ee8  CreateCompatibleDC ( 0x040119dc )   12:44:19.477 PM
+0x16050f62  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:44:19.477 PM
+0x0085000f  SelectObject ( 0x16010ee8, 0x16050f62 ) 12:44:19.479 PM
+TRUE    BitBlt ( 0x16010ee8, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:44:19.479 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:44:18.276 PM
+0x63011ce0  CreateCompatibleDC ( 0xb70117e5 )   12:44:18.276 PM
+0xd2051e33  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:44:18.276 PM
+0x0085000f  SelectObject ( 0x63011ce0, 0xd2051e33 ) 12:44:18.278 PM
+TRUE    BitBlt ( 0x63011ce0, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:44:18.278 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:44:16.249 PM
+0x09011b70  CreateCompatibleDC ( 0xb70117e5 )   12:44:16.249 PM
+0x16051b6f  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:44:16.249 PM
+0x0085000f  SelectObject ( 0x09011b70, 0x16051b6f ) 12:44:16.252 PM
+TRUE    BitBlt ( 0x09011b70, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:44:16.252 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:44:13.073 PM
+0x0b011810  CreateCompatibleDC ( 0x02011cf2 )   12:44:13.073 PM
+0x970516ce  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:44:13.073 PM
+0x0085000f  SelectObject ( 0x0b011810, 0x970516ce ) 12:44:13.076 PM
+TRUE    BitBlt ( 0x0b011810, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:44:13.076 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:44:11.646 PM
+0xfc0108e9  CreateCompatibleDC ( 0xb70117e5 )   12:44:11.646 PM
+0x3c051675  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:44:11.646 PM
+0x0085000f  SelectObject ( 0xfc0108e9, 0x3c051675 ) 12:44:11.648 PM
+TRUE    BitBlt ( 0xfc0108e9, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:44:11.648 PM
+
+0x08011699  GetWindowDC ( NULL )    12:44:09.631 PM
+0xc501176f  CreateCompatibleDC ( 0x08011699 )   12:44:09.631 PM
+0xf2051c7f  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:44:09.631 PM
+0x0085000f  SelectObject ( 0xc501176f, 0xf2051c7f ) 12:44:09.634 PM
+TRUE    BitBlt ( 0xc501176f, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:44:09.634 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:07.655 PM
+0x56011cc0  CreateCompatibleDC ( 0x06011eb5 )   12:44:07.655 PM
+0xfa0508e9  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:07.655 PM
+0x0085000f  SelectObject ( 0x56011cc0, 0xfa0508e9 ) 12:44:07.666 PM
+TRUE    BitBlt ( 0x56011cc0, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:07.666 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:44:07.034 PM
+0x71010951  CreateCompatibleDC ( 0x040119dc )   12:44:07.065 PM
+0xc305176f  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:44:07.065 PM
+0x0085000f  SelectObject ( 0x71010951, 0xc305176f ) 12:44:07.080 PM
+TRUE    BitBlt ( 0x71010951, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:44:07.080 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:06.631 PM
+0x190116d3  CreateCompatibleDC ( 0x06011eb5 )   12:44:06.631 PM
+0x54051cc0  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:06.631 PM
+0x0085000f  SelectObject ( 0x190116d3, 0x54051cc0 ) 12:44:06.651 PM
+TRUE    BitBlt ( 0x190116d3, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:06.651 PM
+
+0x08011699  GetWindowDC ( NULL )    12:44:06.304 PM
+0x40011bf4  CreateCompatibleDC ( 0x08011699 )   12:44:06.304 PM
+0xea0516a2  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:44:06.304 PM
+0x0085000f  SelectObject ( 0x40011bf4, 0xea0516a2 ) 12:44:06.311 PM
+TRUE    BitBlt ( 0x40011bf4, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:44:06.311 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:05.817 PM
+0xcb0116d3  CreateCompatibleDC ( 0x06011eb5 )   12:44:05.817 PM
+0x3f051cc0  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:05.817 PM
+0x0085000f  SelectObject ( 0xcb0116d3, 0x3f051cc0 ) 12:44:05.820 PM
+TRUE    BitBlt ( 0xcb0116d3, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:05.820 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:44:03.893 PM
+0xa9011cf7  CreateCompatibleDC ( 0x0201145a )   12:44:03.893 PM
+0x38050951  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:44:03.893 PM
+0x0085000f  SelectObject ( 0xa9011cf7, 0x38050951 ) 12:44:03.897 PM
+TRUE    BitBlt ( 0xa9011cf7, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:44:03.897 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:03.203 PM
+0x3101176f  CreateCompatibleDC ( 0x06011eb5 )   12:44:03.203 PM
+0xb005135e  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:03.203 PM
+0x0085000f  SelectObject ( 0x3101176f, 0xb005135e ) 12:44:03.213 PM
+TRUE    BitBlt ( 0x3101176f, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:03.213 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:44:02.371 PM
+0x00011cc0  CreateCompatibleDC ( 0x06011eb5 )   12:44:02.371 PM
+0xb8050a7f  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:44:02.371 PM
+0x0085000f  SelectObject ( 0x00011cc0, 0xb8050a7f ) 12:44:02.374 PM
+TRUE    BitBlt ( 0x00011cc0, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:44:02.374 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:44:01.364 PM
+0x1a01176f  CreateCompatibleDC ( 0x040119dc )   12:44:01.364 PM
+0x1f051e5a  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:44:01.364 PM
+0x0085000f  SelectObject ( 0x1a01176f, 0x1f051e5a ) 12:44:01.366 PM
+TRUE    BitBlt ( 0x1a01176f, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:44:01.366 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:56.304 PM
+0xeb011e32  CreateCompatibleDC ( 0x06011eb5 )   12:43:56.304 PM
+0xd5051d95  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:56.304 PM
+0x0085000f  SelectObject ( 0xeb011e32, 0xd5051d95 ) 12:43:56.306 PM
+TRUE    BitBlt ( 0xeb011e32, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:56.306 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:54.409 PM
+0xaf010945  CreateCompatibleDC ( 0x02011cf2 )   12:43:54.409 PM
+0x53051cf7  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:54.409 PM
+0x0085000f  SelectObject ( 0xaf010945, 0x53051cf7 ) 12:43:54.428 PM
+TRUE    BitBlt ( 0xaf010945, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:54.428 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:40.281 PM
+0x23011afc  CreateCompatibleDC ( 0x040119dc )   12:43:40.281 PM
+0xa2051cc0  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:40.281 PM
+0x0085000f  SelectObject ( 0x23011afc, 0xa2051cc0 ) 12:43:40.294 PM
+TRUE    BitBlt ( 0x23011afc, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:40.294 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:39.886 PM
+0x78011d95  CreateCompatibleDC ( 0xb70117e5 )   12:43:39.887 PM
+0xf5051e5a  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:39.887 PM
+0x0085000f  SelectObject ( 0x78011d95, 0xf5051e5a ) 12:43:39.903 PM
+TRUE    BitBlt ( 0x78011d95, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:39.903 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:38.692 PM
+0xef011d97  CreateCompatibleDC ( 0x02011cf2 )   12:43:38.692 PM
+0x21051afc  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:38.692 PM
+0x0085000f  SelectObject ( 0xef011d97, 0x21051afc ) 12:43:38.694 PM
+TRUE    BitBlt ( 0xef011d97, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:38.694 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:38.168 PM
+0xd0011ca6  CreateCompatibleDC ( 0x02011cf2 )   12:43:38.168 PM
+0x76051d95  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:38.168 PM
+0x0085000f  SelectObject ( 0xd0011ca6, 0x76051d95 ) 12:43:38.172 PM
+TRUE    BitBlt ( 0xd0011ca6, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:38.172 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:37.962 PM
+0x72011d95  CreateCompatibleDC ( 0x040119dc )   12:43:37.962 PM
+0xeb051d97  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:37.962 PM
+0x0085000f  SelectObject ( 0x72011d95, 0xeb051d97 ) 12:43:37.980 PM
+TRUE    BitBlt ( 0x72011d95, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:37.982 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:37.635 PM
+0xd7011e5a  CreateCompatibleDC ( 0x02011cf2 )   12:43:37.635 PM
+0xcc051ca6  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:37.635 PM
+0x0085000f  SelectObject ( 0xd7011e5a, 0xcc051ca6 ) 12:43:37.641 PM
+TRUE    BitBlt ( 0xd7011e5a, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:37.641 PM
+
+0x08011699  GetWindowDC ( NULL )    12:43:37.134 PM
+0x090116d3  CreateCompatibleDC ( 0x08011699 )   12:43:37.134 PM
+0x6a051d95  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:43:37.134 PM
+0x0085000f  SelectObject ( 0x090116d3, 0x6a051d95 ) 12:43:37.143 PM
+TRUE    BitBlt ( 0x090116d3, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:43:37.143 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:36.226 PM
+0x8b010951  CreateCompatibleDC ( 0x040119dc )   12:43:36.226 PM
+0x01051afc  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:36.226 PM
+0x0085000f  SelectObject ( 0x8b010951, 0x01051afc ) 12:43:36.229 PM
+TRUE    BitBlt ( 0x8b010951, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:36.229 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:34.691 PM
+0x26011cf7  CreateCompatibleDC ( 0x040119dc )   12:43:34.691 PM
+0x040516d3  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:34.691 PM
+0x0085000f  SelectObject ( 0x26011cf7, 0x040516d3 ) 12:43:34.694 PM
+TRUE    BitBlt ( 0x26011cf7, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:34.694 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:33.224 PM
+0xc5011812  CreateCompatibleDC ( 0x02011cf2 )   12:43:33.224 PM
+0xfe051afc  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:33.224 PM
+0x0085000f  SelectObject ( 0xc5011812, 0xfe051afc ) 12:43:33.228 PM
+TRUE    BitBlt ( 0xc5011812, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:33.228 PM
+
+0x08011699  GetWindowDC ( NULL )    12:43:32.475 PM
+0x90011e51  CreateCompatibleDC ( 0x08011699 )   12:43:32.475 PM
+0x24051cf7  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:43:32.475 PM
+0x0085000f  SelectObject ( 0x90011e51, 0x24051cf7 ) 12:43:32.479 PM
+TRUE    BitBlt ( 0x90011e51, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:43:32.479 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:31.972 PM
+0x71011e32  CreateCompatibleDC ( 0x02011cf2 )   12:43:31.972 PM
+0xbc051812  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:31.972 PM
+0x0085000f  SelectObject ( 0x71011e32, 0xbc051812 ) 12:43:31.976 PM
+TRUE    BitBlt ( 0x71011e32, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:31.976 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:31.767 PM
+0xba011812  CreateCompatibleDC ( 0x06011eb5 )   12:43:31.767 PM
+0x8d051e51  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:31.767 PM
+0x0085000f  SelectObject ( 0xba011812, 0x8d051e51 ) 12:43:31.783 PM
+TRUE    BitBlt ( 0xba011812, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:31.783 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:31.282 PM
+0x4e011904  CreateCompatibleDC ( 0x06011eb5 )   12:43:31.282 PM
+0x6e051e32  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:31.282 PM
+0x0085000f  SelectObject ( 0x4e011904, 0x6e051e32 ) 12:43:31.297 PM
+TRUE    BitBlt ( 0x4e011904, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:31.297 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:30.745 PM
+0xa1011d97  CreateCompatibleDC ( 0x06011eb5 )   12:43:30.745 PM
+0x8a051e51  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:30.745 PM
+0x0085000f  SelectObject ( 0xa1011d97, 0x8a051e51 ) 12:43:30.747 PM
+TRUE    BitBlt ( 0xa1011d97, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:30.747 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:43:30.296 PM
+0x6b011cc0  CreateCompatibleDC ( 0x0201145a )   12:43:30.296 PM
+0xc0050d5f  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:43:30.296 PM
+0x0085000f  SelectObject ( 0x6b011cc0, 0xc0050d5f ) 12:43:30.303 PM
+TRUE    BitBlt ( 0x6b011cc0, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:43:30.303 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:29.040 PM
+0xa5011e5a  CreateCompatibleDC ( 0xb70117e5 )   12:43:29.040 PM
+0x9e051d97  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:29.040 PM
+0x0085000f  SelectObject ( 0xa5011e5a, 0x9e051d97 ) 12:43:29.047 PM
+TRUE    BitBlt ( 0xa5011e5a, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:29.047 PM
+
+0x08011699  GetWindowDC ( NULL )    12:43:26.920 PM
+0x63010a7f  CreateCompatibleDC ( 0x08011699 )   12:43:26.920 PM
+0xf00516d3  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:43:26.920 PM
+0x0085000f  SelectObject ( 0x63010a7f, 0xf00516d3 ) 12:43:26.926 PM
+TRUE    BitBlt ( 0x63010a7f, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:43:26.926 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:43:22.005 PM
+0x29011778  CreateCompatibleDC ( 0x0201145a )   12:43:22.005 PM
+0x61050a7f  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:43:22.005 PM
+0x0085000f  SelectObject ( 0x29011778, 0x61050a7f ) 12:43:22.008 PM
+TRUE    BitBlt ( 0x29011778, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:43:22.008 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:20.690 PM
+0xdf0116d3  CreateCompatibleDC ( 0x040119dc )   12:43:20.690 PM
+0x92051d97  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:20.690 PM
+0x0085000f  SelectObject ( 0xdf0116d3, 0x92051d97 ) 12:43:20.694 PM
+TRUE    BitBlt ( 0xdf0116d3, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:20.694 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:43:17.710 PM
+0x2d010a39  CreateCompatibleDC ( 0x0201145a )   12:43:17.710 PM
+0x81050918  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:43:17.710 PM
+0x0085000f  SelectObject ( 0x2d010a39, 0x81050918 ) 12:43:17.716 PM
+TRUE    BitBlt ( 0x2d010a39, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:43:17.716 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:16.699 PM
+0x99010aa6  CreateCompatibleDC ( 0xb70117e5 )   12:43:16.699 PM
+0xd90516d3  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:16.699 PM
+0x0085000f  SelectObject ( 0x99010aa6, 0xd90516d3 ) 12:43:16.705 PM
+TRUE    BitBlt ( 0x99010aa6, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:16.705 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:15.176 PM
+0x99011d3f  CreateCompatibleDC ( 0x06011eb5 )   12:43:15.176 PM
+0x1a051769  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:15.176 PM
+0x0085000f  SelectObject ( 0x99011d3f, 0x1a051769 ) 12:43:15.182 PM
+TRUE    BitBlt ( 0x99011d3f, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:15.182 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:13.573 PM
+0x39011e50  CreateCompatibleDC ( 0xb70117e5 )   12:43:13.573 PM
+0x97050aa6  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:13.573 PM
+0x0085000f  SelectObject ( 0x39011e50, 0x97050aa6 ) 12:43:13.575 PM
+TRUE    BitBlt ( 0x39011e50, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:13.575 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:08.720 PM
+0xbb011e29  CreateCompatibleDC ( 0x040119dc )   12:43:08.720 PM
+0x97051d3f  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:08.720 PM
+0x0085000f  SelectObject ( 0xbb011e29, 0x97051d3f ) 12:43:08.739 PM
+TRUE    BitBlt ( 0xbb011e29, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:08.739 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:07.992 PM
+0x01010ebf  CreateCompatibleDC ( 0x040119dc )   12:43:07.992 PM
+0x11051e4d  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:07.992 PM
+0x0085000f  SelectObject ( 0x01010ebf, 0x11051e4d ) 12:43:08.009 PM
+TRUE    BitBlt ( 0x01010ebf, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:08.009 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:07.324 PM
+0x64011bf4  CreateCompatibleDC ( 0x040119dc )   12:43:07.324 PM
+0xba051e29  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:07.325 PM
+0x0085000f  SelectObject ( 0x64011bf4, 0xba051e29 ) 12:43:07.336 PM
+TRUE    BitBlt ( 0x64011bf4, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:07.336 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:06.640 PM
+0xb8011e29  CreateCompatibleDC ( 0x040119dc )   12:43:06.640 PM
+0x00050ebf  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:06.640 PM
+0x0085000f  SelectObject ( 0xb8011e29, 0x00050ebf ) 12:43:06.647 PM
+TRUE    BitBlt ( 0xb8011e29, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:06.647 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:05.988 PM
+0x68011e93  CreateCompatibleDC ( 0x040119dc )   12:43:05.988 PM
+0x63051bf4  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:05.988 PM
+0x0085000f  SelectObject ( 0x68011e93, 0x63051bf4 ) 12:43:05.990 PM
+TRUE    BitBlt ( 0x68011e93, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:05.990 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:05.780 PM
+0x55011bf4  CreateCompatibleDC ( 0xb70117e5 )   12:43:05.780 PM
+0xcc050a7f  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:05.780 PM
+0x0085000f  SelectObject ( 0x55011bf4, 0xcc050a7f ) 12:43:05.787 PM
+TRUE    BitBlt ( 0x55011bf4, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:05.787 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:43:05.596 PM
+0x61011e87  CreateCompatibleDC ( 0x040119dc )   12:43:05.596 PM
+0x66051e93  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:43:05.596 PM
+0x0085000f  SelectObject ( 0x61011e87, 0x66051e93 ) 12:43:05.599 PM
+TRUE    BitBlt ( 0x61011e87, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:43:05.599 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:43:04.927 PM
+0x9f011d8f  CreateCompatibleDC ( 0x02011cf2 )   12:43:04.927 PM
+0x4d051e9e  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:43:04.927 PM
+0x0085000f  SelectObject ( 0x9f011d8f, 0x4d051e9e ) 12:43:04.945 PM
+TRUE    BitBlt ( 0x9f011d8f, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:43:04.945 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:04.280 PM
+0x55011e93  CreateCompatibleDC ( 0x06011eb5 )   12:43:04.280 PM
+0x4b050ac2  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:04.280 PM
+0x0085000f  SelectObject ( 0x55011e93, 0x4b050ac2 ) 12:43:04.282 PM
+TRUE    BitBlt ( 0x55011e93, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:04.282 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:43:04.047 PM
+0x65011e7c  CreateCompatibleDC ( 0x0201145a )   12:43:04.047 PM
+0x9d051d8f  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:43:04.047 PM
+0x0085000f  SelectObject ( 0x65011e7c, 0x9d051d8f ) 12:43:04.050 PM
+TRUE    BitBlt ( 0x65011e7c, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:43:04.050 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:43:03.830 PM
+0x44010ac2  CreateCompatibleDC ( 0x0201145a )   12:43:03.830 PM
+0x53051e93  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:43:03.830 PM
+0x0085000f  SelectObject ( 0x44010ac2, 0x53051e93 ) 12:43:03.843 PM
+TRUE    BitBlt ( 0x44010ac2, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:43:03.843 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:02.898 PM
+0x2e011e9e  CreateCompatibleDC ( 0x06011eb5 )   12:43:02.898 PM
+0x4f051d97  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:02.898 PM
+0x0085000f  SelectObject ( 0x2e011e9e, 0x4f051d97 ) 12:43:02.904 PM
+TRUE    BitBlt ( 0x2e011e9e, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:02.904 PM
+
+0x06011eb5  GetWindowDC ( NULL )    12:43:02.183 PM
+0x23011d95  CreateCompatibleDC ( 0x06011eb5 )   12:43:02.183 PM
+0x48051e87  CreateCompatibleBitmap ( 0x06011eb5, 1920, 1080 )   12:43:02.183 PM
+0x0085000f  SelectObject ( 0x23011d95, 0x48051e87 ) 12:43:02.186 PM
+TRUE    BitBlt ( 0x23011d95, 0, 0, 1920, 1080, 0x06011eb5, 0, 0, SRCCOPY )  12:43:02.186 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:43:01.158 PM
+0x28011e31  CreateCompatibleDC ( 0xb70117e5 )   12:43:01.158 PM
+0x9a051e29  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:43:01.158 PM
+0x0085000f  SelectObject ( 0x28011e31, 0x9a051e29 ) 12:43:01.160 PM
+TRUE    BitBlt ( 0x28011e31, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:43:01.160 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:55.790 PM
+0x4c01095a  CreateCompatibleDC ( 0xb70117e5 )   12:42:55.790 PM
+0x26050a28  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:55.790 PM
+0x0085000f  SelectObject ( 0x4c01095a, 0x26050a28 ) 12:42:55.794 PM
+TRUE    BitBlt ( 0x4c01095a, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:55.794 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:54.498 PM
+0x08011ebb  CreateCompatibleDC ( 0xb70117e5 )   12:42:54.498 PM
+0x03051e95  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:54.498 PM
+0x0085000f  SelectObject ( 0x08011ebb, 0x03051e95 ) 12:42:54.502 PM
+TRUE    BitBlt ( 0x08011ebb, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:54.502 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:53.613 PM
+0x2d010a61  CreateCompatibleDC ( 0xb70117e5 )   12:42:53.613 PM
+0x20050a28  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:53.613 PM
+0x0085000f  SelectObject ( 0x2d010a61, 0x20050a28 ) 12:42:53.615 PM
+TRUE    BitBlt ( 0x2d010a61, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:53.615 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:52.804 PM
+0x0f011a66  CreateCompatibleDC ( 0x08011699 )   12:42:52.804 PM
+0x0c0513c2  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:52.804 PM
+0x0085000f  SelectObject ( 0x0f011a66, 0x0c0513c2 ) 12:42:52.825 PM
+TRUE    BitBlt ( 0x0f011a66, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:52.825 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:52.172 PM
+0xe5011d8d  CreateCompatibleDC ( 0x0201145a )   12:42:52.172 PM
+0xb6051e24  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:52.172 PM
+0x0085000f  SelectObject ( 0xe5011d8d, 0xb6051e24 ) 12:42:52.188 PM
+TRUE    BitBlt ( 0xe5011d8d, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:52.190 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:51.526 PM
+0x32011d3f  CreateCompatibleDC ( 0x08011699 )   12:42:51.526 PM
+0x35050993  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:51.526 PM
+0x0085000f  SelectObject ( 0x32011d3f, 0x35050993 ) 12:42:51.539 PM
+TRUE    BitBlt ( 0x32011d3f, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:51.539 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:50.805 PM
+0x730113c2  CreateCompatibleDC ( 0x0201145a )   12:42:50.805 PM
+0xe3051d8d  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:50.805 PM
+0x0085000f  SelectObject ( 0x730113c2, 0xe3051d8d ) 12:42:50.826 PM
+TRUE    BitBlt ( 0x730113c2, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:50.826 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:50.153 PM
+0x5c0113c2  CreateCompatibleDC ( 0x0201145a )   12:42:50.153 PM
+0x30051d3f  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:50.153 PM
+0x0085000f  SelectObject ( 0x5c0113c2, 0x30051d3f ) 12:42:50.172 PM
+TRUE    BitBlt ( 0x5c0113c2, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:50.172 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:49.517 PM
+0x14011c5d  CreateCompatibleDC ( 0xb70117e5 )   12:42:49.517 PM
+0x10050e2c  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:49.517 PM
+0x0085000f  SelectObject ( 0x14011c5d, 0x10050e2c ) 12:42:49.535 PM
+TRUE    BitBlt ( 0x14011c5d, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:49.535 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:48.894 PM
+0x97010c89  CreateCompatibleDC ( 0xb70117e5 )   12:42:48.894 PM
+0x61051d4b  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:48.894 PM
+0x0085000f  SelectObject ( 0x97010c89, 0x61051d4b ) 12:42:48.900 PM
+TRUE    BitBlt ( 0x97010c89, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:48.900 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:42:48.304 PM
+0xf5011d3f  CreateCompatibleDC ( 0x02011cf2 )   12:42:48.304 PM
+0xa2051d8d  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:42:48.304 PM
+0x0085000f  SelectObject ( 0xf5011d3f, 0xa2051d8d ) 12:42:48.307 PM
+TRUE    BitBlt ( 0xf5011d3f, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:42:48.307 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:42:47.602 PM
+0x4501100d  CreateCompatibleDC ( 0x040119dc )   12:42:47.602 PM
+0x9c051417  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:42:47.602 PM
+0x0085000f  SelectObject ( 0x4501100d, 0x9c051417 ) 12:42:47.606 PM
+TRUE    BitBlt ( 0x4501100d, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:42:47.606 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:47.024 PM
+0xbb011424  CreateCompatibleDC ( 0xb70117e5 )   12:42:47.024 PM
+0x8a050693  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:47.024 PM
+0x0085000f  SelectObject ( 0xbb011424, 0x8a050693 ) 12:42:47.026 PM
+TRUE    BitBlt ( 0xbb011424, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:47.026 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:46.542 PM
+0x3e011d8d  CreateCompatibleDC ( 0xb70117e5 )   12:42:46.542 PM
+0xc6050e2c  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:46.542 PM
+0x0085000f  SelectObject ( 0x3e011d8d, 0xc6050e2c ) 12:42:46.547 PM
+TRUE    BitBlt ( 0x3e011d8d, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:46.547 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:45.920 PM
+0xb6010e2c  CreateCompatibleDC ( 0xb70117e5 )   12:42:45.920 PM
+0xb3051828  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:45.920 PM
+0x0085000f  SelectObject ( 0xb6010e2c, 0xb3051828 ) 12:42:45.922 PM
+TRUE    BitBlt ( 0xb6010e2c, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:45.922 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:45.333 PM
+0x91010e2c  CreateCompatibleDC ( 0x08011699 )   12:42:45.333 PM
+0x13051d8c  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:45.333 PM
+0x0085000f  SelectObject ( 0x91010e2c, 0x13051d8c ) 12:42:45.342 PM
+TRUE    BitBlt ( 0x91010e2c, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:45.342 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:44.656 PM
+0xfc010ee1  CreateCompatibleDC ( 0x08011699 )   12:42:44.656 PM
+0x250516ff  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:44.656 PM
+0x0085000f  SelectObject ( 0xfc010ee1, 0x250516ff ) 12:42:44.681 PM
+TRUE    BitBlt ( 0xfc010ee1, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:44.681 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:42:43.710 PM
+0x2b0109e9  CreateCompatibleDC ( 0x040119dc )   12:42:43.710 PM
+0x78051417  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:42:43.710 PM
+0x0085000f  SelectObject ( 0x2b0109e9, 0x78051417 ) 12:42:43.713 PM
+TRUE    BitBlt ( 0x2b0109e9, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:42:43.713 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:43.011 PM
+0xca011e30  CreateCompatibleDC ( 0xb70117e5 )   12:42:43.011 PM
+0xfa050ee1  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:43.011 PM
+0x0085000f  SelectObject ( 0xca011e30, 0xfa050ee1 ) 12:42:43.029 PM
+TRUE    BitBlt ( 0xca011e30, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:43.029 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:42:42.288 PM
+0xbd011e30  CreateCompatibleDC ( 0x040119dc )   12:42:42.288 PM
+0x27051e64  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:42:42.288 PM
+0x0085000f  SelectObject ( 0xbd011e30, 0x27051e64 ) 12:42:42.295 PM
+TRUE    BitBlt ( 0xbd011e30, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:42:42.295 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:41.474 PM
+0x1a011e64  CreateCompatibleDC ( 0x08011699 )   12:42:41.474 PM
+0x71051e25  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:41.474 PM
+0x0085000f  SelectObject ( 0x1a011e64, 0x71051e25 ) 12:42:41.490 PM
+TRUE    BitBlt ( 0x1a011e64, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:41.490 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:40.123 PM
+0x3d011e2c  CreateCompatibleDC ( 0x0201145a )   12:42:40.123 PM
+0xc4051e57  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:40.123 PM
+0x0085000f  SelectObject ( 0x3d011e2c, 0xc4051e57 ) 12:42:40.128 PM
+TRUE    BitBlt ( 0x3d011e2c, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:40.128 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:39.376 PM
+0xd0011769  CreateCompatibleDC ( 0x0201145a )   12:42:39.376 PM
+0x18051e64  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:39.376 PM
+0x0085000f  SelectObject ( 0xd0011769, 0x18051e64 ) 12:42:39.378 PM
+TRUE    BitBlt ( 0xd0011769, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:39.378 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:38.624 PM
+0x96011e30  CreateCompatibleDC ( 0x08011699 )   12:42:38.624 PM
+0xdd0517ca  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:38.624 PM
+0x0085000f  SelectObject ( 0x96011e30, 0xdd0517ca ) 12:42:38.629 PM
+TRUE    BitBlt ( 0x96011e30, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:38.629 PM
+
+0x040119dc  GetWindowDC ( NULL )    12:42:37.876 PM
+0xcd0117ca  CreateCompatibleDC ( 0x040119dc )   12:42:37.876 PM
+0xc205152c  CreateCompatibleBitmap ( 0x040119dc, 1920, 1080 )   12:42:37.876 PM
+0x0085000f  SelectObject ( 0xcd0117ca, 0xc205152c ) 12:42:37.892 PM
+TRUE    BitBlt ( 0xcd0117ca, 0, 0, 1920, 1080, 0x040119dc, 0, 0, SRCCOPY )  12:42:37.892 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:37.172 PM
+0x77011e30  CreateCompatibleDC ( 0xb70117e5 )   12:42:37.172 PM
+0x10051e2c  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:37.172 PM
+0x0085000f  SelectObject ( 0x77011e30, 0x10051e2c ) 12:42:37.177 PM
+TRUE    BitBlt ( 0x77011e30, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:37.177 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:36.475 PM
+0x71011d8e  CreateCompatibleDC ( 0xb70117e5 )   12:42:36.475 PM
+0x07051e64  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:36.475 PM
+0x0085000f  SelectObject ( 0x71011d8e, 0x07051e64 ) 12:42:36.493 PM
+TRUE    BitBlt ( 0x71011d8e, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:36.493 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:42:35.735 PM
+0x9a0113c3  CreateCompatibleDC ( 0x02011cf2 )   12:42:35.735 PM
+0x75051e30  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:42:35.735 PM
+0x0085000f  SelectObject ( 0x9a0113c3, 0x75051e30 ) 12:42:35.741 PM
+TRUE    BitBlt ( 0x9a0113c3, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:42:35.741 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:42:35.024 PM
+0x65011e30  CreateCompatibleDC ( 0x02011cf2 )   12:42:35.024 PM
+0xab0517ca  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:42:35.024 PM
+0x0085000f  SelectObject ( 0x65011e30, 0xab0517ca ) 12:42:35.029 PM
+TRUE    BitBlt ( 0x65011e30, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:42:35.029 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:32.732 PM
+0x22010920  CreateCompatibleDC ( 0x0201145a )   12:42:32.732 PM
+0x8d051797  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:32.732 PM
+0x0085000f  SelectObject ( 0x22010920, 0x8d051797 ) 12:42:32.738 PM
+TRUE    BitBlt ( 0x22010920, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:32.738 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:31.029 PM
+0x580113aa  CreateCompatibleDC ( 0x0201145a )   12:42:31.029 PM
+0x36051e29  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:31.029 PM
+0x0085000f  SelectObject ( 0x580113aa, 0x36051e29 ) 12:42:31.032 PM
+TRUE    BitBlt ( 0x580113aa, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:31.032 PM
+
+0xb70117e5  GetWindowDC ( NULL )    12:42:30.241 PM
+0x9c011e2c  CreateCompatibleDC ( 0xb70117e5 )   12:42:30.241 PM
+0xc1051763  CreateCompatibleBitmap ( 0xb70117e5, 1920, 1080 )   12:42:30.241 PM
+0x0085000f  SelectObject ( 0x9c011e2c, 0xc1051763 ) 12:42:30.246 PM
+TRUE    BitBlt ( 0x9c011e2c, 0, 0, 1920, 1080, 0xb70117e5, 0, 0, SRCCOPY )  12:42:30.246 PM
+
+0x02011cf2  GetWindowDC ( NULL )    12:42:29.447 PM
+0x81011e2d  CreateCompatibleDC ( 0x02011cf2 )   12:42:29.447 PM
+0x0d050c5c  CreateCompatibleBitmap ( 0x02011cf2, 1920, 1080 )   12:42:29.447 PM
+0x0085000f  SelectObject ( 0x81011e2d, 0x0d050c5c ) 12:42:29.449 PM
+TRUE    BitBlt ( 0x81011e2d, 0, 0, 1920, 1080, 0x02011cf2, 0, 0, SRCCOPY )  12:42:29.449 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:28.390 PM
+0x2b011e2e  CreateCompatibleDC ( 0x08011699 )   12:42:28.390 PM
+0x6e051e65  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:28.390 PM
+0x0085000f  SelectObject ( 0x2b011e2e, 0x6e051e65 ) 12:42:28.393 PM
+TRUE    BitBlt ( 0x2b011e2e, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:28.393 PM
+
+0x0201145a  GetWindowDC ( NULL )    12:42:23.922 PM
+0x35011d8e  CreateCompatibleDC ( 0x0201145a )   12:42:23.922 PM
+0x1e051e31  CreateCompatibleBitmap ( 0x0201145a, 1920, 1080 )   12:42:23.922 PM
+0x0085000f  SelectObject ( 0x35011d8e, 0x1e051e31 ) 12:42:23.926 PM
+TRUE    BitBlt ( 0x35011d8e, 0, 0, 1920, 1080, 0x0201145a, 0, 0, SRCCOPY )  12:42:23.926 PM
+
+0x08011699  GetWindowDC ( NULL )    12:42:22.057 PM
+0x1b011e26  CreateCompatibleDC ( 0x08011699 )   12:42:22.057 PM
+0x62051e65  CreateCompatibleBitmap ( 0x08011699, 1920, 1080 )   12:42:22.057 PM
+0x0085000f  SelectObject ( 0x1b011e26, 0x62051e65 ) 12:42:22.064 PM
+TRUE    BitBlt ( 0x1b011e26, 0, 0, 1920, 1080, 0x08011699, 0, 0, SRCCOPY )  12:42:22.064 PM
+
+0x07011453  GetWindowDC ( NULL )    12:41:57.566 PM
+0x740109a2  CreateCompatibleDC ( 0x07011453 )   12:41:57.566 PM
+0x2c051d8e  CreateCompatibleBitmap ( 0x07011453, 1920, 1080 )   12:41:57.566 PM
+0x0085000f  SelectObject ( 0x740109a2, 0x2c051d8e ) 12:41:57.569 PM
+TRUE    BitBlt ( 0x740109a2, 0, 0, 1920, 1080, 0x07011453, 0, 0, SRCCOPY )  12:41:57.569 PM
+
+Nombre d'appel : 124

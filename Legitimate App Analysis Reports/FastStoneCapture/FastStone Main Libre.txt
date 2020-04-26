@@ -1,0 +1,37 @@
+0x8e0118de  CreateCompatibleDC ( NULL ) 8:22:21.609 PM
+0x0a01228a  CreateCompatibleDC ( NULL ) 8:22:21.610 PM
+0xda052107  CreateDIBSection ( 0x3c011f6b, 0x04f79660, DIB_RGB_COLORS, 0x0019f6f0, NULL, 0 )    8:22:21.606 PM
+0x0085000f  SelectObject ( 0x0a01228a, 0xda052107 ) 8:22:21.610 PM
+TRUE    BitBlt ( 0x0a01228a, 0, 0, 751, 513, 0x8e0118de, 0, 0, SRCCOPY )    8:22:21.610 PM
+
+0x0a01228a  CreateCompatibleDC ( NULL ) 8:22:21.610 PM
+0x8e0118de  CreateCompatibleDC ( NULL ) 8:22:21.609 PM
+0x01051e6c  CreateDIBSection ( 0x3c011f6b, 0x04f79660, DIB_RGB_COLORS, 0x0019f6f0, NULL, 0 )    8:22:21.608 PM
+0x0085000f  SelectObject ( 0x8e0118de, 0x01051e6c ) 8:22:21.609 PM
+TRUE    StretchBlt ( 0x8e0118de, 0, 0, 751, 513, 0x0a01228a, 0, 0, 751, 513, SRCCOPY )  8:22:21.610 PM
+
+0x0801228a  CreateCompatibleDC ( 0x3c011f6b )   8:22:21.607 PM
+0x00011e6c  CreateCompatibleDC ( 0x3c011f6b )   8:22:21.606 PM
+0xda052107  CreateDIBSection ( 0x3c011f6b, 0x04f79660, DIB_RGB_COLORS, 0x0019f6f0, NULL, 0 )    8:22:21.606 PM
+0x0085000f  SelectObject ( 0x00011e6c, 0xda052107 ) 8:22:21.606 PM
+TRUE    BitBlt ( 0x00011e6c, 0, 0, 751, 513, 0x0801228a, 0, 0, SRCCOPY )    8:22:21.607 PM
+
+0x0701228a  CreateCompatibleDC ( 0x3c011f6b )   8:22:21.605 PM
+0xd9012107  CreateCompatibleDC ( 0x3c011f6b )   8:22:21.603 PM
+0x2f05202d  CreateDIBSection ( 0x3c011f6b, 0x04f79660, DIB_RGB_COLORS, 0x0019f6f0, NULL, 0 )    8:22:21.603 PM
+0x0085000f  SelectObject ( 0xd9012107, 0x2f05202d ) 8:22:21.603 PM
+TRUE    BitBlt ( 0xd9012107, 0, 0, 751, 1080, 0x0701228a, 0, 0, SRCCOPY )   8:22:21.605 PM
+
+0x03011ebf  CreateCompatibleDC ( NULL ) 8:22:21.603 PM
+0xd7012107  CreateCompatibleDC ( NULL ) 8:22:21.599 PM
+0xaa052377  CreateDIBSection ( 0x88011912, 0x04f79660, DIB_RGB_COLORS, 0x0019fb38, NULL, 0 )    8:22:15.486 PM
+0x0085000f  SelectObject ( 0xd7012107, 0xaa052377 ) 8:22:21.599 PM
+TRUE    BitBlt ( 0xd7012107, 0, 0, 751, 513, 0x03011ebf, 663, 195, SRCCOPY )    8:22:21.603 PM
+
+0x3c011f6b  GetWindowDC ( 0x00010010 )  8:22:15.491 PM
+0x1b012282  CreateCompatibleDC ( NULL ) 8:22:15.491 PM
+0xaa052377  CreateDIBSection ( 0x88011912, 0x04f79660, DIB_RGB_COLORS, 0x0019fb38, NULL, 0 )    8:22:15.486 PM
+0x0085000f  SelectObject ( 0x1b012282, 0xaa052377 ) 8:22:15.491 PM
+TRUE    BitBlt ( 0x1b012282, 0, 0, 1920, 1080, 0x3c011f6b, 0, 0, 1087111200 )   8:22:15.491 PM
+
+Nombre d'appel : 6

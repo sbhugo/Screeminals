@@ -1,0 +1,16 @@
+0x69050775	CreateDIBSection ( 0xc10115fc, 0x00afdf50, DIB_RGB_COLORS, 0x00afdf14, NULL, 0 )	5:37:11.312 PM
+0xd3010cff	GetDC ( NULL )	5:37:11.327 PM
+0x70010f52  CreateCompatibleDC ( 0xd3010cff )   5:37:11.327 PM
+0x0085000f	SelectObject ( 0x70010f52, 0x69050775 )	5:37:11.327 PM
+0x02010ba9  CreateCompatibleDC ( 0xd3010cff )   5:37:11.327 PM
+0xb0050d68  CreateCompatibleBitmap ( 0xd3010cff, 1920, 1080 )   5:37:11.327 PM
+0x0085000f  SelectObject ( 0x02010ba9, 0xb0050d68 ) 5:37:11.327 PM
+TRUE    BitBlt ( 0x02010ba9, 0, 0, 1920, 1080, 0x70010f52, 0, 0, SRCCOPY )  5:37:11.327 PM
+
+0xe50117f1  GetWindowDC ( 0x00010010 )  5:37:11.227 PM
+0xb301166e  CreateCompatibleDC ( 0xe50117f1 )   5:37:11.227 PM
+0xd1050eec  CreateDIBSection ( 0xe50117f1, 0x00afea14, DIB_RGB_COLORS, 0x00afea10, NULL, 0 )    5:37:11.227 PM
+0x0085000f  SelectObject ( 0xb301166e, 0xd1050eec ) 5:37:11.227 PM
+TRUE    BitBlt ( 0xb301166e, 0, 0, 1920, 1080, 0xe50117f1, 0, 0, 1087111200 )   5:37:11.227 PM
+
+Nombre d'appel : 2

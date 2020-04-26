@@ -1,0 +1,2065 @@
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.476 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x28df5710, 0x1e2ff3d4 )    7:54:51.568 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x5446c9b8, 0x1e2ff3c8 )   7:54:51.568 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.588 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x28df5710, 0x1e2ff3d4 )    7:54:51.588 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x5446c9b8, 0x1e2ff3c8 )   7:54:51.588 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.620 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x28df5710, 0x1e2ff3d4 )    7:54:51.621 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x5446c9b8, 0x1e2ff3c8 )   7:54:51.621 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.654 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e876cc8, 0x1e2ff3d4 )   7:54:51.654 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x29c467b0, 0x1e2ff3c8 )  7:54:51.654 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.688 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 176, 0x1e9319c0, 0x1e2ff3d4 )   7:54:51.688 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 176, 0x1e899188, 0x1e2ff3c8 )  7:54:51.688 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.722 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:51.722 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:51.722 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.755 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:51.755 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:51.755 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:51.890 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:51.891 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:51.891 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:52.023 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:52.156 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.292 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.292 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:52.292 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:52.424 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:52.557 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.691 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x1e9319c0, 0x1e2ff3d4 )   7:54:52.691 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x1e899188, 0x1e2ff3c8 )  7:54:52.691 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x1e9319c0, 0x1e2ff3d4 )   7:54:52.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x1e899188, 0x1e2ff3c8 )  7:54:52.824 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:52.957 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:54:52.957 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:54:52.957 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.091 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.091 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:53.091 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.224 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.225 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:53.225 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.357 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.357 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:53.357 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.491 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x1e9319c0, 0x1e2ff3d4 )   7:54:53.491 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x1e899188, 0x1e2ff3c8 )  7:54:53.491 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.625 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.625 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:53.625 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.759 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.759 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:53.759 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:53.922 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:53.923 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:53.923 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.060 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e9319c0, 0x1e2ff3d4 )   7:54:54.060 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x1e899188, 0x1e2ff3c8 )  7:54:54.060 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.194 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.194 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:54.194 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.460 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.460 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:54.460 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.593 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.593 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:54.593 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.726 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.727 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:54.727 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.860 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.860 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:54.860 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:54.993 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:54:54.993 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:54:54.993 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.127 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.129 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:55.129 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.260 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.261 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:55.261 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.394 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.394 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:55.394 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.528 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.528 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:55.528 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.661 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.661 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:55.661 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.795 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.795 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:54:55.795 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:55.929 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:55.929 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:55.929 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.062 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.063 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:56.063 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.197 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.197 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:56.197 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.329 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.329 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:56.329 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.463 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.463 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:56.463 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.596 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.597 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:56.597 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.731 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.731 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:56.731 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.864 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.864 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:56.864 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:56.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:56.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:56.996 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.130 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.130 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:57.130 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.263 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.263 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:57.263 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:57.397 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.531 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.531 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:57.531 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.664 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.664 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:57.664 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.798 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.798 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:57.798 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:57.930 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:54:57.930 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:54:57.930 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.063 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.063 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:58.063 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.198 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.198 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:58.198 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:58.331 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:58.464 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.597 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.597 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:54:58.597 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.730 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.730 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:58.730 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.864 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.864 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:58.864 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:58.998 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:54:58.998 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:54:58.998 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.131 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.131 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:54:59.131 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.265 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.265 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:59.265 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:54:59.397 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.531 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.531 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:54:59.531 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.665 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.665 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:59.665 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.799 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.799 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:54:59.799 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:54:59.932 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:54:59.932 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:54:59.932 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.065 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.065 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:00.065 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.198 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.198 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:00.198 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:00.331 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:00.464 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.597 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.597 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:00.597 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.730 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.730 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:00.730 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.863 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.863 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:00.863 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:00.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:00.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:00.996 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.129 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.129 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:01.129 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.263 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.263 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:01.263 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.397 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:01.397 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.530 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.530 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:01.530 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.664 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.664 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:01.664 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.798 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.798 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:01.798 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:01.933 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:01.933 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:01.933 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.066 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.066 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:02.066 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.200 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.200 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:02.200 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:02.333 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.467 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.467 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:02.467 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.600 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.600 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:02.600 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.733 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 176, 0x1e9319c0, 0x1e2ff3d4 )   7:55:02.733 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 176, 0x1e899188, 0x1e2ff3c8 )  7:55:02.733 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:02.866 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:02.866 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:02.866 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.001 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.001 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:03.001 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.134 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.134 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:03.134 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.267 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.267 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:03.267 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.401 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.401 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:03.401 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.534 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.534 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:03.534 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.667 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.667 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:03.667 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.800 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.800 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:03.801 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:03.934 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:03.934 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:03.934 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.067 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.067 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:04.067 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.200 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.200 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:04.200 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:04.333 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.466 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.466 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:04.466 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.600 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.600 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:04.600 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.732 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.732 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:04.732 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.866 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.866 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:04.866 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:04.999 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:04.999 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:04.999 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.133 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.133 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.133 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.266 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.266 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.266 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.399 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.399 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:05.399 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.532 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.532 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.532 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.666 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.666 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.666 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.800 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.800 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.800 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:05.934 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:05.934 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:05.934 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.068 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.069 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:06.069 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.201 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.201 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:06.201 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.334 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.334 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:06.334 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.468 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.468 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:06.468 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.601 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.601 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:06.601 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.735 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.735 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:06.735 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:06.869 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:06.869 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:06.869 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.002 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.002 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:07.002 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.136 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.137 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:07.137 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.269 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.269 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:07.269 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.403 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.403 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:07.403 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.537 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.537 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:07.537 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.670 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.670 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:07.670 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.803 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x1e9319c0, 0x1e2ff3d4 )   7:55:07.803 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x1e899188, 0x1e2ff3c8 )  7:55:07.803 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:07.937 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:07.937 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:07.937 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.070 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.070 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:08.070 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.204 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.204 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:08.204 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.337 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.337 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:08.337 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.471 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.472 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:08.472 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:08.605 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:08.739 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:08.873 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:08.873 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:08.873 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.006 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.006 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:09.006 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.140 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.141 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:09.141 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.274 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.274 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:09.274 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.407 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.407 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:09.407 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.540 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.540 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:09.540 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.673 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.673 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:09.673 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.806 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.806 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:09.806 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:09.940 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:09.940 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:09.940 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.073 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.073 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:10.073 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.205 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.205 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:10.205 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.338 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.338 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:10.338 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.473 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.473 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:10.473 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:10.605 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:10.739 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:10.872 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:10.872 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:10.872 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.006 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.006 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:11.006 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.139 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.144 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:11.144 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.273 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.274 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:11.274 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.409 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.410 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:11.410 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.542 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.544 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:11.544 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.677 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.677 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x1e899188, 0x1e2ff3c8 )   7:55:11.677 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.811 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.811 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:11.811 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:11.970 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:11.970 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:11.970 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.080 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:12.080 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:12.080 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.214 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:12.216 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:12.216 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.349 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:12.349 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:12.349 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.482 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:12.483 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:12.483 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.616 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:12.616 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:12.616 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.749 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e9319c0, 0x1e2ff3d4 )   7:55:12.750 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x1e899188, 0x1e2ff3c8 )  7:55:12.750 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:12.883 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x1e9319c0, 0x1e2ff3d4 )   7:55:12.883 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x1e899188, 0x1e2ff3c8 )  7:55:12.883 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.018 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.018 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:13.018 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.158 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.160 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:13.160 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.291 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.291 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:13.291 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:13.424 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:13.557 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.691 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.693 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:13.693 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.825 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.825 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:13.825 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:13.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:13.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:13.959 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.095 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.096 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:14.096 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.228 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.229 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:14.229 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.362 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.362 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:14.362 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.496 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.496 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:14.496 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.629 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.629 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:14.629 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.762 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.763 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x1e899188, 0x1e2ff3c8 )   7:55:14.763 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:14.897 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:14.898 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:14.898 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.031 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.031 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x1e899188, 0x1e2ff3c8 )   7:55:15.031 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.164 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.164 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:15.164 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.298 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.299 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:15.300 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.443 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.447 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x1e899188, 0x1e2ff3c8 )   7:55:15.448 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.567 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.567 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x1e899188, 0x1e2ff3c8 )   7:55:15.567 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.700 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e9319c0, 0x1e2ff3d4 )    7:55:15.701 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x1e899188, 0x1e2ff3c8 )   7:55:15.701 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.833 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 224, 0x1e8bf170, 0x1e2ff3d4 )   7:55:15.833 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 224, 0x12b18b38, 0x1e2ff3c8 )  7:55:15.833 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:15.968 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:15.995 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:15.995 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.101 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 224, 0x1e8bf170, 0x1e2ff3d4 )   7:55:16.101 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 224, 0x12b18b38, 0x1e2ff3c8 )  7:55:16.101 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.239 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:16.239 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:16.239 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.373 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:16.373 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:16.373 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.506 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 256, 0x1e8bf170, 0x1e2ff3d4 )   7:55:16.507 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 256, 0x12b18b38, 0x1e2ff3c8 )  7:55:16.507 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.641 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:16.641 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:16.641 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.774 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:16.775 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:16.775 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:16.908 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:16.908 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:16.908 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.041 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.041 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.041 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.174 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.174 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.174 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.307 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.307 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.307 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.441 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.441 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.441 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.575 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.575 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.575 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.709 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.711 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.711 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.843 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.843 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.843 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:17.977 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:17.977 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:17.977 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.110 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.110 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.110 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.244 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.244 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.244 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.385 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.390 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.390 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.519 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.520 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.520 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.652 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.652 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.652 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.785 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.789 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.789 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:18.919 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:18.919 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:18.919 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.052 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.052 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.052 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.185 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.187 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.187 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.319 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.319 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.319 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.452 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.452 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.452 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.585 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.585 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.585 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.718 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.718 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.718 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.851 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.851 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.851 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:19.985 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:19.985 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:19.985 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.118 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.118 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.118 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.251 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.251 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.251 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.385 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.386 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.386 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.518 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.518 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.518 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.651 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.651 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.651 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.784 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.784 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.784 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:20.917 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:20.917 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:20.917 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.050 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.050 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.050 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.182 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.182 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.182 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.316 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.316 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.316 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.448 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.448 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.448 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.582 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e8bf170, 0x1e2ff3d4 )   7:55:21.582 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x12b18b38, 0x1e2ff3c8 )  7:55:21.582 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.716 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.716 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.716 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.849 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.849 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.849 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:21.982 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:21.990 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:21.990 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.116 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.116 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.116 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.250 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.250 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.250 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.383 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.383 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.383 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.517 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x1e8bf170, 0x1e2ff3d4 )   7:55:22.517 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x12b18b38, 0x1e2ff3c8 )  7:55:22.517 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.650 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.650 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.650 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.783 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.783 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.783 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:22.919 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:22.920 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:22.920 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.052 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.054 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.054 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.186 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.186 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.186 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.320 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.320 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.320 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.454 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.454 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.454 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.587 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.587 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.587 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.721 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.721 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.722 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.855 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.855 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.855 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:23.988 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:23.988 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:23.988 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.121 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.121 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.121 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.255 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.256 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.256 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.389 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.389 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.389 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.522 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.522 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.522 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.656 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.656 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.656 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:24.923 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:24.923 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:24.923 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.056 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.056 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.056 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.189 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.189 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.189 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.323 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.323 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.323 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.457 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.457 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.457 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.591 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.591 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.591 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.725 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.725 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.725 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:25.991 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e8bf170, 0x1e2ff3d4 )    7:55:25.991 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x12b18b38, 0x1e2ff3c8 )   7:55:25.991 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:26.124 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:26.124 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:26.124 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:26.258 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:26.258 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:26.258 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:26.392 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:26.791 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:26.791 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:26.925 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:26.925 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:26.925 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.058 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.058 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.058 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.191 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.191 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.191 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.326 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.326 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.326 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.460 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.461 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.461 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.594 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.594 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.594 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.728 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.728 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.728 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.862 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.862 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.862 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:27.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:27.996 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:27.996 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:28.130 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:28.130 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:28.130 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:28.395 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:28.529 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:28.529 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:28.662 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:28.662 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:28.662 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:28.796 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:28.796 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:28.796 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:28.929 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:28.929 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:28.929 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.063 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.063 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.063 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.197 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.197 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.197 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.331 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.331 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.464 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.464 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.598 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.598 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.598 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.864 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.865 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.865 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:29.998 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:29.998 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:29.998 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:30.131 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:30.131 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:30.131 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:30.398 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:30.398 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:30.398 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:30.532 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:30.532 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:30.532 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:30.666 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:30.799 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:30.799 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:30.933 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e8bf170, 0x1e2ff3d4 )   7:55:30.933 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x12b18b38, 0x1e2ff3c8 )  7:55:30.933 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.066 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.066 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.066 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.199 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.200 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.200 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.333 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.333 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.467 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.467 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.467 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.599 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.599 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.599 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.733 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.733 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.733 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:31.867 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:31.867 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:31.867 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.000 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x1e8bf170, 0x1e2ff3d4 )   7:55:32.000 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x12b18b38, 0x1e2ff3c8 )  7:55:32.000 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.134 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.134 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.134 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.267 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.267 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.267 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.401 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.401 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.401 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.535 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.535 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.535 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.669 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e8bf170, 0x1e2ff3d4 )   7:55:32.669 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x12b18b38, 0x1e2ff3c8 )  7:55:32.669 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.802 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.802 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.802 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:32.937 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:32.937 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:32.937 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.070 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.070 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.070 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.203 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.203 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.203 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.336 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.336 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.336 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.469 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.469 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.469 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.603 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.603 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.603 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.736 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.736 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.736 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:33.870 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:33.870 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:33.870 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.003 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.003 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.003 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.137 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.137 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.137 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.270 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.270 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.270 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.405 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.405 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.405 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.538 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.538 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.539 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.672 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.672 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.672 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.805 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.805 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.805 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:34.939 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:34.939 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:34.939 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.072 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.072 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.072 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.206 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.206 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.206 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.340 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.340 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.340 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.472 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.472 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.472 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.605 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.605 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.739 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.739 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:35.874 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:35.874 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:35.874 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.007 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.007 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.007 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.140 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.140 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.140 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.275 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x1e8bf170, 0x1e2ff3d4 )   7:55:36.275 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x12b18b38, 0x1e2ff3c8 )  7:55:36.275 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.409 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.409 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.409 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.542 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.542 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.542 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.675 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.675 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.675 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.810 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.810 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.810 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:36.944 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x1e8bf170, 0x1e2ff3d4 )    7:55:36.944 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x12b18b38, 0x1e2ff3c8 )   7:55:36.944 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.077 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.077 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.077 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.209 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.209 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.209 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.342 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.342 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.342 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.476 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.476 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.476 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.609 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.609 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.609 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.743 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x1e8bf170, 0x1e2ff3d4 )    7:55:37.743 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x12b18b38, 0x1e2ff3c8 )   7:55:37.743 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:37.875 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x1e8bf170, 0x1e2ff3d4 )   7:55:37.875 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x12b18b38, 0x1e2ff3c8 )  7:55:37.875 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.009 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 464, 0x4158eaf8, 0x1e2ff3d4 )   7:55:38.009 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 464, 0x41413db0, 0x1e2ff3c8 )  7:55:38.009 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.142 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x4158eaf8, 0x1e2ff3d4 )   7:55:38.142 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x41413db0, 0x1e2ff3c8 )  7:55:38.142 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.277 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:38.277 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:38.277 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.411 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:38.411 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:38.411 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.544 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 208, 0x4158eaf8, 0x1e2ff3d4 )   7:55:38.544 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 208, 0x41413db0, 0x1e2ff3c8 )  7:55:38.544 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.677 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:38.677 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:38.677 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.811 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:38.811 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:38.811 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:38.945 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:38.945 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:38.945 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.084 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x4158eaf8, 0x1e2ff3d4 )   7:55:39.084 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x41413db0, 0x1e2ff3c8 )  7:55:39.084 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.217 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.217 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:39.217 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.353 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.353 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:39.354 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.486 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.486 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:39.486 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.620 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.620 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:39.620 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.754 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.754 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:39.754 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:39.886 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:39.886 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:39.886 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.020 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.020 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:40.020 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.153 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:40.153 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:40.153 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.286 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.286 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:40.286 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.420 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.420 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:40.420 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.552 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.552 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:40.552 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.685 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:40.685 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:40.685 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.819 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.819 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:40.819 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:40.954 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:40.954 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:40.954 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.086 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.086 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:41.086 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.219 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.219 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:41.219 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.351 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.351 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:41.351 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.485 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:41.485 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:41.485 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.619 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.619 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:41.619 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.752 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.752 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:41.752 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:41.885 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:41.885 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:41.885 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.021 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.021 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:42.021 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 224, 0x4158eaf8, 0x1e2ff3d4 )   7:55:42.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 224, 0x41413db0, 0x1e2ff3c8 )  7:55:42.154 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x41413db0, 0x1e2ff3c8 )   7:55:42.287 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.421 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.421 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:42.421 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.555 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.555 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:42.555 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.688 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x4158eaf8, 0x1e2ff3d4 )   7:55:42.688 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x41413db0, 0x1e2ff3c8 )  7:55:42.688 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.821 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.821 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x41413db0, 0x1e2ff3c8 )   7:55:42.821 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:42.954 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:42.954 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:42.954 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.086 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x4158eaf8, 0x1e2ff3d4 )   7:55:43.086 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x41413db0, 0x1e2ff3c8 )  7:55:43.086 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.220 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:43.220 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:43.220 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.353 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:55:43.353 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:55:43.353 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.486 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:43.486 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:43.486 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.620 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:43.620 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:43.621 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.753 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:43.753 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:43.753 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:43.887 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:43.887 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:43.887 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.021 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.021 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:44.021 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:44.154 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:44.287 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.420 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.420 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:44.420 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.553 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x4158eaf8, 0x1e2ff3d4 )   7:55:44.553 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x41413db0, 0x1e2ff3c8 )  7:55:44.553 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.686 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.686 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x41413db0, 0x1e2ff3c8 )   7:55:44.686 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.819 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.819 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:44.819 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:44.953 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:44.953 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:44.953 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.088 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 48, 0x4158eaf8, 0x1e2ff3d4 )    7:55:45.088 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 48, 0x41413db0, 0x1e2ff3c8 )   7:55:45.088 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.221 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:45.221 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:45.221 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.354 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:45.354 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:45.354 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.488 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:45.488 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:45.488 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.622 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:45.622 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:45.622 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.755 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:45.755 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:45.755 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:45.888 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:45.888 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:45.888 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.022 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:46.022 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:46.022 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:46.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:46.156 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.290 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:46.290 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:46.290 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:46.424 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:46.424 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:46.557 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:46.557 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.690 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:46.690 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:46.690 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:55:46.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:55:46.824 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:46.958 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:46.958 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:46.958 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.091 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:47.091 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:47.091 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.223 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:47.223 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:47.223 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.356 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:47.356 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:47.356 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.490 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:47.490 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:47.490 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.623 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:47.623 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:47.623 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.756 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:47.756 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:47.756 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:47.890 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:47.891 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:47.891 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:48.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:48.023 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.157 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:48.157 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:48.157 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.289 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:48.289 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:48.289 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.422 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:48.422 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:48.422 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:48.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:48.556 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.689 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:48.689 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:48.689 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.823 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x4158eaf8, 0x1e2ff3d4 )   7:55:48.823 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x41413db0, 0x1e2ff3c8 )  7:55:48.823 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:48.956 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:48.956 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:48.956 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.089 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.089 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:49.089 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.222 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.222 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:49.222 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.355 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.355 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:49.355 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.488 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:49.488 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:49.488 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.622 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.622 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:49.622 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.754 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.754 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:49.754 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:49.887 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:49.887 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:49.887 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.020 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.020 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:50.020 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:55:50.154 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:55:50.154 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.287 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:50.287 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.422 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.422 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:50.422 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:50.556 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.689 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.689 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:50.689 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.822 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.822 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:50.822 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:50.956 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:50.956 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:50.956 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.089 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:51.089 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:51.089 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.223 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:51.223 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:51.223 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.357 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:51.357 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:51.357 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.490 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:51.490 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:51.490 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.623 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:51.623 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:51.623 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.757 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:51.757 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:51.757 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:51.890 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:51.890 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:51.890 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.023 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:52.023 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x4158eaf8, 0x1e2ff3d4 )   7:55:52.156 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x41413db0, 0x1e2ff3c8 )  7:55:52.156 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.290 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.290 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:52.290 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.423 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.423 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:52.423 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.556 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:52.556 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.690 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:52.690 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:52.690 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.824 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:52.824 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:52.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:52.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:52.959 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.092 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.092 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:53.092 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.225 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.225 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:53.225 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.358 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:53.358 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:53.358 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.492 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.492 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:53.492 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.626 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.626 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:53.626 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.759 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.759 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:53.759 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:53.892 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:53.892 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:53.892 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.026 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:54.026 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:54.026 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.159 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:54.159 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:54.159 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.292 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:54.292 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:54.292 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.425 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:54.425 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:54.425 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.559 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:54.559 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:54.559 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.692 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:54.692 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:54.692 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.826 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:54.826 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:54.826 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:54.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:54.959 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:54.959 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.092 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 64, 0x4158eaf8, 0x1e2ff3d4 )    7:55:55.092 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 64, 0x41413db0, 0x1e2ff3c8 )   7:55:55.092 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.225 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 112, 0x4158eaf8, 0x1e2ff3d4 )   7:55:55.225 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 112, 0x41413db0, 0x1e2ff3c8 )  7:55:55.225 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.359 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:55.359 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:55.359 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.492 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:55.492 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:55.492 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.626 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:55.626 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:55.626 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.760 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 240, 0x4158eaf8, 0x1e2ff3d4 )   7:55:55.760 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 240, 0x41413db0, 0x1e2ff3c8 )  7:55:55.760 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:55.894 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:55.894 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:55.894 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.027 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:56.027 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:56.027 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.160 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:55:56.160 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:55:56.160 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.294 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 240, 0x4158eaf8, 0x1e2ff3d4 )   7:55:56.294 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 240, 0x41413db0, 0x1e2ff3c8 )  7:55:56.294 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.428 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:56.428 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:56.428 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.561 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:56.561 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:56.561 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.695 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:56.695 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:56.695 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.829 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:55:56.829 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:55:56.829 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:56.961 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:56.961 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:56.961 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.094 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.094 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:57.094 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.228 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.228 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:57.228 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.362 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.362 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:57.362 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.495 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:57.495 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:57.495 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.629 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.629 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:57.629 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.762 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.762 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:57.762 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:57.896 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:57.896 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:57.896 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.029 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:58.029 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:58.029 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.163 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:55:58.163 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:55:58.163 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.297 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:58.297 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:58.297 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.430 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:58.430 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:58.430 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.563 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:58.563 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:58.563 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.697 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:58.697 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:58.697 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.831 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:58.831 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:58.831 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:58.964 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:58.964 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:58.964 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.097 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 144, 0x4158eaf8, 0x1e2ff3d4 )   7:55:59.097 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 144, 0x41413db0, 0x1e2ff3c8 )  7:55:59.097 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.231 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 96, 0x4158eaf8, 0x1e2ff3d4 )    7:55:59.231 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 96, 0x41413db0, 0x1e2ff3c8 )   7:55:59.231 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.363 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:59.363 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:59.363 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.496 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:55:59.496 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:55:59.496 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.630 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:55:59.630 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:55:59.630 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.762 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 16, 0x4158eaf8, 0x1e2ff3d4 )    7:55:59.762 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 16, 0x41413db0, 0x1e2ff3c8 )   7:55:59.762 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:55:59.896 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:55:59.896 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:55:59.896 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.029 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:56:00.029 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:56:00.029 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.162 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 80, 0x4158eaf8, 0x1e2ff3d4 )    7:56:00.162 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 80, 0x41413db0, 0x1e2ff3c8 )   7:56:00.162 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.295 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:56:00.295 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:56:00.295 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.429 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 128, 0x4158eaf8, 0x1e2ff3d4 )   7:56:00.429 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 128, 0x41413db0, 0x1e2ff3c8 )  7:56:00.429 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.563 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:56:00.563 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:56:00.563 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.696 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:56:00.696 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:56:00.696 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.830 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:56:00.830 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:56:00.830 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:00.963 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 160, 0x4158eaf8, 0x1e2ff3d4 )   7:56:00.963 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 160, 0x41413db0, 0x1e2ff3c8 )  7:56:00.963 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:01.097 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 32, 0x4158eaf8, 0x1e2ff3d4 )    7:56:01.097 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 32, 0x41413db0, 0x1e2ff3c8 )   7:56:01.097 PM
+
+S_OK    IDXGIOutputDuplication::AcquireNextFrame ( 20, 0x1e2ff498, 0x1e2ff4c8 ) 7:56:01.231 PM
+S_OK    IDXGIOutputDuplication::GetFrameMoveRects ( 192, 0x4158eaf8, 0x1e2ff3d4 )   7:56:01.231 PM
+S_OK    IDXGIOutputDuplication::GetFrameDirtyRects ( 192, 0x41413db0, 0x1e2ff3c8 )  7:56:01.231 PM
+
+Nombre d'appel : 516

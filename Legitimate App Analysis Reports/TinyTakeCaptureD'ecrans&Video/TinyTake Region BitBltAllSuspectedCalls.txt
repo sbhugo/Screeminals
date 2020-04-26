@@ -1,0 +1,23 @@
+0x4e01100d	GetDC ( NULL )	7:14:39.661 PM
+0xad011195  	CreateCompatibleDC ( 0x4e01100d )   7:14:39.661 PM
+Return Value	API	Time of Day
+0x4e01100d	GetDC ( NULL )	7:14:39.661 PM
+0xb305108b	CreateDIBSection ( 0xab011195, 0x00afe390, DIB_RGB_COLORS, 0x00afe354, NULL, 0 )	7:14:39.650 PM
+0xe0011080  CreateCompatibleDC ( 0x4e01100d )   7:14:39.661 PM
+0x4c050dd2  CreateCompatibleBitmap ( 0x4e01100d, 1217, 924 )    7:14:39.661 PM
+0x0085000f  SelectObject ( 0xe0011080, 0x4c050dd2 ) 7:14:39.663 PM
+TRUE    BitBlt ( 0xe0011080, 0, 0, 1217, 924, 0xad011195, 0, 0, SRCCOPY )   7:14:39.663 PM
+
+0x750110c9  GetWindowDC ( 0x00010010 )  7:14:39.520 PM
+0xca011080  CreateCompatibleDC ( 0x750110c9 )   7:14:39.521 PM
+0xc50511bb  CreateDIBSection ( 0x750110c9, 0x00afee8c, DIB_RGB_COLORS, 0x00afee88, NULL, 0 )    7:14:39.521 PM
+0x0085000f  SelectObject ( 0xca011080, 0xc50511bb ) 7:14:39.521 PM
+TRUE    BitBlt ( 0xca011080, 0, 0, 1217, 924, 0x750110c9, 652, 103, 1087111200 )    7:14:39.521 PM
+
+0x440112b5  GetWindowDC ( 0x00010010 )  7:13:55.243 PM
+0x1f0111f8  CreateCompatibleDC ( 0x440112b5 )   7:13:55.244 PM
+0xb2051066  CreateDIBSection ( 0x440112b5, 0x00afead0, DIB_RGB_COLORS, 0x00afeacc, NULL, 0 )    7:13:55.244 PM
+0x0085000f  SelectObject ( 0x1f0111f8, 0xb2051066 ) 7:13:55.245 PM
+TRUE    BitBlt ( 0x1f0111f8, 0, 0, 1920, 1080, 0x440112b5, 0, 0, 1087111200 )   7:13:55.245 PM
+
+Nombre d'appel : 3

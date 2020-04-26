@@ -1,0 +1,20 @@
+Temps d'execution minimal         : 0.000002
+
+Temps d'execution maximal         : 0.0030138
+
+Temps moyen d'execution           : 0.000012770735863671571
+
+La variance du temps d'execution  : 0.000000003419194006043017
+
+L'ecart-type du temps d'execution : 0.000058473874559866625
+
+Taille minimal                    : 0
+
+Taille maximal                    : 496
+
+Taille moyen                      : 132.87312161115415
+
+La variance de la Taille          : 21479.5369256487
+
+L'ecart-type de la Taille         : 146.5589878705796
+

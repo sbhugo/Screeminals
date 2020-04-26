@@ -1,0 +1,13 @@
+
+Le nombre d'appel de la fonction      : 516
+
+La valeur minimal entre deux appel      : 20
+
+La valeur maximal entre deux appel      : 533
+
+Le temps moyen entre deux appel         : 135.26796116504855
+
+La variance                             : 783.6829209323412
+
+L'ecart-type                            : 27.994337301181844
+

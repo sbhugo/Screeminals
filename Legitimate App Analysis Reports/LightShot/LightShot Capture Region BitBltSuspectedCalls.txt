@@ -1,0 +1,5 @@
+Return Value	API	Time of Day
+0xef011ee1	GetWindowDC ( NULL )	9:02:31.749 PM
+0x560110fe	CreateCompatibleDC ( 0xef011ee1 )	9:02:31.749 PM
+0x0085000f	SelectObject ( 0x560110fe, 0x4a051a8a )	9:02:31.749 PM
+TRUE		BitBlt ( 0x560110fe, 0, 0, 1920, 1080, 0xef011ee1, 0, 0, 1087111200 )	9:02:31.750 PM
