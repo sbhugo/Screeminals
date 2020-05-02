@@ -1,2 +1,2 @@
 # Screeminals
-A repisotory of screenloggers and legitimate screenshot-taking applications
+A repository of screenloggers and legitimate screenshot-taking applications
