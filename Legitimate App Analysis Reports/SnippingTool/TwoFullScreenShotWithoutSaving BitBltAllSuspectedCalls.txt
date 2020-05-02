@@ -1,0 +1,21 @@
+0xffffffffaa01128b  CreateCompatibleDC ( 0xffffffff9801144e )   8:06:48.217 PM
+0xffffffff900513fb  CreateCompatibleBitmap ( 0xffffffff9801144e, 1920, 1080 )   8:06:48.217 PM
+0x000000000085000f  SelectObject ( 0xffffffffaa01128b, 0xffffffff900513fb ) 8:06:48.221 PM
+TRUE    BitBlt ( 0xffffffffaa01128b, 0, 0, 1920, 1080, 0xffffffff9801144e, 0, 0, 1087111200 )   8:06:48.221 PM
+
+0xffffffffb8011945  CreateCompatibleDC ( 0x000000007001158a )   8:06:53.259 PM
+0xffffffffe80514b5  CreateCompatibleBitmap ( 0x000000007001158a, 1920, 1080 )   8:06:53.259 PM
+0x000000000085000f  SelectObject ( 0xffffffffb8011945, 0xffffffffe80514b5 ) 8:06:53.262 PM
+TRUE    BitBlt ( 0xffffffffb8011945, 0, 0, 1920, 1080, 0x000000007001158a, 0, 0, 1087111200 )   8:06:53.262 PM
+
+0xffffffffbf0112dc  CreateCompatibleDC ( 0x000000007001158a )   8:06:57.144 PM
+0xfffffffff80516f1  CreateCompatibleBitmap ( 0x000000007001158a, 1920, 1080 )   8:06:57.144 PM
+0x000000000085000f  SelectObject ( 0xffffffffbf0112dc, 0xfffffffff80516f1 ) 8:06:57.152 PM
+TRUE    BitBlt ( 0xffffffffbf0112dc, 0, 0, 1920, 1080, 0x000000007001158a, 0, 0, 1087111200 )   8:06:57.152 PM
+
+0xfffffffff60114e2  CreateCompatibleDC ( 0xffffffffcf011a38 )   8:07:04.085 PM
+0xffffffff980513cd  CreateCompatibleBitmap ( 0xffffffffcf011a38, 1920, 1080 )   8:07:04.085 PM
+0x000000000085000f  SelectObject ( 0xfffffffff60114e2, 0xffffffff980513cd ) 8:07:04.088 PM
+TRUE    BitBlt ( 0xfffffffff60114e2, 0, 0, 1920, 1080, 0xffffffffcf011a38, 0, 0, 1087111200 )   8:07:04.088 PM
+
+Nombre d'appel : 4
