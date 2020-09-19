@@ -1,0 +1,501 @@
+           fiber.scheduler - Spawning child fiber 17 (parent 1).
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   17                      app.service - Creating a ANY accept socket.
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   17                  fiber.scheduler - Spawning root fiber 18.
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   18                anynet.any_socket - Accept fiber spawned.
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   18                anynet.any_socket - Accepting from 190387589.
+   info 2020-05-27 23:21:12.931       gsvc  11088   8004   18                anynet.any_socket - Retrieving client information.
+   info 2020-05-27 23:21:13.025       gsvc  11088   8004   18                anynet.any_socket - Client-ID: 190387589 (FPR: 997360e580ff).
+   info 2020-05-27 23:21:13.025       gsvc  11088   8004   18                anynet.any_socket - Logged in from 41.97.46.52:54067 on relay 280f57c1.
+   info 2020-05-27 23:21:13.025       gsvc  11088   8004   18            anynet.connection_mgr - Making a new connection to client 997360e580ff721541d7bcc487654ab6965010f3.
+   info 2020-05-27 23:21:13.025       gsvc  11088   8004   18                  fiber.scheduler - Spawning root fiber 19.
+   info 2020-05-27 23:21:13.025       gsvc  11088   8004   18                anynet.any_socket - Accepting the connect request.
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004    3                anynet.relay_conn - Punch socket set up on port 51365.
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004   18                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004   18                anynet.any_socket - Local vport: 10, Remote vport: 10, SID: 1589611241404683
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004   18                anynet.any_socket - Sending 0 queued blobs.
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004   18                anynet.any_socket - Initiating the managed connection.
+warning 2020-05-27 23:21:13.032       gsvc  11088   8004   18                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2020-05-27 23:21:13.032       gsvc  11088   8004   19                  fiber.scheduler - Spawning child fiber 20 (parent 19).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20           anynet.punch_connector - -> Spawning: 192.168.1.9:7070 (0).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20                  fiber.scheduler - Spawning child fiber 21 (parent 20).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20           anynet.punch_connector - -> Spawning: 41.97.46.52:54078 (1).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20                  fiber.scheduler - Spawning child fiber 22 (parent 20).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20           anynet.punch_connector - -> Spawning: 41.97.46.52:7070 (2).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   20                  fiber.scheduler - Spawning child fiber 23 (parent 20).
+   info 2020-05-27 23:21:13.033       gsvc  11088   8004   21           anynet.punch_connector - [192.168.1.9:7070] Regular connect.
+   info 2020-05-27 23:21:13.034       gsvc  11088   8004   22           anynet.punch_connector - [41.97.46.52:54078] Punch connect.
+   info 2020-05-27 23:21:13.034       gsvc  11088   8004   23           anynet.punch_connector - [41.97.46.52:7070] Regular connect.
+   info 2020-05-27 23:21:13.034       gsvc  11088   8004   22           anynet.punch_connector - [41.97.46.52:54078] Connecting.
+   info 2020-05-27 23:21:13.149       gsvc  11088   8004    4                anynet.tcp_socket - Incoming connection.
+   info 2020-05-27 23:21:13.149       gsvc  11088   8004    4                anynet.tcp_socket - Accepted a connection on port 7070 (remote port 54079).
+   info 2020-05-27 23:21:13.149       gsvc  11088   8004    4                  fiber.scheduler - Spawning root fiber 24.
+   info 2020-05-27 23:21:13.149       gsvc  11088   8004   24            anynet.connection_mgr - [192.168.1.9:54079] Incoming connection.
+   info 2020-05-27 23:21:13.150       gsvc  11088   8004   24                        handshake - Server-side TLS handshake.
+   info 2020-05-27 23:21:13.186       gsvc  11088   8004   24             anynet.ssl_transform - Handshake succeeded.
+   info 2020-05-27 23:21:13.186       gsvc  11088   8004   24             anynet.ssl_transform - Cipher: AES256-GCM-SHA384 TLSv1.2 Kx=RSA Au=RSA Enc=AESGCM(256) Mac=AEAD
+   info 2020-05-27 23:21:13.186       gsvc  11088   8004   24                        handshake - TLS handshake complete. Negotiating protocol.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   24                        handshake - Using protocol version 1.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   24            anynet.connection_mgr - [192.168.1.9:54079] Managed connection.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004                       fiber.scheduler - Fiber 24 terminated.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   20                  fiber.scheduler - Spawning child fiber 25 (parent 20).
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   25           anynet.punch_connector - [192.168.1.9:54079] Incoming connection.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   25           anynet.punch_connector - [192.168.1.9:54079] Fingerprint verified.
+   info 2020-05-27 23:21:13.190       gsvc  11088   8004   25           anynet.punch_connector - [192.168.1.9:54079] Waiting for remote select.
+   info 2020-05-27 23:21:13.191       gsvc  11088   8004   25           anynet.punch_connector - [192.168.1.9:54079] Connection selected remotely.
+   info 2020-05-27 23:21:13.191       gsvc  11088   8004                       fiber.scheduler - Fiber 25 terminated.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   20           anynet.punch_connector - [192.168.1.9:54079] Connection selected.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 20 requested quit of fiber 21.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   21           anynet.punch_connector - [192.168.1.9:7070] Received quit.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 21 terminated.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 20 requested quit of fiber 22.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   22           anynet.punch_connector - [41.97.46.52:54078] Received quit.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 22 terminated.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 20 requested quit of fiber 23.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   23           anynet.punch_connector - [41.97.46.52:7070] Received quit.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 23 terminated.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004                       fiber.scheduler - Fiber 20 terminated.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   19       anynet.managed_client_conn - Connection established.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004    2            anynet.connection_mgr - Managed client connection with 997360e580ff721541d7bcc487654ab6965010f3 established.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   18                anynet.any_socket - Direct connection is available.
+   info 2020-05-27 23:21:13.192       gsvc  11088   8004   18                anynet.any_socket - Connection switch started.
+   info 2020-05-27 23:21:13.331       gsvc  11088   8004   18                anynet.any_socket - Connection switch completed.
+   info 2020-05-27 23:21:13.331       gsvc  11088   8004   18                anynet.any_socket - Sending 0 queued blobs.
+   info 2020-05-27 23:21:13.399       gsvc  11088   8004   18                anynet.any_socket - Connection switch acknowledged.
+   info 2020-05-27 23:21:13.404       gsvc  11088   8004   17                      app.service - Using protocol version 3.
+   info 2020-05-27 23:21:13.404       gsvc  11088   8004   17                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2020-05-27 23:21:13.404       gsvc  11088   8004   17                      app.session - get session id
+   info 2020-05-27 23:21:13.404       gsvc  11088   8004   17                      app.session - 1 - Connecting to console session 8 (current 0).
+   info 2020-05-27 23:21:13.406       gsvc  11088   8004   17                      app.session - Allowed interactive logon because there is a frontend.
+   info 2020-05-27 23:21:13.406       gsvc  11088   8004   17          win_app.process_starter - Spawning backend (elevated 1, session 8).
+   info 2020-05-27 23:21:13.406       gsvc  11088   8004   17          win_app.process_starter - Attempting to spawn the backend as system user.
+warning 2020-05-27 23:21:13.411       gsvc  11088   8004   17                     base.process - Could not open process 7744. Win32 error, code 5 (0x00000005).
+warning 2020-05-27 23:21:13.419       gsvc  11088   8004   17                   win_base.token - Could not open process 7744 (5).
+   info 2020-05-27 23:21:13.429       gsvc  11088   8004   17          win_app.process_starter - Backend spawned as system user.
+   info 2020-05-27 23:21:13.429       gsvc  11088   8004   17                      app.session - Backend pid spawned : 7084 -
+   info 2020-05-27 23:21:13.429       gsvc  11088   8004   17                      app.session - 1: Connecting to the backend.
+   info 2020-05-27 23:21:13.431       gsvc  11088   8004   17                      app.session - 1: IPC connection established.
+   info 2020-05-27 23:21:13.431       gsvc  11088   8004   17                      app.session - 2: Requesting a session at the backend.
+   info 2020-05-27 23:21:13.431       gsvc  11088   8004    1                      app.service - Process start: 7084 (backend:8).
+   info 2020-05-27 23:21:14.096       gsvc  11088   8004    1                      app.service - New IPC connection.
+   info 2020-05-27 23:21:14.096       gsvc  11088   8004    1                  fiber.scheduler - Spawning child fiber 26 (parent 1).
+   info 2020-05-27 23:21:14.096       gsvc  11088   8004   26                      app.service - Creating an IPC accept socket.
+   info 2020-05-27 23:21:14.097       gsvc  11088   8004   26                      app.service - Connected to 7084 (backend:8).
+   info 2020-05-27 23:21:14.097       gsvc  11088   8004   26                      app.service - Process login detected.
+   info 2020-05-27 23:21:14.256       gsvc  11088   8004   17                      app.session - Waiting to receive
+   info 2020-05-27 23:21:14.256       gsvc  11088   8004   17                      app.session - Send route info for the accept window.
+   info 2020-05-27 23:21:14.256       gsvc  11088   8004   17                      app.session - 2: Session acknowledged.
+   info 2020-05-27 23:21:14.256       gsvc  11088   8004   17                      app.session - 3: Authentication 25 0.
+   auth 2020-05-27 23:21:21.123       gsvc  11088   8004   17                      app.session - Authenticated by local user.
+   info 2020-05-27 23:21:21.124       gsvc  11088   8004   17                      app.session - 4: Waiting for the backend to be ready.
+   info 2020-05-27 23:21:21.148       gsvc  11088   8004   17                      app.session - 4: Backend ready.
+   info 2020-05-27 23:21:21.148       gsvc  11088   8004   17                      app.session - 5: Entering processing loop.
+   info 2020-05-27 23:21:21.148       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2020-05-27 23:21:21.148       gsvc  11088   8004   17        app.named_process_starter - Using existing control (10000).
+  error 2020-05-27 23:21:21.148       gsvc  11088   8004   17                      app.session - Could not create directory 
+   info 2020-05-27 23:21:21.150       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2020-05-27 23:21:21.613       gsvc  11088   8004   17                  app.session_vpn - Shutting VPN down.
+   info 2020-05-27 23:21:22.194       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 16384
+   info 2020-05-27 23:21:22.332       gsvc  11088   8004   17            app.tcp_tunnel.config - deserialized rules 2
+   info 2020-05-27 23:21:22.332       gsvc  11088   8004   17            app.tcp_tunnel.config - Forward rules:
+   info 2020-05-27 23:21:22.332       gsvc  11088   8004   17           app.session_tcp_tunnel - setup packet
+   info 2020-05-27 23:21:22.332       gsvc  11088   8004   17           app.session_tcp_tunnel - start, namespace = F5EDCACC
+   info 2020-05-27 23:21:25.456       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 24576
+   info 2020-05-27 23:22:51.486       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 32768
+   info 2020-05-27 23:23:57.853       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 40960
+   info 2020-05-27 23:29:13.663       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 49152
+   info 2020-05-27 23:31:39.304       gsvc  11088   8004   17         anynet.client_packetizer - Adjusted send buffer: 57344
+   info 2020-05-27 23:44:34.463       gsvc  11088   8004   17                      app.session - IPC socket closed unexpectedly.
+warning 2020-05-27 23:44:34.463       gsvc  11088   8004   17                      app.session - Starting a new backend in session 8.
+   info 2020-05-27 23:44:34.463       gsvc  11088   8004   17          win_app.process_starter - Spawning backend (elevated 1, session 8).
+   info 2020-05-27 23:44:34.463       gsvc  11088   8004   17          win_app.process_starter - Attempting to spawn the backend as system user.
+warning 2020-05-27 23:44:34.469       gsvc  11088   8004   17                     base.process - Could not open process 7744. Win32 error, code 5 (0x00000005).
+warning 2020-05-27 23:44:34.483       gsvc  11088   8004   17                   win_base.token - Could not open process 7744 (5).
+   info 2020-05-27 23:44:34.495       gsvc  11088   8004   17          win_app.process_starter - Backend spawned as system user.
+   info 2020-05-27 23:44:34.496       gsvc  11088   8004   17                      app.session - Backend pid spawned : 2316 -
+   info 2020-05-27 23:44:34.496       gsvc  11088   8004   17                      app.session - 1: Connecting to the backend.
+   info 2020-05-27 23:44:34.498       gsvc  11088   8004   17                      app.session - 1: IPC connection established.
+   info 2020-05-27 23:44:34.498       gsvc  11088   8004   17                      app.session - 2: Requesting a session at the backend.
+   info 2020-05-27 23:44:34.499       gsvc  11088   8004    1                      app.service - Process start: 2316 (backend:8).
+   info 2020-05-27 23:44:34.499       gsvc  11088   8004    1                      app.service - Process stop: 7084.
+   info 2020-05-27 23:44:34.499       gsvc  11088   8004   26                      app.service - IPC socket closed.
+   info 2020-05-27 23:44:34.499       gsvc  11088   8004   26                      app.service - Fiber exit (ipc).
+   info 2020-05-27 23:44:34.499       gsvc  11088   8004                       fiber.scheduler - Fiber 26 terminated.
+   info 2020-05-27 23:44:34.623       gsvc  11088   8004   17                      app.session - Waiting to receive
+
+
+# # # # # # #
+
+inting, whiteboard, tcp_tunnel, privacy_feature
+warning 2020-03-17 09:59:47.905      front   8772   8320                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2020-03-17 09:59:47.905      front   8772  11300                  app.frontend_session - Remote OS: Windows
+   info 2020-03-17 09:59:47.905      front   8772  11300                  app.frontend_session - Connection flags: direct paid 3 
+   info 2020-03-17 09:59:47.905      front   8772  11300                  app.frontend_session - Remote version: 5.4.0
+   info 2020-03-17 09:59:47.952      front   8772   9456                     gui.display_panel - Showing the wait for accept dialog.
+   info 2020-03-17 09:59:51.810      front   8772   1480                  app.frontend_session - Starting connect session.
+   info 2020-03-17 09:59:51.810      front   8772   1480             desk_rt.display_component - Startup.
+   info 2020-03-17 09:59:51.810      front   8772   1480               audio.core_audio_render - Initializing Core Audio playback.
+   info 2020-03-17 09:59:51.982      front   8772   1480               audio.core_audio_render - Audio playback initialized (shared). ch=2, bps=16, sps=48000 Hz, bufsize = 48000, flen 1000000 us
+   info 2020-03-17 09:59:51.998      front   8772   1480                  app.frontend_session - Session started.
+   info 2020-03-17 09:59:52.001      front   8772   8320                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, request_elevation, request_elevation_pw, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature
+   info 2020-03-17 09:59:52.001      front   8772  12184             desk_rt.display_component - Received monitor info, 1 monitors.
+   info 2020-03-17 09:59:52.001       ctrl   9580  10196                        ad_app.control - Session count: 1
+   info 2020-03-17 09:59:52.001       ctrl   9580  10196                       clipbrd.capture - Registered for clipboard notifications.
+   info 2020-03-17 09:59:52.001       ctrl   9580  10196                    app.ctrl_clip_comp - Ready.
+   info 2020-03-17 09:59:52.013      front   8772  11300                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.013      front   8772  11300                  app.frontend_session - Received new sas permissions: (enabled allowed unsupported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Keyboard layouts differ (l:fr != r:unknown). Enabling translation mode.
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new audio permissions: (disabled allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new permissions to block input: (allowed unsupported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received whiteboard permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new TCP tunneling permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new privacy feature permissions: (forbidden unsupported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new VPN permissions: (enabled allowed unsupported)
+   info 2020-03-17 09:59:52.014      front   8772  11300                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2020-03-17 09:59:52.038      front   8772   9456                  app.frontend_session - Remote privacy state: off (no change).
+   info 2020-03-17 09:59:52.039      front   8772   9456                     gui.display_panel - Showing the wait for image dialog.
+   info 2020-03-17 09:59:52.119      front   8772  12184                      desk_rt.d3d_view - Current mode: 1600x900, 60 Hz, 1 adapters
+   info 2020-03-17 09:59:52.120      front   8772  12184                     base.monitor_info - Monitors found: 1
+   info 2020-03-17 09:59:52.221      front   8772  12184             desk_rt.display_component - Remote resolution changed: Monitor 0, 1920x1080
+   info 2020-03-17 09:59:52.221      front   8772  12184                 desk_rt.d3d_view.port - Initialized (1920x1080, X8R8G8B8).
+   info 2020-03-17 09:59:52.279      front   8772   1516                  app.frontend_session - Requesting a new thumbnail.
+   info 2020-03-17 09:59:52.280      front   8772   1516             app.tcp_tunnel.raw_config - load_from ad.session.tcp_tunneling.fwd.local.190387589
+   info 2020-03-17 09:59:52.280      front   8772   1516             app.tcp_tunnel.raw_config - load_from ad.session.tcp_tunneling.bwd.local.190387589
+   info 2020-03-17 09:59:52.280      front   8772   1516                  app.frontend_session - handle_tcp_tunnel_config
+   info 2020-03-17 09:59:52.280      front   8772   1516                  app.frontend_session - fwd rules:
+   info 2020-03-17 09:59:52.280      front   8772   1516                  app.frontend_session - bwd rules:
+   info 2020-03-17 09:59:55.616      front   8772  12184                  app.frontend_session - Identical keyboard layout (fr). Enabling 1:1 mode.
+   info 2020-03-17 10:00:37.632      front   8772   9456                  app.frontend_session - The user has requested a connection quit.
+   info 2020-03-17 10:00:37.633      front   8772   1480                  app.frontend_session - Stopping session.
+   info 2020-03-17 10:00:37.671      front   8772   9456                          wgf.msg_loop - Received quit message.
+   info 2020-03-17 10:00:37.671      front   8772   1480               audio.core_audio_render - Cleaning up.
+   info 2020-03-17 10:00:37.711      front   8772   1480             desk_rt.display_component - Stopping objects.
+   info 2020-03-17 10:00:37.711      front   8772   1480                  app.frontend_session - Session stopped.
+  error 2020-03-17 10:00:37.711      front   8772  11300              base.prot.packet_factory - Invalid packet received (type=19, 3 bytes).
+   info 2020-03-17 10:00:37.726      front   8772   1480                      win_app.frontend - Stopping to monitor client 190387589.
+   info 2020-03-17 10:00:37.726      front   8772   1480                  app.frontend_session - Deleting session.
+   info 2020-03-17 10:00:37.726       ctrl   9580  10196                        ad_app.control - Session count: 0
+   info 2020-03-17 10:00:37.726       ctrl   9580  10196                       clipbrd.capture - Unregistered clipboard notification.
+   info 2020-03-17 10:00:37.726       ctrl   9580  10196                    app.ctrl_clip_comp - Terminated.
+  error 2020-03-17 10:00:37.726      front   8772   1480                      desk_rt.d3d_view - Refcount mismatch in d3d (1).
+   info 2020-03-17 10:00:37.726      front   8772   1480                 desk_rt.d3d_view.port - Deleted
+   info 2020-03-17 10:00:37.742      front   8772   1480                          desk_rt.view - View deleted.
+   info 2020-03-17 10:00:37.742      front   8772   1480              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2020-03-17 10:00:37.742      front   8772   1480                      win_app.frontend - Session count: 0
+   info 2020-03-17 10:00:37.742      front   8772   1480                      win_app.frontend - Frontend is shutting down.
+   info 2020-03-17 10:00:37.742      front   8772   1480                      win_app.frontend - Frontend shutdown.
+   info 2020-03-17 10:00:37.742      front   8772   1480                      win_app.frontend - Frontend terminated.
+   info 2020-03-17 10:00:37.742      front   8772   9456                      win_app.frontend - Terminating.
+   info 2020-03-17 10:00:37.742      front   8772   9456              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2020-03-17 10:00:37.742      front   8772   9456                                  main - Terminated.
+ * * * * * * * * * * * * * * * * * *
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * AnyDesk Windows Startup *
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * Version 5.4.0 (win_5.4.0 cc1f57f21e495680dee65620dd819a25e4378448)
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * Custom Client (no ID)
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * Checksum 54ebdd455e4571df0a8046c276ec5b95
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * Build 20191118191617
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - * Copyright (C) 2019 philandro Software GmbH *
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - 
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - Process started at 2020-05-27. PID 2580. OS is Windows 10 (64 bit)
+   info 2020-05-27 23:20:33.691      front   2580   8512                         impl_selector - using sse2 (intrinsics)
+   info 2020-05-27 23:20:33.691      front   2580   8512                                  main - Install status: same version (>=4)
+   info 2020-05-27 23:20:33.797      front   2580   8512                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2020-05-27 23:20:33.797      front   2580   8512                           gui.gui_app - Using std-resolution bitmaps.
+   info 2020-05-27 23:20:33.812      front   2580   8512                       base.signal.hub - 4 threads.
+warning 2020-05-27 23:20:33.816      front   2580   8512                         app.user_info - Could not update user image (app.bitmap Win32 error, code 2147942403 (0x80070003).). Defaulting.
+   info 2020-05-27 23:20:33.853      front   2580   8512                            app.roster - Updating the jump list
+   info 2020-05-27 23:20:33.942      front   2580   8512                  os_win.jump_list_mgr - 0 items found
+   info 2020-05-27 23:20:34.197      front   2580   8512                        gui.mainwindow - Main window created (standard mode).
+   info 2020-05-27 23:20:34.461      front   2580   6600                      win_app.frontend - Frontend startup (not elevated).
+warning 2020-05-27 23:20:34.462      front   2580   8512                         app.user_info - Could not update user image (app.bitmap Win32 error, code 2147942403 (0x80070003).). Defaulting.
+   info 2020-05-27 23:20:34.474      front   2580   8512                          wgf.msg_loop - Waiting for events.
+  error 2020-05-27 23:20:34.605      front   2580   6600                      base.ipc.section - Couldn't open the SHM 'Global\ad_540_gsystem_shm' (2).
+  error 2020-05-27 23:20:34.605      front   2580   6600                      base.ipc.section - Couldn't open the SHM 'Local\ad_540_lsystem_shm' (2).
+   info 2020-05-27 23:20:34.605      front   2580   6600                      win_app.frontend - Service not running. Requesting elevation for service start.
+   info 2020-05-27 23:20:34.605      front   2580   6600                      os_win.start_uac - Opening UAC dialog.
+   info 2020-05-27 23:20:34.605      front   2580   6600                      os_win.start_uac - line: "C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --start-service
+ * * * * * * * * * * * * * * * * * *
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - * AnyDesk Windows Startup *
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - * Version 5.4.0 (win_5.4.0 cc1f57f21e495680dee65620dd819a25e4378448)
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - * Custom Client (no ID)
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - 
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - Process started at 2020-05-27. PID 7660. OS is Windows 10 (64 bit)
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                         impl_selector - using sse2 (intrinsics)
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880                                  main - Starting the service.
+   info 2020-05-27 23:20:46.763  svc_strtr   7660  12880            installation.svc_installer - Starting the service.
+   info 2020-05-27 23:20:47.246  svc_strtr   7660  12880            installation.svc_installer - Service started.
+   info 2020-05-27 23:20:47.246  svc_strtr   7660  12880            installation.svc_installer - Waiting for service.
+   info 2020-05-27 23:20:47.347  svc_strtr   7660  12880            installation.svc_installer - The service is running.
+   info 2020-05-27 23:20:47.347  svc_strtr   7660  12880                                  main - Done.
+   info 2020-05-27 23:20:47.347  svc_strtr   7660  12880                                  main - Terminated.
+   info 2020-05-27 23:20:47.372      front   2580   6600            installation.svc_installer - Waiting for service.
+   info 2020-05-27 23:20:47.373      front   2580   6600            installation.svc_installer - The service is running.
+   info 2020-05-27 23:20:47.373      front   2580   6600                      win_app.frontend - Logging the frontend in.
+warning 2020-05-27 23:20:47.373      front   2580   6600             app.named_process_starter - Starting control process in session 8.
+warning 2020-05-27 23:20:47.374      front   2580   6600             app.named_process_starter - Could not query the user token (1314).
+   info 2020-05-27 23:20:47.374      front   2580   6600             app.named_process_starter - Spawning process directly in current session 8.
+warning 2020-05-27 23:20:47.380      front   2580   6600                         app.user_info - Could not update user image (app.bitmap Win32 error, code 2147942403 (0x80070003).). Defaulting.
+  error 2020-05-27 23:20:47.387      front   2580   6600                    os_win.fs_sentinel - Failed to monitor 'C:\Users\Public\AccountPictures\S-1-5-21-638288848-770886009-181860400-1001' (2).
+   info 2020-05-27 23:20:47.387      front   2580   6600                      win_app.frontend - Frontend startup complete.
+ * * * * * * * * * * * * * * * * * *
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                                  main - * AnyDesk Windows Startup *
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                                  main - * Version 5.4.0 (win_5.4.0 cc1f57f21e495680dee65620dd819a25e4378448)
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                                  main - * Custom Client (no ID)
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                                  main - 
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                                  main - Process started at 2020-05-27. PID 10000. OS is Windows 10 (64 bit)
+   info 2020-05-27 23:20:47.965       ctrl  10000   8392                         impl_selector - using sse2 (intrinsics)
+   info 2020-05-27 23:20:48.003       ctrl  10000   8392                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2020-05-27 23:20:48.003       ctrl  10000   8392                           gui.gui_app - Using std-resolution bitmaps.
+   info 2020-05-27 23:20:48.019       ctrl  10000   8392                       base.signal.hub - 1 threads.
+   info 2020-05-27 23:20:48.019       ctrl  10000   8392                       clipbrd.capture - Empty format set.
+   info 2020-05-27 23:20:48.019       ctrl  10000   8392                    app.tunnel_ft_comp - Ready.
+   info 2020-05-27 23:20:48.020       ctrl  10000   8392                          wgf.msg_loop - Waiting for events.
+   info 2020-05-27 23:20:48.020       ctrl  10000   1892                        ad_app.control - Control startup.
+   info 2020-05-27 23:20:48.020       ctrl  10000   1892                        ad_app.control - Connecting to the service.
+   info 2020-05-27 23:20:48.021       ctrl  10000   1892                       clipbrd.capture - Setting new capture formats: text files.
+   info 2020-05-27 23:20:48.025       ctrl  10000  10548                        ad_app.control - Session count: 0
+warning 2020-05-27 23:20:48.048       ctrl  10000   1892                        ad_app.control - Could not update account image (app.bitmap Win32 error, code 2147942403 (0x80070003).).
+   info 2020-05-27 23:20:48.473      front   2580   5552                     base.monitor_info - Monitors found: 2
+   info 2020-05-27 23:20:49.021       ctrl  10000   8392                           ad_app.tray - Created the icon.
+ * * * * * * * * * * * * * * * * * *
+   info 2020-05-27 23:21:13.886       back   7084   2264                                  main - * AnyDesk Windows Startup *
+   info 2020-05-27 23:21:13.886       back   7084   2264                                  main - * Version 5.4.0 (win_5.4.0 cc1f57f21e495680dee65620dd819a25e4378448)
+   info 2020-05-27 23:21:13.886       back   7084   2264                                  main - * Custom Client (no ID)
+   info 2020-05-27 23:21:13.886       back   7084   2264                                  main - 
+   info 2020-05-27 23:21:13.886       back   7084   2264                                  main - Process started at 2020-05-27. PID 7084. OS is Windows 10 (64 bit)
+   info 2020-05-27 23:21:13.886       back   7084   2264                         impl_selector - using sse2 (intrinsics)
+   info 2020-05-27 23:21:14.057       back   7084   2264                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2020-05-27 23:21:14.057       back   7084   2264                           gui.gui_app - Using std-resolution bitmaps.
+   info 2020-05-27 23:21:14.072       back   7084   2264                       base.signal.hub - 4 threads.
+   info 2020-05-27 23:21:14.073       back   7084   2264          capture.privacy_feature_dwm1 - Using surrogate.
+   info 2020-05-27 23:21:14.089       back   7084   2264                       win_app.backend - Starting backend.
+   info 2020-05-27 23:21:14.093       back   7084  10596                       win_app.backend - Backend is starting up.
+   info 2020-05-27 23:21:14.094       back   7084  10596             app.named_process_starter - Using existing control (10000).
+   info 2020-05-27 23:21:14.095       back   7084  10596                       win_app.backend - Using global namespace.
+   info 2020-05-27 23:21:14.097       back   7084   5668                       win_app.backend - Incoming IPC connection.
+   info 2020-05-27 23:21:14.097       back   7084  10596                       win_app.backend - Starting the printer_worker.
+   info 2020-05-27 23:21:14.097       back   7084  10596                       win_app.backend - Backend startup finished.
+   info 2020-05-27 23:21:14.097       back   7084   5668                   app.backend_session - Initializing session.
+   info 2020-05-27 23:21:14.098       back   7084   5668                       win_app.backend - Session count: 1
+   info 2020-05-27 23:21:14.098       back   7084  10596                   app.backend_session - Starting sockets.
+   info 2020-05-27 23:21:14.098       back   7084   2264                          wgf.msg_loop - Waiting for events.
+   info 2020-05-27 23:21:14.098       back   7084   8404                   app.backend_session - Incoming session request: Micro-Force (190387589)
+   info 2020-05-27 23:21:14.099       back   7084   8404                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, request_elevation, request_elevation_pw, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature
+   info 2020-05-27 23:21:14.099       back   7084   8404                   app.backend_session - Remote OS: Windows, Connection flags: direct paid 3 
+   info 2020-05-27 23:21:14.099       back   7084   8404                   app.backend_session - Remote version: 5.4.0
+   info 2020-05-27 23:21:14.099       back   7084   8404                   app.backend_session - Trying to register a new backend session.
+   info 2020-05-27 23:21:14.127       back   7084   8816              win_app.desktop_switcher - Desktop change:  --> Default
+   info 2020-05-27 23:21:14.127       back   7084   8816              win_app.desktop_switcher - Suspending capture.
+   info 2020-05-27 23:21:14.127       back   7084   8816              capture.fallback_capture - Switching to none
+   info 2020-05-27 23:21:14.127       back   7084   8816              win_app.desktop_switcher - Initiating the desktop switch.
+   info 2020-05-27 23:21:14.278       back   7084   8816                   desk_rt.auto_adjust - Route type: direct (LAN)
+   info 2020-05-27 23:21:14.279       back   7084  10596              win_app.desktop_switcher - Desktop switch finished. Restarting capture.
+   info 2020-05-27 23:21:14.279       back   7084  10596              capture.fallback_capture - Switching to dda
+   info 2020-05-27 23:21:14.279       back   7084  10596              capture.fallback_capture - Selecting DDA capture.
+   info 2020-05-27 23:21:14.279       back   7084  10596              win_app.desktop_switcher - Resuming the poll timer.
+   info 2020-05-27 23:21:21.144       back   7084  10596                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
+   info 2020-05-27 23:21:21.145       back   7084  10596                       desk_rt.encoder - 2 segments.
+   info 2020-05-27 23:21:21.145       back   7084  10596                     base.monitor_info - Monitors found: 2
+   info 2020-05-27 23:21:21.146       back   7084  10596             desk_rt.capture_component - Starting capture.
+   info 2020-05-27 23:21:21.146       back   7084   1148            capture.dda_stream_capture - Initializing D3D.
+   info 2020-05-27 23:21:21.147       back   7084   5700             desk_rt.capture_component - Keyboard layout changed to: unknown
+   info 2020-05-27 23:21:21.147       back   7084  10596             desk_rt.capture_component - Sending screen privacy status: off (no change).
+   info 2020-05-27 23:21:21.148       back   7084  10596                   app.backend_session - Sending input permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.148       back   7084  10596                   app.backend_session - Sending SAS permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.150       ctrl  10000  10548                        ad_app.control - Session count: 1
+   info 2020-05-27 23:21:21.150       ctrl  10000  10548                       clipbrd.capture - Registered for clipboard notifications.
+   info 2020-05-27 23:21:21.150       ctrl  10000  10548                    app.ctrl_clip_comp - Ready.
+   info 2020-05-27 23:21:21.180       back   7084   5668                   desk_rt.hdd_monitor - Initializing.
+   info 2020-05-27 23:21:21.402       back   7084   8816                   app.backend_session - Received new mouse cursor parameters (0).
+   info 2020-05-27 23:21:21.403       back   7084   8404                   app.backend_session - Received new gui feedback parameters (0).
+   info 2020-05-27 23:21:21.403       back   7084   8816           desk_rt.system_event_source - Disabled mouse cursor
+   info 2020-05-27 23:21:21.403       back   7084   8404           desk_rt.system_event_source - Disabled gui feedback
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending audio permissions (disabled allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending clipboard permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending block input permissions (allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending file manager permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending lock account permissions (allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending record session permissions (allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending whiteboard permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending TCP tunneling permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending privacy permissions (forbidden supported)
+   info 2020-05-27 23:21:21.609       back   7084  10596                   app.backend_session - Sending VPN permissions (enabled allowed unsupported)
+   info 2020-05-27 23:21:21.609       back   7084  10596              audio.core_audio_capture - Initializing Core Audio capture. Target frame length 20 ms
+   info 2020-05-27 23:21:21.684       back   7084  10596              audio.core_audio_capture - Buffer sizes do not match (3840, 4224).
+   info 2020-05-27 23:21:21.684       back   7084  10596              audio.core_audio_capture - Audio loopback capture initialized. ch=2, bps=16, sps=48000 Hz, bufsize = 4224, flen 22000 us, dev. p. = 0
+   info 2020-05-27 23:21:21.684       back   7084   8816                   app.backend_session - Sending audio permissions (enabled allowed supported)
+   info 2020-05-27 23:21:21.684       back   7084   8816                   app.backend_session - Received new image quality (7).
+   info 2020-05-27 23:21:21.684       back   7084   8404                   app.backend_session - Received new video quality (20).
+   info 2020-05-27 23:21:21.685       back   7084   8816                   app.backend_session - Received new auto-quality preset (2).
+   info 2020-05-27 23:21:21.685       back   7084   8816                   desk_rt.auto_adjust - New preset: 1.
+   info 2020-05-27 23:21:21.685       back   7084   8816                   desk_rt.auto_adjust - Adjusting for LAN.
+   info 2020-05-27 23:21:21.685       back   7084   8816                   desk_rt.auto_adjust - Adjusting for >= 1.500 kb/s
+   info 2020-05-27 23:21:21.685       back   7084   8816                    audio.opus_encoder - Bitrate set to 260309 bits/s.
+   info 2020-05-27 23:21:21.698       back   7084   8816                   app.backend_session - Enabling capture.
+   info 2020-05-27 23:21:21.777       back   7084  10596                   app.backend_session - Session started (ok).
+   info 2020-05-27 23:21:21.802       back   7084   5700                   desk_rt.auto_adjust - Route type: direct (LAN)
+   info 2020-05-27 23:21:21.875       back   7084   1148            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:21:21.893       back   7084   1148            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:21:21.893       back   7084   1148            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+   info 2020-05-27 23:21:21.896       back   7084   1148            capture.dda_stream_capture - Starting capture on .
+   info 2020-05-27 23:21:21.971       back   7084   8404                       desk_rt.encoder - Format changed to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:21:22.331       back   7084   8404                   app.backend_session - Received a thumbnail request.
+   info 2020-05-27 23:21:22.757       back   7084   8404                   app.backend_session - Sending a new thumbnail.
+   info 2020-05-27 23:21:25.223       back   7084   5700             desk_rt.capture_component - Keyboard layout changed to: fr
+   info 2020-05-27 23:24:39.982       back   7084   8404              win_app.desktop_switcher - Desktop composition has changed (0).
+   info 2020-05-27 23:24:39.982       back   7084   8404              win_app.desktop_switcher - Suspending capture.
+   info 2020-05-27 23:24:39.982       back   7084   8404              capture.fallback_capture - Switching to none
+   info 2020-05-27 23:24:39.982       back   7084   8404              win_app.desktop_switcher - Initiating the desktop switch.
+   info 2020-05-27 23:24:39.993       back   7084  10596            capture.dda_stream_capture - Stopping.
+   info 2020-05-27 23:24:40.171       back   7084   1148            capture.dda_stream_capture - Access lost.
+   info 2020-05-27 23:24:40.171       back   7084   1148            capture.dda_stream_capture - Releasing the pool
+   info 2020-05-27 23:24:40.202       back   7084   1148            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:24:40.208       back   7084   1148            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:24:40.208       back   7084   1148            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+warning 2020-05-27 23:24:40.253       back   7084   1148            capture.dda_stream_capture - Unable to reinit d3d (capture.dda_stream_capture Win32 error, code 2147942405 (0x80070005).). Using fallback.
+   info 2020-05-27 23:24:40.253       back   7084   1148                   desk_rt.dda_capture - Using fallback
+   info 2020-05-27 23:24:40.380       back   7084  10596            capture.dda_stream_capture - Stopped.
+   info 2020-05-27 23:24:40.380       back   7084  10596                   desk_rt.dda_capture - Stopped.
+   info 2020-05-27 23:24:40.380       back   7084  10596              win_app.desktop_switcher - Desktop switch finished. Restarting capture.
+   info 2020-05-27 23:24:40.380       back   7084  10596              capture.fallback_capture - Switching to dda
+   info 2020-05-27 23:24:40.380       back   7084  10596              capture.fallback_capture - Selecting DDA capture.
+   info 2020-05-27 23:24:40.381       back   7084  10596              win_app.desktop_switcher - Resuming the poll timer.
+   info 2020-05-27 23:24:40.381       back   7084   7992            capture.dda_stream_capture - Initializing D3D.
+   info 2020-05-27 23:24:40.407       back   7084   7992            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:24:40.407       back   7084   7992            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:24:40.407       back   7084   7992            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+  error 2020-05-27 23:24:40.408       back   7084   7992            capture.dda_stream_capture - Could not init dda (capture.dda_stream_capture Win32 error, code 2147942405 (0x80070005).).
+   info 2020-05-27 23:24:40.408       back   7084   7992                   desk_rt.dda_capture - Using fallback
+   info 2020-05-27 23:24:40.408       back   7084   7992            capture.dda_stream_capture - Releasing the pool
+   info 2020-05-27 23:24:40.408       back   7084   7992            capture.dda_stream_capture - Capture stopped.
+   info 2020-05-27 23:24:40.408       back   7084   8816              capture.fallback_capture - Switching to gdi
+   info 2020-05-27 23:24:40.408       back   7084   8816              capture.fallback_capture - Selecting GDI capture.
+   info 2020-05-27 23:24:40.409       back   7084   8816                     base.monitor_info - Monitors found: 2
+   info 2020-05-27 23:24:40.409       back   7084  10596            capture.dda_stream_capture - Stopping.
+   info 2020-05-27 23:24:40.412       back   7084  10596            capture.dda_stream_capture - Stopped.
+   info 2020-05-27 23:24:40.412       back   7084  10596                   desk_rt.dda_capture - Stopped.
+   info 2020-05-27 23:24:40.429       back   7084   8816                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:24:40.446       back   7084   5700                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:24:40.463       back   7084   5700                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:24:40.653       back   7084   5700                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:24:40.796       back   7084   5700              win_app.desktop_switcher - Desktop composition has changed (1).
+   info 2020-05-27 23:24:40.796       back   7084   5700              win_app.desktop_switcher - Suspending capture.
+   info 2020-05-27 23:24:40.796       back   7084   5700              capture.fallback_capture - Switching to none
+   info 2020-05-27 23:24:40.796       back   7084   5700              win_app.desktop_switcher - Initiating the desktop switch.
+   info 2020-05-27 23:24:41.604       back   7084  10596              win_app.desktop_switcher - Desktop switch finished. Restarting capture.
+   info 2020-05-27 23:24:41.604       back   7084  10596              capture.fallback_capture - Switching to dda
+   info 2020-05-27 23:24:41.604       back   7084  10596              capture.fallback_capture - Selecting DDA capture.
+   info 2020-05-27 23:24:41.605       back   7084  10596              win_app.desktop_switcher - Resuming the poll timer.
+   info 2020-05-27 23:24:41.605       back   7084   3580            capture.dda_stream_capture - Initializing D3D.
+   info 2020-05-27 23:24:41.649       back   7084   3580            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:24:41.650       back   7084   3580            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:24:41.650       back   7084   3580            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+   info 2020-05-27 23:24:41.651       back   7084   3580            capture.dda_stream_capture - Starting capture on .
+   info 2020-05-27 23:40:44.595       back   7084   5700              win_app.desktop_switcher - Desktop change: Default --> Winlogon
+   info 2020-05-27 23:40:44.595       back   7084   5700              win_app.desktop_switcher - Suspending capture.
+   info 2020-05-27 23:40:44.595       back   7084   5700              capture.fallback_capture - Switching to none
+   info 2020-05-27 23:40:44.596       back   7084   5700              win_app.desktop_switcher - Initiating the desktop switch.
+   info 2020-05-27 23:40:44.846       back   7084  10596            capture.dda_stream_capture - Stopping.
+   info 2020-05-27 23:40:44.852       back   7084   3580            capture.dda_stream_capture - Releasing the pool
+   info 2020-05-27 23:40:44.852       back   7084   3580            capture.dda_stream_capture - Capture stopped.
+   info 2020-05-27 23:40:44.859       back   7084  10596            capture.dda_stream_capture - Stopped.
+   info 2020-05-27 23:40:44.859       back   7084  10596                   desk_rt.dda_capture - Stopped.
+   info 2020-05-27 23:40:44.859       back   7084  10596              win_app.desktop_switcher - Desktop switch finished. Restarting capture.
+   info 2020-05-27 23:40:44.859       back   7084  10596              capture.fallback_capture - Switching to dda
+   info 2020-05-27 23:40:44.859       back   7084  10596              capture.fallback_capture - Selecting DDA capture.
+   info 2020-05-27 23:40:44.859       back   7084  10596              win_app.desktop_switcher - Resuming the poll timer.
+   info 2020-05-27 23:40:44.859       back   7084  11784            capture.dda_stream_capture - Initializing D3D.
+   info 2020-05-27 23:40:44.890       back   7084  11784            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:40:44.891       back   7084  11784            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:40:44.891       back   7084  11784            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+  error 2020-05-27 23:40:44.891       back   7084  11784            capture.dda_stream_capture - Could not init dda (capture.dda_stream_capture Win32 error, code 2147942405 (0x80070005).).
+   info 2020-05-27 23:40:44.891       back   7084  11784                   desk_rt.dda_capture - Using fallback
+   info 2020-05-27 23:40:44.891       back   7084  11784            capture.dda_stream_capture - Releasing the pool
+   info 2020-05-27 23:40:44.891       back   7084  11784            capture.dda_stream_capture - Capture stopped.
+   info 2020-05-27 23:40:44.891       back   7084   8816              capture.fallback_capture - Switching to gdi
+   info 2020-05-27 23:40:44.891       back   7084   8816              capture.fallback_capture - Selecting GDI capture.
+   info 2020-05-27 23:40:44.892       back   7084   8816                     base.monitor_info - Monitors found: 2
+   info 2020-05-27 23:40:44.892       back   7084  10596            capture.dda_stream_capture - Stopping.
+   info 2020-05-27 23:40:44.898       back   7084  10596            capture.dda_stream_capture - Stopped.
+   info 2020-05-27 23:40:44.898       back   7084  10596                   desk_rt.dda_capture - Stopped.
+   info 2020-05-27 23:40:44.915       back   7084   8404                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:40:44.961       back   7084   8816                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:40:45.024       back   7084   8816                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:40:45.074       back   7084   5668                       gdi.gdi_surface - Initialized to 1920x1080 (X8R8G8B8).
+   info 2020-05-27 23:41:40.786       back   7084   5700              win_app.desktop_switcher - Desktop change: Winlogon --> Default
+   info 2020-05-27 23:41:40.786       back   7084   5700              win_app.desktop_switcher - Suspending capture.
+   info 2020-05-27 23:41:40.786       back   7084   5700              capture.fallback_capture - Switching to none
+   info 2020-05-27 23:41:40.786       back   7084   5700              win_app.desktop_switcher - Initiating the desktop switch.
+   info 2020-05-27 23:41:41.037       back   7084  10596              win_app.desktop_switcher - Desktop switch finished. Restarting capture.
+   info 2020-05-27 23:41:41.037       back   7084  10596              capture.fallback_capture - Switching to dda
+   info 2020-05-27 23:41:41.037       back   7084  10596              capture.fallback_capture - Selecting DDA capture.
+   info 2020-05-27 23:41:41.037       back   7084  10596              win_app.desktop_switcher - Resuming the poll timer.
+   info 2020-05-27 23:41:41.037       back   7084   8964            capture.dda_stream_capture - Initializing D3D.
+   info 2020-05-27 23:41:41.066       back   7084   8964            capture.dda_stream_capture - Initializing DXGI.
+   info 2020-05-27 23:41:41.066       back   7084   8964            capture.dda_stream_capture - Output name '\\.\DISPLAY2'
+   info 2020-05-27 23:41:41.066       back   7084   8964            capture.dda_stream_capture - Using '\\.\DISPLAY2' (1)
+   info 2020-05-27 23:41:41.067       back   7084   8964            capture.dda_stream_capture - Starting capture on .
+   info 2020-05-27 23:43:12.037       back   7084   8404                      gui.arrow_window - Created.
+ * * * * * * * * * * * * * * * * * *
+  crash 2020-05-27 23:44:32.893       back   7084   8816                            eh.handler - A fatal application error occured in AnyDesk.
+  crash 2020-05-27 23:44:32.893       back   7084   8816                            eh.handler - AnyDesk is unable to recover from this failure.
+  crash 2020-05-27 23:44:32.893       back   7084   8816                            eh.handler - Please send the following report to our support, so we can fix the problem.
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - Any information on what you were doing at the time the fault occured,
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - or better yet, what actions reliably lead to this crash, are very helpful for
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - fixing the problem.
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - * * * C R A S H  R E P O R T * * *
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - Commit: cc1f57f21e495680dee65620dd819a25e4378448
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - Checksum: 54ebdd455e4571df0a8046c276ec5b95
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - Timestamp: 20191118191617
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - OS is Windows 10 (64 bit)
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - Unhandled exception 0xc0000005 (access violation) at address 0x05BD0CC5 (thread 8816).
+  crash 2020-05-27 23:44:32.894       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:33.115       back   7084   8816                            eh.handler -  * * Backtrace Thread 8816 * *
+  crash 2020-05-27 23:44:33.115       back   7084   8816                            eh.handler - !          :0x05bd0cc5    +0x0 ((null):0)
+  crash 2020-05-27 23:44:33.209       back   7084   8816                            eh.handler - !          :0x05bd0cc5    +0x0 ((null):0)
+  crash 2020-05-27 23:44:33.230       back   7084   8816                            eh.handler - !    USER32:0x0003ddef    CreateIconIndirect+0x5f ((null):0)
+  crash 2020-05-27 23:44:33.230       back   7084   8816                            eh.handler - !    USER32:0x0003dd64    CopyIcon+0x24 ((null):0)
+  crash 2020-05-27 23:44:33.231       back   7084   8816                            eh.handler - !     image:0x001e69f8    CopyIcon+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.231       back   7084   8816                            eh.handler - !  ucrtbase:0x0005fa55    o__CIpow+0xc5 ((null):0)
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - !KERNELBASE:0x000ff066    WaitForSingleObjectEx+0xb6 ((null):0)
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - EAX: 0x00000018, EBX: 0x03f6f280, ECX: 0x1e65d7e7, EDX: 0x00000000, ESI: 0x00000001, EDI: 0x00000000
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - EBP: 0x00000000, ESP: 0x03f6f3ac, FLGS: 0x00010297
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler -  * * Backtrace Thread 2264 * *
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - !    win32u:0x0000708c    NtUserMsgWaitForMultipleObjectsEx+0xc ((null):0)
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - !    win32u:0x0000708c    NtUserMsgWaitForMultipleObjectsEx+0xc ((null):0)
+  crash 2020-05-27 23:44:33.232       back   7084   8816                            eh.handler - !    USER32:0x0002ba1d    MsgWaitForMultipleObjectsEx+0x4d ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     image:0x002f2b8c    MsgWaitForMultipleObjectsEx+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     image:0x00404900    MsgWaitForMultipleObjectsEx+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - EAX: 0x00000000, EBX: 0x00000000, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x00000000, EDI: 0x00e08000
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - EBP: 0x00000000, ESP: 0x0112ba90, FLGS: 0x00000206
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - 
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler -  * * Backtrace Thread 10596 * *
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     ntdll:0x0007216c    ZwDelayExecution+0xc ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     ntdll:0x0007216c    ZwDelayExecution+0xc ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     image:0x00354aa6    ZwDelayExecution+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.234       back   7084   8816                            eh.handler - !     image:0x00344d4e    ZwDelayExecution+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.235       back   7084   8816                            eh.handler - !     image:0x00343acf    ZwDelayExecution+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.235       back   7084   8816                            eh.handler - !     image:0x00343b65    ZwDelayExecution+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.235       back   7084   8816                            eh.handler - !     image:0x00343a53    ZwDelayExecution+0x0 ((null):0)
+  crash 2020-05-27 23:44:33.236       back   7084   8816                            eh.handler - !     ntdll:0x00067c24    RtlGetAppContainerNamedObjectPath+0xe4 ((null):0)
+  crash 2020-05-27 23:44:33.236       back   7084   8816                            eh.handler - !     ntdll:0x00067bf4    RtlGetAppContainerNamedObjectPath+0xb4 ((null):0)
+  crash 2020-05-27 23:44:33.236       back   7084   8816                            eh.handler - EAX: 0x811c4fff, EBX: 0x00000000, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x00000001, EDI: 0x03a6f7b4
+  crash 2020-05-27 23:44:33.236       back   7084   8816                            eh.handler - EBP: 0x03a6f94c, ESP: 0x03a6f944, FLGS: 0x00000206
+ * * * * * * * * * * * * * * * * * *
+  crash 2020-05-27 23:44:33.236       back   7084   8816                            eh.handler - Abnormal program termination.
+ * * * * * * * * * * * * * * * * * *
+   info 2020-05-27 23:44:34.971         ch  11912   7676                                  main - * AnyDesk Windows Startup *
+   info 2020-05-27 23:44:34.971         ch  11912   7676                                  main - * Version 5.4.0 (win_5.4.0 cc1f57f21e495680dee65620dd819a25e4378448)
+   info 2020-05-27 23:44:34.971         ch  11912   7676                                  main - * Custom Client (no ID)
+   info 2020-05-27 23:44:34.971         ch  11912   7676                                  main - 
+   info 2020-05-27 23:44:34.971         ch  11912   7676                                  main - Process started at 2020-05-27. PID 11912. OS is Windows 10 (64 bit)
+   info 2020-05-27 23:44:34.971         ch  11912   7676                         impl_selector - using sse2 (intrinsics)
